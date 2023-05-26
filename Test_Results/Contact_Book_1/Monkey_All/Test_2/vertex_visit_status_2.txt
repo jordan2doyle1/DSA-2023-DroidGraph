@@ -1,0 +1,744 @@
+---------- Controls Visited (3) ----------
+dialog_oc_cancel
+fab
+Unknown
+
+---------- Controls Not Visited (79) ----------
+settings_permissions_but
+button_star
+dialog_em_spinner
+button_5
+cont_detail_add_email_list
+dialog_en_save
+dialog_qr_cancel
+settings_email_category_but
+Unknown
+settings_perm_sw_camera
+dialog_en_spinner
+main_toolbar_searchtext
+dialog_en_text
+cont_view_name
+button_1
+button_2
+main_toolbar_settings
+contview_toolbar_qr
+Unknown
+cont_view_number_list
+dialog_cat_text
+dialog_delete_cancel
+cont_detail_add_number
+button_del
+dialog_qr_image
+settings_number_category_but
+settings_ownnumber_edit
+dialog_em_text
+dialog_en_cancel
+settings_ownnumber_show
+cont_detail_add_email
+contview_toolbar_title
+number_textpad
+contdet_toolbar_isntfav
+dialog_delete_text
+dialog_em_save
+button_9
+contdet_toolbar_isfav
+contdet_toolbar_save
+contview_toolbar_delete
+button_hash
+dialog_delete_delete
+settings_category_list
+contview_toolbar_edit
+cont_view_avatar
+contview_toolbar_isfav
+dialog_oc_save
+main_toolbar_search_exit
+button_7
+dialog_oc_name
+settings_perm_sw_callphone
+dialog_em_cancel
+Unknown
+button_call
+fab_numberpad
+dialog_oc_number
+Unknown
+settings_email_category_list
+settings_email_category_but
+Unknown
+toolbar_main
+main_toolbar_search
+button_6
+contdet_toolbar_qr_f
+contview_toolbar_isntfav
+cont_detail_name
+dialog_cat_save
+contdet_toolbar_title
+main_toolbar_title
+Unknown
+cont_view_add_email_list
+cont_detail_number_list
+button_0
+settings_category_but
+cont_detail_avatar
+button_3
+button_8
+button_4
+dialog_cat_cancel
+
+---------- Methods Visited (53) ----------
+<de.hdodenhof.circleimageview.CircleImageView: android.graphics.Bitmap getBitmapFromDrawable(android.graphics.drawable.Drawable)>
+<de.hskl.contacts.MainActivity$8: void <init>(de.hskl.contacts.MainActivity)>
+<de.hskl.contacts.Helper.DBHelper: java.util.List getContactHashListshort()>
+<de.hskl.contacts.Helper.DBHelper: long insertEmailCategory(java.lang.String)>
+<de.hskl.contacts.MainActivity$11: void <init>(de.hskl.contacts.MainActivity)>
+<de.hskl.contacts.contact_create_activity: java.util.List getEmailHashList()>
+<de.hskl.contacts.contact_create_activity: void setListViewHeightBasedOnChildren(android.widget.ListView)>
+<de.hdodenhof.circleimageview.CircleImageView: void setImageDrawable(android.graphics.drawable.Drawable)>
+<de.hskl.contacts.MainActivity$1: void <init>(de.hskl.contacts.MainActivity,android.widget.TextView,android.widget.EditText,android.widget.ImageButton,android.widget.ImageButton)>
+<de.hdodenhof.circleimageview.CircleImageView$OutlineProvider: void <init>(de.hdodenhof.circleimageview.CircleImageView,de.hdodenhof.circleimageview.CircleImageView$1)>
+<de.hdodenhof.circleimageview.CircleImageView: void applyColorFilter()>
+<de.hskl.contacts.MainActivity$4: void <init>(de.hskl.contacts.MainActivity,android.app.Dialog,android.content.SharedPreferences$Editor)>
+<de.hdodenhof.circleimageview.CircleImageView: void setup()>
+<de.hskl.contacts.MainActivity$10: void <init>(de.hskl.contacts.MainActivity,android.content.Context,java.util.List,int,java.lang.String[],int[])>
+<de.hskl.contacts.contact_create_activity: void setListViews()>
+<de.hskl.contacts.contact_create_activity$3: void <init>(de.hskl.contacts.contact_create_activity)>
+<de.hdodenhof.circleimageview.CircleImageView: void updateShaderMatrix()>
+<de.hdodenhof.circleimageview.CircleImageView: void <clinit>()>
+<de.hskl.contacts.MainActivity$2: void <init>(de.hskl.contacts.MainActivity,android.widget.ImageButton,android.widget.ImageButton,android.widget.TextView,android.widget.EditText)>
+<de.hskl.contacts.contact_create_activity$8: void <init>(de.hskl.contacts.contact_create_activity)>
+<de.hskl.contacts.MainActivity$8: void onClick(android.view.View)>
+<de.hdodenhof.circleimageview.CircleImageView: android.graphics.RectF calculateBounds()>
+<de.hskl.contacts.contact_create_activity$9: void <init>(de.hskl.contacts.contact_create_activity)>
+<de.hskl.contacts.MainActivity$5: void onClick(android.view.View)>
+<de.hdodenhof.circleimageview.CircleImageView: void initializeBitmap()>
+<de.hskl.contacts.Helper.DBHelper: long insertCategory(java.lang.String)>
+<de.hskl.contacts.contact_create_activity$4: void <init>(de.hskl.contacts.contact_create_activity)>
+<de.hdodenhof.circleimageview.CircleImageView: void init()>
+<de.hdodenhof.circleimageview.CircleImageView: void onDraw(android.graphics.Canvas)>
+<de.hskl.contacts.contact_create_activity$2: void <init>(de.hskl.contacts.contact_create_activity)>
+<de.hdodenhof.circleimageview.CircleImageView: void <init>(android.content.Context,android.util.AttributeSet)>
+<de.hskl.contacts.contact_create_activity$7: void <init>(de.hskl.contacts.contact_create_activity)>
+<de.hskl.contacts.contact_create_activity: void <init>()>
+<de.hskl.contacts.Helper.DBHelper: void onCreate(android.database.sqlite.SQLiteDatabase)>
+<de.hskl.contacts.contact_create_activity$6: void <init>(de.hskl.contacts.contact_create_activity)>
+<de.hskl.contacts.MainActivity$5: void <init>(de.hskl.contacts.MainActivity,android.app.Dialog)>
+<de.hskl.contacts.Helper.DBHelper: void <init>(android.content.Context)>
+<de.hskl.contacts.contact_create_activity$1: void <init>(de.hskl.contacts.contact_create_activity)>
+<de.hskl.contacts.contact_create_activity: void onCreate(android.os.Bundle)>
+<de.hdodenhof.circleimageview.CircleImageView$OutlineProvider: void <init>(de.hdodenhof.circleimageview.CircleImageView)>
+<de.hskl.contacts.MainActivity$9: void <init>(de.hskl.contacts.MainActivity)>
+<de.hdodenhof.circleimageview.CircleImageView$OutlineProvider: void getOutline(android.view.View,android.graphics.Outline)>
+<de.hskl.contacts.MainActivity$12: void <init>(de.hskl.contacts.MainActivity)>
+<de.hskl.contacts.Helper.DBHelper: void loadDefaults()>
+<de.hdodenhof.circleimageview.CircleImageView: void setAdjustViewBounds(boolean)>
+<de.hskl.contacts.contact_create_activity$5: void <init>(de.hskl.contacts.contact_create_activity)>
+<de.hdodenhof.circleimageview.CircleImageView: void onSizeChanged(int,int,int,int)>
+<de.hskl.contacts.contact_create_activity: java.util.List getNumberHashList()>
+<de.hdodenhof.circleimageview.CircleImageView: void <init>(android.content.Context,android.util.AttributeSet,int)>
+<de.hskl.contacts.MainActivity$3: void <init>(de.hskl.contacts.MainActivity)>
+<de.hskl.contacts.MainActivity: void <init>()>
+<de.hskl.contacts.MainActivity: void onCreate(android.os.Bundle)>
+<de.hskl.contacts.MainActivity: void setListViews(java.util.List)>
+
+---------- Methods Not Visited (602) ----------
+<de.hdodenhof.circleimageview.CircleImageView: android.widget.ImageView$ScaleType getScaleType()>
+<de.hdodenhof.circleimageview.CircleImageView: int getCircleBackgroundColor()>
+<de.hskl.contacts.settings_email_category_activity$2: boolean onItemLongClick(android.widget.AdapterView,android.view.View,int,long)>
+<de.hskl.contacts.settings_email_category_activity$1$1: void <init>(de.hskl.contacts.settings_email_category_activity$1,android.widget.EditText,android.app.Dialog)>
+<de.hskl.contacts.MainActivity$7$1: void <init>(de.hskl.contacts.MainActivity$7,android.app.Dialog)>
+<com.journeyapps.barcodescanner.BarcodeResult: java.lang.String getText()>
+<de.hskl.contacts.contact_create_activity: java.util.List getNumberList()>
+<de.hdodenhof.circleimageview.CircleImageView: int getBorderColor()>
+<com.journeyapps.barcodescanner.CompoundBarcodeView: void setTorchOn()>
+<com.journeyapps.barcodescanner.ViewfinderView$1: void previewStopped()>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager$2$1: void <init>(com.journeyapps.barcodescanner.camera.AutoFocusManager$2)>
+<com.journeyapps.barcodescanner.CaptureActivity: boolean onKeyDown(int,android.view.KeyEvent)>
+<de.hskl.contacts.contact_create_activity$8: boolean onItemLongClick(android.widget.AdapterView,android.view.View,int,long)>
+<de.hskl.contacts.Settings$1: void onClick(android.view.View)>
+<de.hskl.contacts.contact_create_activity$9$1: void <init>(de.hskl.contacts.contact_create_activity$9,int,android.app.Dialog)>
+<de.hskl.contacts.contact_view_activity$7: android.view.View getView(int,android.view.View,android.view.ViewGroup)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void configure()>
+<com.journeyapps.barcodescanner.camera.CameraManager: com.journeyapps.barcodescanner.camera.CameraSettings getCameraSettings()>
+<com.journeyapps.barcodescanner.camera.CameraManager: com.journeyapps.barcodescanner.camera.DisplayConfiguration getDisplayConfiguration()>
+<de.hskl.contacts.Helper.DBHelper: void deleteContact(int)>
+<de.hskl.contacts.MainActivity$12: boolean onItemLongClick(android.widget.AdapterView,android.view.View,int,long)>
+<de.hskl.contacts.settings_category_activity$2$1: void <init>(de.hskl.contacts.settings_category_activity$2,int,android.app.Dialog)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: boolean isBarcodeSceneModeEnabled()>
+<de.hskl.contacts.contact_view_activity$3$2: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.Size: int compareTo(java.lang.Object)>
+<de.hskl.contacts.contact_create_activity: void onBackPressed()>
+<de.hskl.contacts.settings_category_activity$2$2: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.CompoundBarcodeView$WrappedCallback: void possibleResultPoints(java.util.List)>
+<de.hskl.contacts.contact_view_activity$3$2: void <init>(de.hskl.contacts.contact_view_activity$3,android.app.Dialog)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: boolean isAutoFocusEnabled()>
+<de.hskl.contacts.MainActivity$12$2: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void <init>(android.content.Context)>
+<com.journeyapps.barcodescanner.CameraPreview$2: void <init>(com.journeyapps.barcodescanner.CameraPreview)>
+<com.journeyapps.barcodescanner.DecoderFactory: com.journeyapps.barcodescanner.Decoder createDecoder(java.util.Map)>
+<de.hskl.contacts.MainActivity$1: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.DecoderThread: void decode(com.journeyapps.barcodescanner.SourceData)>
+<com.journeyapps.barcodescanner.camera.CameraThread: void <clinit>()>
+<de.hskl.contacts.contact_view_activity$6$1: void <init>(de.hskl.contacts.contact_view_activity$6,android.widget.TextView)>
+<com.journeyapps.barcodescanner.CameraPreview: void setCameraSettings(com.journeyapps.barcodescanner.camera.CameraSettings)>
+<com.journeyapps.barcodescanner.CameraPreview: void containerSized(com.journeyapps.barcodescanner.Size)>
+<com.journeyapps.barcodescanner.SourceData: boolean isRotated()>
+<com.journeyapps.barcodescanner.camera.CameraManager: com.journeyapps.barcodescanner.Size getNaturalPreviewSize()>
+<de.hskl.contacts.contact_create_activity: de.hskl.contacts.Database_Structure.Contact getContactByString(java.lang.String)>
+<de.hskl.contacts.Helper.DBHelper: java.util.List StringToList(java.lang.String)>
+<de.hskl.contacts.Settings$5: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: void setContinuousFocusEnabled(boolean)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void open()>
+<com.journeyapps.barcodescanner.BarcodeView: void stopDecoding()>
+<de.hskl.contacts.Database_Structure.Emails: java.lang.String getEmail_adress()>
+<de.hskl.contacts.contact_view_activity$3$1: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager: void autoFocusAgainLater()>
+<com.journeyapps.barcodescanner.camera.CameraSettings: boolean isAutoTorchEnabled()>
+<com.journeyapps.barcodescanner.CaptureManager: void onPause()>
+<de.hskl.contacts.Helper.DBHelper: long insertEmail(de.hskl.contacts.Database_Structure.Emails)>
+<de.hskl.contacts.Settings$5$1: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.ViewfinderView: void onDraw(android.graphics.Canvas)>
+<de.hskl.contacts.contact_view_activity$5: void <init>(de.hskl.contacts.contact_view_activity)>
+<com.journeyapps.barcodescanner.BarcodeEncoder: void <init>()>
+<de.hskl.contacts.Database_Structure.Numbers: java.lang.String getNumber()>
+<de.hskl.contacts.Database_Structure.Numbers: void setId(int)>
+<de.hskl.contacts.settings_email_category_activity$2$1: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.RotationListener: void listen(android.content.Context,com.journeyapps.barcodescanner.RotationCallback)>
+<com.journeyapps.barcodescanner.CompoundBarcodeView: void initialize()>
+<de.hskl.contacts.Database_Structure.Category: void <init>()>
+<de.hskl.contacts.contact_view_activity: java.lang.String getEmailsForQR(java.util.List)>
+<com.journeyapps.barcodescanner.CameraPreview$4: void <init>(com.journeyapps.barcodescanner.CameraPreview)>
+<de.hskl.contacts.settings_permission_activity$1: void onCheckedChanged(android.widget.CompoundButton,boolean)>
+<com.journeyapps.barcodescanner.CompoundBarcodeView: void <init>(android.content.Context,android.util.AttributeSet,int)>
+<com.journeyapps.barcodescanner.CaptureManager$2: void cameraError(java.lang.Exception)>
+<com.journeyapps.barcodescanner.CameraPreview: void <init>(android.content.Context)>
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration: void <clinit>()>
+<de.hskl.contacts.settings_email_category_activity$2$2: void <init>(de.hskl.contacts.settings_email_category_activity$2,android.app.Dialog)>
+<de.hskl.contacts.contact_create_activity: java.lang.String getEmailsForQR(java.util.List)>
+<com.journeyapps.barcodescanner.CaptureManager$1$1: void <init>(com.journeyapps.barcodescanner.CaptureManager$1,com.journeyapps.barcodescanner.BarcodeResult)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void configureCamera()>
+<de.hdodenhof.circleimageview.CircleImageView: void setDisableCircularTransformation(boolean)>
+<de.hskl.contacts.Settings$2: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.Util: void validateMainThread()>
+<de.hskl.contacts.settings_email_category_activity$2$2: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void setTorch(boolean)>
+<de.hskl.contacts.Helper.DBHelper: void onUpgrade(android.database.sqlite.SQLiteDatabase,int,int)>
+<de.hskl.contacts.MainActivity$2: void onClick(android.view.View)>
+<de.hskl.contacts.settings_permission_activity: void onCreate(android.os.Bundle)>
+<de.hskl.contacts.MainActivity$6: void <init>(de.hskl.contacts.MainActivity,android.content.SharedPreferences)>
+<com.journeyapps.barcodescanner.camera.CameraInstance$6: void <init>(com.journeyapps.barcodescanner.camera.CameraInstance)>
+<de.hskl.contacts.Helper.DBHelper: java.lang.String getEmailCategoryNameById(int)>
+<com.journeyapps.barcodescanner.camera.CameraInstance$1: void <init>(com.journeyapps.barcodescanner.camera.CameraInstance,boolean)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void setDesiredParameters(boolean)>
+<de.hskl.contacts.contact_create_activity: boolean onOptionsItemSelected(android.view.MenuItem)>
+<com.journeyapps.barcodescanner.ViewfinderView: void drawResultBitmap(android.graphics.Bitmap)>
+<de.hskl.contacts.MainActivity$12$2: void <init>(de.hskl.contacts.MainActivity$12,android.app.Dialog)>
+<com.journeyapps.barcodescanner.BarcodeResult: java.lang.String toString()>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager$2$1: void run()>
+<com.journeyapps.barcodescanner.camera.CameraManager: java.util.List getPreviewSizes(android.hardware.Camera$Parameters)>
+<com.journeyapps.barcodescanner.CameraPreview$4: void previewStarted()>
+<de.hskl.contacts.Database_Structure.Contact: void <init>()>
+<de.hskl.contacts.settings_email_category_activity: void setListViews()>
+<de.hskl.contacts.contact_view_activity$2: void <init>(de.hskl.contacts.contact_view_activity)>
+<com.journeyapps.barcodescanner.CaptureManager: android.content.Intent resultIntent(com.journeyapps.barcodescanner.BarcodeResult)>
+<de.hdodenhof.circleimageview.CircleImageView: void setImageURI(android.net.Uri)>
+<com.journeyapps.barcodescanner.camera.CameraInstance$1: void run()>
+<com.journeyapps.barcodescanner.camera.CameraThread: void enqueue(java.lang.Runnable)>
+<com.journeyapps.barcodescanner.CameraPreview$3: void onRotationChanged(int)>
+<de.hskl.contacts.Settings$2: void <init>(de.hskl.contacts.Settings)>
+<com.journeyapps.barcodescanner.CameraPreview: void startPreviewIfReady()>
+<com.journeyapps.barcodescanner.ViewfinderView$1: void cameraError(java.lang.Exception)>
+<de.hskl.contacts.contact_create_activity: void fillData(int)>
+<com.journeyapps.barcodescanner.CameraPreview: void initCamera()>
+<com.journeyapps.barcodescanner.BarcodeView: com.journeyapps.barcodescanner.DecoderFactory createDefaultDecoderFactory()>
+<de.hskl.contacts.Helper.DBHelper: int getCategoryIdByNameDb(android.database.sqlite.SQLiteDatabase,android.database.Cursor,java.lang.String)>
+<com.journeyapps.barcodescanner.CaptureActivity: void <init>()>
+<de.hskl.contacts.numpad_activity: void <init>()>
+<com.journeyapps.barcodescanner.DefaultDecoderFactory: com.journeyapps.barcodescanner.Decoder createDecoder(java.util.Map)>
+<com.journeyapps.barcodescanner.BarcodeView: void setDecoderFactory(com.journeyapps.barcodescanner.DecoderFactory)>
+<de.hskl.contacts.contact_view_activity$1: void <init>(de.hskl.contacts.contact_view_activity)>
+<de.hskl.contacts.settings_category_activity$2$1: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.CaptureManager: void finish()>
+<com.journeyapps.barcodescanner.BarcodeCallback: void possibleResultPoints(java.util.List)>
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration: void <init>(int,com.journeyapps.barcodescanner.Size)>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager$1: void <init>(com.journeyapps.barcodescanner.camera.AutoFocusManager)>
+<de.hskl.contacts.Database_Structure.Contact: int getCat_id_pb()>
+<de.hskl.contacts.Helper.DBHelper: long updateContact(de.hskl.contacts.Database_Structure.Contact)>
+<com.journeyapps.barcodescanner.camera.CameraThread: void quit()>
+<com.journeyapps.barcodescanner.CompoundBarcodeView$WrappedCallback: void barcodeResult(com.journeyapps.barcodescanner.BarcodeResult)>
+<com.journeyapps.barcodescanner.DecoderThread: void requestNextPreview()>
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration: com.journeyapps.barcodescanner.Size getBestPreviewSize(java.util.List,boolean)>
+<de.hskl.contacts.Database_Structure.Contact: boolean isIsfavourite()>
+<de.hskl.contacts.contact_view_activity: void setfavourite()>
+<com.journeyapps.barcodescanner.DecoderThread: void setDecoder(com.journeyapps.barcodescanner.Decoder)>
+<com.journeyapps.barcodescanner.SourceData: void setCropRect(android.graphics.Rect)>
+<de.hskl.contacts.Database_Structure.Contact: void setCat_id_pb(int)>
+<de.hdodenhof.circleimageview.CircleImageView: void <init>(android.content.Context)>
+<de.hskl.contacts.contact_create_activity: java.lang.String generateQR()>
+<com.journeyapps.barcodescanner.CameraPreview: android.graphics.Rect getPreviewFramingRect()>
+<de.hskl.contacts.Database_Structure.Numbers: void setCat_id_category(int)>
+<com.journeyapps.barcodescanner.CameraPreview: void setupSurfaceView()>
+<de.hskl.contacts.contact_create_activity$6$2: void <init>(de.hskl.contacts.contact_create_activity$6,android.app.Dialog)>
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration: com.journeyapps.barcodescanner.Size scale(com.journeyapps.barcodescanner.Size,com.journeyapps.barcodescanner.Size)>
+<com.journeyapps.barcodescanner.camera.CameraManager$CameraPreviewCallback: void setCallback(com.journeyapps.barcodescanner.camera.PreviewCallback)>
+<com.journeyapps.barcodescanner.camera.CameraManager: boolean isCameraRotated()>
+<de.hskl.contacts.Settings$1: void <init>(de.hskl.contacts.Settings)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void startPreview()>
+<com.journeyapps.barcodescanner.CameraPreview$4: void cameraError(java.lang.Exception)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: void setMeteringEnabled(boolean)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: void setScanInverted(boolean)>
+<de.hskl.contacts.contact_create_activity: void switchfavourites()>
+<de.hskl.contacts.settings_category_activity: void setListViewHeightBasedOnChildren(android.widget.ListView)>
+<com.journeyapps.barcodescanner.Decoder: com.google.zxing.Result decode(com.google.zxing.LuminanceSource)>
+<com.journeyapps.barcodescanner.CompoundBarcodeView$TorchListener: void onTorchOff()>
+<com.journeyapps.barcodescanner.BarcodeResult: int getBitmapScaleFactor()>
+<com.journeyapps.barcodescanner.ViewfinderView: void setCameraPreview(com.journeyapps.barcodescanner.CameraPreview)>
+<de.hskl.contacts.settings_email_category_activity$2$1: void <init>(de.hskl.contacts.settings_email_category_activity$2,int,android.app.Dialog)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: void setBarcodeSceneModeEnabled(boolean)>
+<de.hskl.contacts.MainActivity$10: android.view.View getView(int,android.view.View,android.view.ViewGroup)>
+<de.hskl.contacts.Helper.DBHelper: java.lang.String getCategoryNameById(int)>
+<com.journeyapps.barcodescanner.camera.CameraThread: com.journeyapps.barcodescanner.camera.CameraThread getInstance()>
+<com.journeyapps.barcodescanner.CompoundBarcodeView: void initializeFromIntent(android.content.Intent)>
+<com.journeyapps.barcodescanner.CaptureManager$5: void onCancel(android.content.DialogInterface)>
+<de.hskl.contacts.Settings$3: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.CameraPreview: com.journeyapps.barcodescanner.camera.CameraSettings getCameraSettings()>
+<com.journeyapps.barcodescanner.BarcodeView: com.journeyapps.barcodescanner.DecoderFactory getDecoderFactory()>
+<com.journeyapps.barcodescanner.Size: boolean fitsIn(com.journeyapps.barcodescanner.Size)>
+<com.journeyapps.barcodescanner.camera.CameraManager$CameraPreviewCallback: void setResolution(com.journeyapps.barcodescanner.Size)>
+<com.journeyapps.barcodescanner.CaptureManager$3: void run()>
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration$1: void <init>(com.journeyapps.barcodescanner.camera.DisplayConfiguration,com.journeyapps.barcodescanner.Size)>
+<de.hskl.contacts.Settings$4$2: void <init>(de.hskl.contacts.Settings$4,android.app.Dialog)>
+<com.journeyapps.barcodescanner.CompoundBarcodeView: void decodeContinuous(com.journeyapps.barcodescanner.BarcodeCallback)>
+<com.journeyapps.barcodescanner.CaptureManager: void onDestroy()>
+<de.hdodenhof.circleimageview.CircleImageView: android.graphics.ColorFilter getColorFilter()>
+<de.hskl.contacts.settings_permission_activity$2: void onCheckedChanged(android.widget.CompoundButton,boolean)>
+<de.hskl.contacts.Settings: java.lang.String getNumbersForQR(java.lang.String)>
+<de.hskl.contacts.Database_Structure.Numbers: int getCat_id_category()>
+<com.journeyapps.barcodescanner.BarcodeResult: byte[] getRawBytes()>
+<de.hskl.contacts.Helper.DbBitmapUtility: void <init>()>
+<com.journeyapps.barcodescanner.camera.CameraInstance$2: void run()>
+<de.hskl.contacts.Database_Structure.Numbers: void setNumber(java.lang.String)>
+<com.journeyapps.barcodescanner.CameraPreview: void addStateListener(com.journeyapps.barcodescanner.CameraPreview$StateListener)>
+<com.journeyapps.barcodescanner.CameraPreview$3$1: void <init>(com.journeyapps.barcodescanner.CameraPreview$3)>
+<de.hskl.contacts.contact_create_activity: void onActivityResult(int,int,android.content.Intent)>
+<com.journeyapps.barcodescanner.CameraPreview$StateListener: void previewSized()>
+<de.hdodenhof.circleimageview.CircleImageView: void setCircleBackgroundColor(int)>
+<com.journeyapps.barcodescanner.CaptureManager$2: void <init>(com.journeyapps.barcodescanner.CaptureManager)>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager: void <clinit>()>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void setDisplayConfiguration(com.journeyapps.barcodescanner.camera.DisplayConfiguration)>
+<com.journeyapps.barcodescanner.ViewfinderView: void addPossibleResultPoint(com.google.zxing.ResultPoint)>
+<com.journeyapps.barcodescanner.CompoundBarcodeView$TorchListener: void onTorchOn()>
+<com.journeyapps.barcodescanner.RotationCallback: void onRotationChanged(int)>
+<de.hskl.contacts.contact_view_activity: java.util.List getNumberHashList()>
+<de.hskl.contacts.Helper.DBHelper: java.util.ArrayList getEmailCategoryList()>
+<de.hdodenhof.circleimageview.CircleImageView: void setBorderOverlay(boolean)>
+<de.hskl.contacts.Database_Structure.Contact: void setCat_id_numbers(java.util.List)>
+<de.hskl.contacts.contact_create_activity$8$2: void onClick(android.view.View)>
+<de.hskl.contacts.settings_email_category_activity: void setListViewHeightBasedOnChildren(android.widget.ListView)>
+<de.hskl.contacts.Helper.DBHelper: void deleteEmail(int)>
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration: com.journeyapps.barcodescanner.Size getViewfinderSize()>
+<com.journeyapps.barcodescanner.CaptureManager: void <init>(android.app.Activity,com.journeyapps.barcodescanner.CompoundBarcodeView)>
+<de.hskl.contacts.Database_Structure.Contact: void setCat_id_emails(java.util.List)>
+<de.hskl.contacts.Helper.DBHelper: int getCategoryIdByName(java.lang.String)>
+<com.journeyapps.barcodescanner.camera.PreviewCallback: void onPreview(com.journeyapps.barcodescanner.SourceData)>
+<de.hskl.contacts.contact_view_activity$7$1: void onClick(android.view.View)>
+<de.hskl.contacts.Database_Structure.Category: void setName(java.lang.String)>
+<de.hskl.contacts.Database_Structure.Emails: void <init>()>
+<com.journeyapps.barcodescanner.SourceData: com.google.zxing.PlanarYUVLuminanceSource createSource()>
+<de.hskl.contacts.Helper.DBHelper: java.util.ArrayList getCategoryList()>
+<de.hskl.contacts.settings_permission_activity$1: void <init>(de.hskl.contacts.settings_permission_activity,android.widget.Switch)>
+<com.journeyapps.barcodescanner.CompoundBarcodeView: boolean onKeyDown(int,android.view.KeyEvent)>
+<com.journeyapps.barcodescanner.SourceData: int getDataWidth()>
+<de.hskl.contacts.contact_create_activity: java.lang.String getNumbersForQR(java.util.List)>
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration: int getRotation()>
+<de.hdodenhof.circleimageview.CircleImageView: void setColorFilter(android.graphics.ColorFilter)>
+<com.journeyapps.barcodescanner.CameraPreview: void initialize(android.content.Context,android.util.AttributeSet,int,int)>
+<de.hskl.contacts.contact_view_activity$2: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.CameraPreview: void previewSized(com.journeyapps.barcodescanner.Size)>
+<com.journeyapps.barcodescanner.CameraPreview: boolean isPreviewActive()>
+<de.hskl.contacts.contact_view_activity: java.lang.String generateQR()>
+<com.journeyapps.barcodescanner.camera.CameraSettings: void setExposureEnabled(boolean)>
+<com.journeyapps.barcodescanner.CompoundBarcodeView: void setTorchOff()>
+<com.journeyapps.barcodescanner.CompoundBarcodeView: void resume()>
+<de.hskl.contacts.numpad_activity: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void close()>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void startPreview()>
+<com.journeyapps.barcodescanner.Size: int hashCode()>
+<de.hskl.contacts.contact_view_activity$3: void <init>(de.hskl.contacts.contact_view_activity)>
+<de.hskl.contacts.contact_create_activity$5$2: void <init>(de.hskl.contacts.contact_create_activity$5,android.app.Dialog)>
+<de.hskl.contacts.contact_view_activity$5: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.CameraPreview: void <clinit>()>
+<com.journeyapps.barcodescanner.RotationListener$1: void <init>(com.journeyapps.barcodescanner.RotationListener,android.content.Context,int)>
+<com.journeyapps.barcodescanner.DecoderResultPointCallback: void setDecoder(com.journeyapps.barcodescanner.Decoder)>
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration: com.journeyapps.barcodescanner.Size getDesiredPreviewSize(boolean)>
+<com.journeyapps.barcodescanner.CameraPreview$1: void surfaceCreated(android.view.SurfaceHolder)>
+<com.journeyapps.barcodescanner.DecoderResultPointCallback: com.journeyapps.barcodescanner.Decoder getDecoder()>
+<com.journeyapps.barcodescanner.Size: int compareTo(com.journeyapps.barcodescanner.Size)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: boolean isExposureEnabled()>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void validateOpen()>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager$1: boolean handleMessage(android.os.Message)>
+<de.hskl.contacts.contact_view_activity$2$1: void <init>(de.hskl.contacts.contact_view_activity$2,android.app.Dialog)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void setCameraSettings(com.journeyapps.barcodescanner.camera.CameraSettings)>
+<com.journeyapps.barcodescanner.SourceData: android.graphics.Bitmap getBitmap()>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void <clinit>()>
+<com.journeyapps.barcodescanner.CameraPreview: boolean isActive()>
+<com.journeyapps.barcodescanner.camera.CameraManager: void setParameters()>
+<de.hskl.contacts.settings_email_category_activity$1$2: void <init>(de.hskl.contacts.settings_email_category_activity$1,android.app.Dialog)>
+<de.hskl.contacts.Database_Structure.Numbers: void <init>()>
+<com.journeyapps.barcodescanner.CaptureManager$1: void <init>(com.journeyapps.barcodescanner.CaptureManager)>
+<de.hskl.contacts.contact_create_activity$1: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.SourceData: int getDataHeight()>
+<de.hskl.contacts.contact_create_activity$5$1: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.CaptureManager: void decode()>
+<de.hskl.contacts.Database_Structure.Contact: java.lang.String getCat_id_emails_toString()>
+<com.journeyapps.barcodescanner.DefaultDecoderFactory: void <init>()>
+<de.hskl.contacts.contact_create_activity$8$1: void <init>(de.hskl.contacts.contact_create_activity$8,int,android.app.Dialog)>
+<com.journeyapps.barcodescanner.CaptureManager$2: void previewSized()>
+<com.journeyapps.barcodescanner.camera.CameraManager: com.journeyapps.barcodescanner.Size getPreviewSize()>
+<de.hskl.contacts.Database_Structure.Emails: int getCat_id_category()>
+<com.journeyapps.barcodescanner.camera.CameraInstance$4: void <init>(com.journeyapps.barcodescanner.camera.CameraInstance)>
+<com.journeyapps.barcodescanner.CaptureManager$1: void possibleResultPoints(java.util.List)>
+<com.journeyapps.barcodescanner.SourceData: byte[] rotate180(byte[],int,int)>
+<de.hskl.contacts.contact_create_activity: java.util.List getEmailList()>
+<com.journeyapps.barcodescanner.BarcodeEncoder: android.graphics.Bitmap createBitmap(com.google.zxing.common.BitMatrix)>
+<com.journeyapps.barcodescanner.CaptureActivity: void onSaveInstanceState(android.os.Bundle)>
+<com.journeyapps.barcodescanner.camera.CameraManager$CameraPreviewCallback: void onPreviewFrame(byte[],android.hardware.Camera)>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager$2: void <init>(com.journeyapps.barcodescanner.camera.AutoFocusManager)>
+<de.hskl.contacts.Helper.DBHelper: void deleteNumber(android.database.sqlite.SQLiteDatabase,int)>
+<com.journeyapps.barcodescanner.Decoder: java.util.List getPossibleResultPoints()>
+<com.journeyapps.barcodescanner.camera.CameraInstance$5: void run()>
+<com.journeyapps.barcodescanner.camera.CameraManager$CameraPreviewCallback: void <init>(com.journeyapps.barcodescanner.camera.CameraManager)>
+<com.journeyapps.barcodescanner.SourceData: byte[] rotateCW(byte[],int,int)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void requestPreview(com.journeyapps.barcodescanner.camera.PreviewCallback)>
+<de.hskl.contacts.Helper.DbBitmapUtility: android.graphics.Bitmap getImage(byte[])>
+<com.journeyapps.barcodescanner.BarcodeView: void pause()>
+<de.hskl.contacts.MainActivity$6$1: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.DecoderThread$2: void onPreview(com.journeyapps.barcodescanner.SourceData)>
+<de.hskl.contacts.MainActivity$1$1: void afterTextChanged(android.text.Editable)>
+<com.journeyapps.barcodescanner.BarcodeResult: android.graphics.Bitmap getBitmapWithResultPoints(int)>
+<de.hdodenhof.circleimageview.CircleImageView: void setCircleBackgroundColorResource(int)>
+<com.journeyapps.barcodescanner.BarcodeResult: void <init>(com.google.zxing.Result,com.journeyapps.barcodescanner.SourceData)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void setCameraSettings(com.journeyapps.barcodescanner.camera.CameraSettings)>
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration$1: int compare(com.journeyapps.barcodescanner.Size,com.journeyapps.barcodescanner.Size)>
+<com.journeyapps.barcodescanner.DecoderResultPointCallback: void <init>(com.journeyapps.barcodescanner.Decoder)>
+<de.hskl.contacts.Helper.DBHelper: void deleteProfPic(android.database.sqlite.SQLiteDatabase,int)>
+<de.hdodenhof.circleimageview.CircleImageView: void setImageResource(int)>
+<com.journeyapps.barcodescanner.CaptureManager: void <clinit>()>
+<com.journeyapps.barcodescanner.DecoderThread: com.journeyapps.barcodescanner.Decoder getDecoder()>
+<de.hskl.contacts.MainActivity$1$1: void beforeTextChanged(java.lang.CharSequence,int,int,int)>
+<de.hskl.contacts.settings_email_category_activity$2: void <init>(de.hskl.contacts.settings_email_category_activity)>
+<com.journeyapps.barcodescanner.CaptureManager: void lockOrientation()>
+<de.hdodenhof.circleimageview.CircleImageView: int getBorderWidth()>
+<com.journeyapps.barcodescanner.BarcodeView: void previewStarted()>
+<de.hskl.contacts.MainActivity$7$2: void onClick(android.view.View)>
+<de.hskl.contacts.contact_view_activity: void fillData(int)>
+<com.journeyapps.barcodescanner.CaptureManager$4: void onClick(android.content.DialogInterface,int)>
+<com.journeyapps.barcodescanner.CaptureActivity: void onPause()>
+<com.journeyapps.barcodescanner.Decoder: void foundPossibleResultPoint(com.google.zxing.ResultPoint)>
+<com.journeyapps.barcodescanner.BarcodeView$DecodeMode: com.journeyapps.barcodescanner.BarcodeView$DecodeMode[] values()>
+<com.journeyapps.barcodescanner.CameraPreview: void <init>(android.content.Context,android.util.AttributeSet,int)>
+<com.journeyapps.barcodescanner.CameraPreview: android.graphics.Rect calculateFramingRect(android.graphics.Rect,android.graphics.Rect)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void <clinit>()>
+<com.journeyapps.barcodescanner.BarcodeResult: com.google.zxing.BarcodeFormat getBarcodeFormat()>
+<de.hskl.contacts.Database_Structure.Contact: java.lang.String getCat_id_numbers_toString()>
+<com.journeyapps.barcodescanner.CaptureActivity: void onResume()>
+<com.journeyapps.barcodescanner.CompoundBarcodeView: void <init>(android.content.Context,android.util.AttributeSet)>
+<com.journeyapps.barcodescanner.Util: void <init>()>
+<com.journeyapps.barcodescanner.BarcodeEncoder: com.google.zxing.common.BitMatrix encode(java.lang.String,com.google.zxing.BarcodeFormat,int,int,java.util.Map)>
+<com.journeyapps.barcodescanner.DecoderThread$1: void <init>(com.journeyapps.barcodescanner.DecoderThread)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: boolean isScanInverted()>
+<com.journeyapps.barcodescanner.CaptureManager: void initializeFromIntent(android.content.Intent,android.os.Bundle)>
+<de.hskl.contacts.Helper.DBHelper: int getEmailCategoryIdByName(java.lang.String)>
+<com.journeyapps.barcodescanner.Decoder: com.google.zxing.Result decode(com.google.zxing.BinaryBitmap)>
+<com.journeyapps.barcodescanner.CaptureManager$5: void <init>(com.journeyapps.barcodescanner.CaptureManager)>
+<de.hskl.contacts.contact_create_activity: void fillData(de.hskl.contacts.Database_Structure.Contact)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void notifyError(java.lang.Exception)>
+<com.journeyapps.barcodescanner.BarcodeResult: com.google.zxing.Result getResult()>
+<de.hskl.contacts.contact_view_activity$6: android.view.View getView(int,android.view.View,android.view.ViewGroup)>
+<com.journeyapps.barcodescanner.BarcodeResult: android.graphics.Bitmap getBitmap()>
+<com.journeyapps.barcodescanner.Size: void <init>(int,int)>
+<com.journeyapps.barcodescanner.BarcodeView: void stopDecoderThread()>
+<com.journeyapps.barcodescanner.Decoder: com.google.zxing.Reader getReader()>
+<com.journeyapps.barcodescanner.BarcodeView: void decodeSingle(com.journeyapps.barcodescanner.BarcodeCallback)>
+<de.hskl.contacts.settings_email_category_activity$1$1: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.CompoundBarcodeView: com.journeyapps.barcodescanner.ViewfinderView getViewFinder()>
+<de.hdodenhof.circleimageview.CircleImageView: boolean isBorderOverlay()>
+<com.journeyapps.barcodescanner.ViewfinderView: void <init>(android.content.Context,android.util.AttributeSet)>
+<de.hskl.contacts.contact_view_activity$3: void onClick(android.view.View)>
+<de.hskl.contacts.settings_permission_activity: void <init>()>
+<com.journeyapps.barcodescanner.camera.CameraSettings: void setAutoTorchEnabled(boolean)>
+<de.hskl.contacts.Database_Structure.Category: java.lang.String getName()>
+<com.journeyapps.barcodescanner.CompoundBarcodeView: void setStatusText(java.lang.String)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: boolean isMeteringEnabled()>
+<de.hskl.contacts.contact_create_activity$9: boolean onItemLongClick(android.widget.AdapterView,android.view.View,int,long)>
+<com.journeyapps.barcodescanner.CaptureManager$3: void <init>(com.journeyapps.barcodescanner.CaptureManager)>
+<de.hskl.contacts.MainActivity$11: void onItemClick(android.widget.AdapterView,android.view.View,int,long)>
+<com.journeyapps.barcodescanner.camera.CameraManager: int getCameraRotation()>
+<de.hskl.contacts.contact_create_activity$6$2: void onClick(android.view.View)>
+<de.hskl.contacts.contact_view_activity: java.util.List getEmailHashList()>
+<com.journeyapps.barcodescanner.Size: boolean equals(java.lang.Object)>
+<de.hskl.contacts.Database_Structure.Contact: int getId()>
+<com.journeyapps.barcodescanner.camera.CameraThread: void decrementInstances()>
+<de.hskl.contacts.settings_category_activity$1$2: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.CameraPreview$2: boolean handleMessage(android.os.Message)>
+<com.journeyapps.barcodescanner.CompoundBarcodeView: com.journeyapps.barcodescanner.BarcodeView getBarcodeView()>
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration$1: int compare(java.lang.Object,java.lang.Object)>
+<de.hskl.contacts.settings_category_activity: void <init>()>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager: void cancelOutstandingTask()>
+<de.hskl.contacts.contact_create_activity$3$1: void onClick(android.view.View)>
+<de.hskl.contacts.Database_Structure.Contact: java.util.List getCat_id_emails()>
+<de.hskl.contacts.Helper.DBHelper: java.util.List getCategoryHashList()>
+<de.hskl.contacts.Settings: void <init>()>
+<com.journeyapps.barcodescanner.BarcodeResult: com.google.zxing.ResultPoint[] getResultPoints()>
+<com.journeyapps.barcodescanner.CameraPreview$1: void <init>(com.journeyapps.barcodescanner.CameraPreview)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: boolean isContinuousFocusEnabled()>
+<de.hskl.contacts.Database_Structure.Emails: int getId()>
+<de.hskl.contacts.Helper.DBHelper: android.graphics.Bitmap getProfPicByContactId(int)>
+<com.journeyapps.barcodescanner.CaptureManager: void returnResult(com.journeyapps.barcodescanner.BarcodeResult)>
+<com.journeyapps.barcodescanner.camera.CameraInstance$5: void <init>(com.journeyapps.barcodescanner.camera.CameraInstance)>
+<com.journeyapps.barcodescanner.CameraPreview: void <init>(android.content.Context,android.util.AttributeSet)>
+<com.journeyapps.barcodescanner.CaptureManager$1$1: void run()>
+<com.journeyapps.barcodescanner.DefaultDecoderFactory: void <init>(java.util.Collection,java.util.Map,java.lang.String)>
+<com.journeyapps.barcodescanner.BarcodeEncoder: android.graphics.Bitmap encodeBitmap(java.lang.String,com.google.zxing.BarcodeFormat,int,int)>
+<de.hskl.contacts.Database_Structure.ProfPics: void <init>()>
+<de.hdodenhof.circleimageview.CircleImageView: void setImageBitmap(android.graphics.Bitmap)>
+<de.hskl.contacts.Database_Structure.Emails: void setEmail_adress(java.lang.String)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void setTorch(boolean)>
+<com.journeyapps.barcodescanner.CameraPreview: void calculateFrames()>
+<de.hskl.contacts.Settings$5: void <init>(de.hskl.contacts.Settings)>
+<de.hskl.contacts.Database_Structure.Numbers: int getId()>
+<de.hskl.contacts.contact_view_activity$4: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.DecoderThread: void <init>(com.journeyapps.barcodescanner.camera.CameraInstance,com.journeyapps.barcodescanner.Decoder,android.os.Handler)>
+<com.journeyapps.barcodescanner.BarcodeView$DecodeMode: void <init>(java.lang.String,int)>
+<de.hskl.contacts.settings_category_activity$1: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.SourceData: android.graphics.Bitmap getBitmap(android.graphics.Rect,int)>
+<de.hskl.contacts.Database_Structure.Category: void setId(int)>
+<com.journeyapps.barcodescanner.camera.CameraThread: void <init>()>
+<com.journeyapps.barcodescanner.camera.CameraInstance: int getCameraRotation()>
+<com.journeyapps.barcodescanner.camera.CameraSettings: void <init>()>
+<de.hskl.contacts.settings_email_category_activity: void onCreate(android.os.Bundle)>
+<de.hskl.contacts.contact_create_activity$6$1: void <init>(de.hskl.contacts.contact_create_activity$6,android.widget.EditText,android.widget.Spinner,android.app.Dialog)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void close()>
+<de.hskl.contacts.Settings$4$1: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.CompoundBarcodeView: void setTorchListener(com.journeyapps.barcodescanner.CompoundBarcodeView$TorchListener)>
+<de.hskl.contacts.Database_Structure.ProfPics: void setImage(byte[])>
+<de.hskl.contacts.contact_create_activity$5: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.CompoundBarcodeView: void <init>(android.content.Context)>
+<de.hskl.contacts.Database_Structure.Category: int getId()>
+<com.journeyapps.barcodescanner.BarcodeView$DecodeMode: com.journeyapps.barcodescanner.BarcodeView$DecodeMode valueOf(java.lang.String)>
+<de.hskl.contacts.numpad_activity: void onCreate(android.os.Bundle)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: void setAutoFocusEnabled(boolean)>
+<de.hskl.contacts.MainActivity$4: void onClick(android.view.View)>
+<de.hskl.contacts.contact_create_activity$6$1: void onClick(android.view.View)>
+<de.hdodenhof.circleimageview.CircleImageView: boolean inTouchableArea(float,float)>
+<de.hskl.contacts.settings_category_activity$2: boolean onItemLongClick(android.widget.AdapterView,android.view.View,int,long)>
+<de.hskl.contacts.Helper.DBHelper: byte[] getProfPicById(int)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: void setRequestedCameraId(int)>
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration: void <init>(int)>
+<com.journeyapps.barcodescanner.ViewfinderView: void drawViewfinder()>
+<de.hskl.contacts.MainActivity$7: void <init>(de.hskl.contacts.MainActivity,android.content.SharedPreferences$Editor,android.widget.TextView)>
+<com.journeyapps.barcodescanner.CameraPreview$StateListener: void cameraError(java.lang.Exception)>
+<com.journeyapps.barcodescanner.CameraPreview$4: void previewSized()>
+<de.hskl.contacts.contact_view_activity: void onCreate(android.os.Bundle)>
+<de.hskl.contacts.contact_create_activity$7: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.RotationListener$1: void onOrientationChanged(int)>
+<com.journeyapps.barcodescanner.camera.CameraManager: android.hardware.Camera$Parameters getDefaultCameraParameters()>
+<com.journeyapps.barcodescanner.BarcodeEncoder: com.google.zxing.common.BitMatrix encode(java.lang.String,com.google.zxing.BarcodeFormat,int,int)>
+<com.journeyapps.barcodescanner.CameraPreview$StateListener: void previewStopped()>
+<de.hskl.contacts.Settings: java.lang.String generateQR(java.lang.String,java.lang.String)>
+<com.journeyapps.barcodescanner.CaptureActivity: void onCreate(android.os.Bundle)>
+<com.journeyapps.barcodescanner.Size: com.journeyapps.barcodescanner.Size rotate()>
+<com.journeyapps.barcodescanner.CaptureManager$2: void previewStopped()>
+<de.hskl.contacts.settings_email_category_activity$1: void <init>(de.hskl.contacts.settings_email_category_activity)>
+<com.journeyapps.barcodescanner.CameraPreview: void pause()>
+<de.hskl.contacts.Helper.DBHelper: de.hskl.contacts.Database_Structure.Contact getContactById(int)>
+<com.journeyapps.barcodescanner.camera.CameraManager: int calculateDisplayRotation()>
+<de.hskl.contacts.MainActivity$6: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.DecoderThread: com.google.zxing.LuminanceSource createSource(com.journeyapps.barcodescanner.SourceData)>
+<de.hskl.contacts.contact_create_activity$9$1: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.CameraPreview: int getDisplayRotation()>
+<com.journeyapps.barcodescanner.CaptureActivity: void onDestroy()>
+<com.journeyapps.barcodescanner.camera.CameraInstance$3: void run()>
+<com.journeyapps.barcodescanner.camera.CameraInstance: com.journeyapps.barcodescanner.camera.CameraSettings getCameraSettings()>
+<com.journeyapps.barcodescanner.DecoderThread: void start()>
+<de.hskl.contacts.Helper.DBHelper: java.util.List getContactList()>
+<de.hskl.contacts.MainActivity$1$1: void onTextChanged(java.lang.CharSequence,int,int,int)>
+<de.hskl.contacts.contact_create_activity$3: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.BarcodeView: void initialize()>
+<com.journeyapps.barcodescanner.camera.CameraInstance$6: void run()>
+<com.journeyapps.barcodescanner.SourceData: byte[] rotateCameraPreview(int,byte[],int,int)>
+<de.hskl.contacts.MainActivity: java.lang.String generateQR(java.lang.String,java.lang.String)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void requestPreviewFrame(com.journeyapps.barcodescanner.camera.PreviewCallback)>
+<de.hskl.contacts.Helper.DBHelper: void deleteNumber(int)>
+<com.journeyapps.barcodescanner.SourceData: void <init>(byte[],int,int,int,int)>
+<de.hskl.contacts.settings_category_activity$2$2: void <init>(de.hskl.contacts.settings_category_activity$2,android.app.Dialog)>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager: void stop()>
+<com.journeyapps.barcodescanner.DecoderThread: void stop()>
+<de.hskl.contacts.contact_create_activity$4: void onClick(android.view.View)>
+<de.hskl.contacts.Helper.DBHelper: long insertProfPic(de.hskl.contacts.Database_Structure.ProfPics)>
+<com.journeyapps.barcodescanner.CameraPreview: void startCameraPreview(android.view.SurfaceHolder)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void setCameraDisplayOrientation(int)>
+<de.hskl.contacts.MainActivity$7: boolean onLongClick(android.view.View)>
+<de.hskl.contacts.Settings$4$2: void onClick(android.view.View)>
+<de.hskl.contacts.Helper.DbBitmapUtility: byte[] getBytes(android.graphics.Bitmap)>
+<de.hskl.contacts.contact_create_activity$9$2: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.CaptureManager$4: void <init>(com.journeyapps.barcodescanner.CaptureManager)>
+<com.journeyapps.barcodescanner.ViewfinderView: void <clinit>()>
+<de.hskl.contacts.Settings$3: void <init>(de.hskl.contacts.Settings)>
+<de.hskl.contacts.settings_email_category_activity$1$2: void onClick(android.view.View)>
+<de.hskl.contacts.Database_Structure.ProfPics: byte[] getImage()>
+<com.journeyapps.barcodescanner.CaptureManager$1: void barcodeResult(com.journeyapps.barcodescanner.BarcodeResult)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void setSurfaceHolder(android.view.SurfaceHolder)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: boolean isOpen()>
+<de.hskl.contacts.MainActivity$3: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.CameraPreview: com.journeyapps.barcodescanner.camera.CameraInstance getCameraInstance()>
+<com.journeyapps.barcodescanner.ViewfinderView$1: void <init>(com.journeyapps.barcodescanner.ViewfinderView)>
+<de.hskl.contacts.contact_create_activity$6: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void setDisplayConfiguration(com.journeyapps.barcodescanner.camera.DisplayConfiguration)>
+<com.journeyapps.barcodescanner.camera.CameraInstance$4: void run()>
+<de.hskl.contacts.contact_view_activity$7: void <init>(de.hskl.contacts.contact_view_activity,android.content.Context,java.util.List,int,java.lang.String[],int[])>
+<com.journeyapps.barcodescanner.BarcodeResult: java.util.Map getResultMetadata()>
+<com.journeyapps.barcodescanner.CameraPreview$3$1: void run()>
+<com.journeyapps.barcodescanner.CaptureManager$2: void previewStarted()>
+<de.hskl.contacts.settings_permission_activity$2: void <init>(de.hskl.contacts.settings_permission_activity,android.widget.Switch)>
+<de.hskl.contacts.MainActivity$6$1: void <init>(de.hskl.contacts.MainActivity$6,android.app.Dialog)>
+<com.journeyapps.barcodescanner.BarcodeView: void decodeContinuous(com.journeyapps.barcodescanner.BarcodeCallback)>
+<de.hskl.contacts.Database_Structure.ProfPics: void setId(int)>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager$2: void onAutoFocus(boolean,android.hardware.Camera)>
+<de.hskl.contacts.Helper.DBHelper: java.util.List getEmailCategoryHashList()>
+<de.hskl.contacts.contact_create_activity$5$1: void <init>(de.hskl.contacts.contact_create_activity$5,android.widget.EditText,android.widget.Spinner,android.app.Dialog)>
+<de.hskl.contacts.contact_view_activity$2$1: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.BarcodeResult: long getTimestamp()>
+<de.hdodenhof.circleimageview.CircleImageView: void setScaleType(android.widget.ImageView$ScaleType)>
+<de.hskl.contacts.MainActivity$7$1: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.CameraPreview: void resume()>
+<de.hskl.contacts.Helper.DBHelper: void updateFavourite(int,boolean)>
+<de.hskl.contacts.contact_view_activity$3$1: void <init>(de.hskl.contacts.contact_view_activity$3,android.app.Dialog)>
+<de.hskl.contacts.contact_view_activity: void setListViews()>
+<de.hskl.contacts.contact_view_activity$4: void <init>(de.hskl.contacts.contact_view_activity)>
+<com.journeyapps.barcodescanner.BarcodeView$1: void <init>(com.journeyapps.barcodescanner.BarcodeView)>
+<com.journeyapps.barcodescanner.Decoder: void <init>(com.google.zxing.Reader)>
+<com.journeyapps.barcodescanner.SourceData: byte[] rotateCCW(byte[],int,int)>
+<de.hskl.contacts.contact_create_activity$8$1: void onClick(android.view.View)>
+<de.hskl.contacts.contact_create_activity$8$2: void <init>(de.hskl.contacts.contact_create_activity$8,android.app.Dialog)>
+<de.hskl.contacts.Database_Structure.Contact: java.lang.String getName()>
+<de.hskl.contacts.contact_create_activity$2: void onClick(android.view.View)>
+<de.hskl.contacts.settings_category_activity$1: void <init>(de.hskl.contacts.settings_category_activity)>
+<com.journeyapps.barcodescanner.camera.CameraManager: boolean isOpen()>
+<com.journeyapps.barcodescanner.CameraPreview$1: void surfaceDestroyed(android.view.SurfaceHolder)>
+<com.journeyapps.barcodescanner.CompoundBarcodeView: void decodeSingle(com.journeyapps.barcodescanner.BarcodeCallback)>
+<de.hskl.contacts.Settings$4: void <init>(de.hskl.contacts.Settings,android.widget.Button)>
+<com.journeyapps.barcodescanner.BarcodeResult: void drawLine(android.graphics.Canvas,android.graphics.Paint,com.google.zxing.ResultPoint,com.google.zxing.ResultPoint,int)>
+<com.journeyapps.barcodescanner.CameraPreview: void onLayout(boolean,int,int,int,int)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: com.journeyapps.barcodescanner.Size getPreviewSize()>
+<com.journeyapps.barcodescanner.BarcodeView$1: boolean handleMessage(android.os.Message)>
+<de.hskl.contacts.MainActivity$12$1: void <init>(de.hskl.contacts.MainActivity$12,android.widget.TextView,android.app.Dialog)>
+<com.journeyapps.barcodescanner.CameraPreview$StateListener: void previewStarted()>
+<com.journeyapps.barcodescanner.CompoundBarcodeView: android.widget.TextView getStatusView()>
+<com.journeyapps.barcodescanner.CompoundBarcodeView$WrappedCallback: void <init>(com.journeyapps.barcodescanner.CompoundBarcodeView,com.journeyapps.barcodescanner.BarcodeCallback)>
+<de.hskl.contacts.Helper.DBHelper: long checkInsEmailCategory(java.lang.String)>
+<com.journeyapps.barcodescanner.CaptureManager: void displayFrameworkBugMessageAndExit()>
+<com.journeyapps.barcodescanner.CameraPreview: android.graphics.Rect getFramingRect()>
+<com.journeyapps.barcodescanner.camera.CameraInstance: com.journeyapps.barcodescanner.camera.DisplayConfiguration getDisplayConfiguration()>
+<com.journeyapps.barcodescanner.camera.CameraManager: void stopPreview()>
+<de.hskl.contacts.Database_Structure.Contact: java.util.List getCat_id_numbers()>
+<com.journeyapps.barcodescanner.DecoderThread: void setCropRect(android.graphics.Rect)>
+<com.journeyapps.barcodescanner.BarcodeView: void <init>(android.content.Context,android.util.AttributeSet,int)>
+<com.journeyapps.barcodescanner.Decoder: com.google.zxing.BinaryBitmap toBitmap(com.google.zxing.LuminanceSource)>
+<com.journeyapps.barcodescanner.CameraPreview$3: void <init>(com.journeyapps.barcodescanner.CameraPreview)>
+<de.hskl.contacts.Helper.DBHelper: java.util.List getNumberListByIdList(java.util.List)>
+<de.hskl.contacts.Helper.DBHelper: java.util.List getEmailListByIdList(java.util.List)>
+<de.hskl.contacts.contact_view_activity$6: void <init>(de.hskl.contacts.contact_view_activity,android.content.Context,java.util.List,int,java.lang.String[],int[])>
+<com.journeyapps.barcodescanner.RotationListener: void stop()>
+<de.hskl.contacts.MainActivity$12$1: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.SourceData: byte[] getData()>
+<de.hskl.contacts.Helper.DBHelper: java.util.List getStringAsInt(java.lang.String)>
+<com.journeyapps.barcodescanner.CompoundBarcodeView: void pause()>
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration: android.graphics.Rect scalePreview(com.journeyapps.barcodescanner.Size)>
+<de.hskl.contacts.MainActivity$7$2: void <init>(de.hskl.contacts.MainActivity$7,android.app.Dialog)>
+<com.journeyapps.barcodescanner.DecoderResultPointCallback: void <init>()>
+<com.journeyapps.barcodescanner.SourceData: android.graphics.Rect getCropRect()>
+<de.hskl.contacts.contact_create_activity$5$2: void onClick(android.view.View)>
+<de.hskl.contacts.Helper.DBHelper: long insertNumber(de.hskl.contacts.Database_Structure.Numbers)>
+<de.hskl.contacts.contact_view_activity$7$1: void <init>(de.hskl.contacts.contact_view_activity$7,android.widget.TextView)>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager: void focus()>
+<de.hskl.contacts.Database_Structure.Emails: void setCat_id_category(int)>
+<de.hskl.contacts.contact_view_activity: void <init>()>
+<com.journeyapps.barcodescanner.BarcodeEncoder: android.graphics.Bitmap encodeBitmap(java.lang.String,com.google.zxing.BarcodeFormat,int,int,java.util.Map)>
+<com.journeyapps.barcodescanner.CaptureManager: void onSaveInstanceState(android.os.Bundle)>
+<de.hskl.contacts.Database_Structure.ProfPics: int getId()>
+<de.hskl.contacts.settings_email_category_activity: void <init>()>
+<com.journeyapps.barcodescanner.DecoderThread: void <clinit>()>
+<de.hskl.contacts.Helper.DBHelper: long checkInsCategory(java.lang.String)>
+<de.hskl.contacts.contact_view_activity$6$1: void onClick(android.view.View)>
+<de.hskl.contacts.Helper.DBHelper: int getEmailCategoryIdByNameDb(android.database.sqlite.SQLiteDatabase,android.database.Cursor,java.lang.String)>
+<com.journeyapps.barcodescanner.SourceData: android.graphics.Bitmap getBitmap(int)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: int getRequestedCameraId()>
+<de.hskl.contacts.Database_Structure.Contact: void setId(int)>
+<com.journeyapps.barcodescanner.DecoderResultPointCallback: void foundPossibleResultPoint(com.google.zxing.ResultPoint)>
+<de.hskl.contacts.MainActivity: java.lang.String getNumbersForQR(java.lang.String)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void setPreviewDisplay(android.view.SurfaceHolder)>
+<com.journeyapps.barcodescanner.ViewfinderView$1: void previewSized()>
+<de.hskl.contacts.settings_category_activity$1$1: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.camera.CameraThread: void incrementAndEnqueue(java.lang.Runnable)>
+<com.journeyapps.barcodescanner.BarcodeView$DecodeMode: void <clinit>()>
+<de.hdodenhof.circleimageview.CircleImageView: void setBorderWidth(int)>
+<de.hskl.contacts.Settings$4$1: void <init>(de.hskl.contacts.Settings$4,android.widget.EditText,android.widget.EditText,android.app.Dialog)>
+<com.journeyapps.barcodescanner.CameraPreview$1: void surfaceChanged(android.view.SurfaceHolder,int,int,int)>
+<de.hskl.contacts.Helper.DBHelper: void deleteEmail(android.database.sqlite.SQLiteDatabase,int)>
+<com.journeyapps.barcodescanner.Size: java.lang.String toString()>
+<de.hskl.contacts.Database_Structure.Emails: void setId(int)>
+<de.hskl.contacts.Helper.DBHelper: java.util.List getContactHashListshort(java.lang.String)>
+<com.journeyapps.barcodescanner.camera.CameraManager: boolean isTorchOn()>
+<com.journeyapps.barcodescanner.CameraPreview: void previewStarted()>
+<de.hdodenhof.circleimageview.CircleImageView: void setPaddingRelative(int,int,int,int)>
+<de.hskl.contacts.settings_category_activity: void setListViews()>
+<de.hdodenhof.circleimageview.CircleImageView: void setBorderColor(int)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void <init>(android.content.Context)>
+<de.hskl.contacts.settings_category_activity$2: void <init>(de.hskl.contacts.settings_category_activity)>
+<de.hskl.contacts.settings_email_category_activity$1: void onClick(android.view.View)>
+<de.hskl.contacts.contact_create_activity$9$2: void <init>(de.hskl.contacts.contact_create_activity$9,android.app.Dialog)>
+<de.hskl.contacts.contact_view_activity: void setListViewHeightBasedOnChildren(android.widget.ListView)>
+<de.hskl.contacts.contact_create_activity$3$1: void <init>(de.hskl.contacts.contact_create_activity$3,android.app.Dialog)>
+<de.hskl.contacts.settings_category_activity: void onCreate(android.os.Bundle)>
+<com.journeyapps.barcodescanner.DecoderThread: android.graphics.Rect getCropRect()>
+<de.hskl.contacts.contact_view_activity: java.lang.String getNumbersForQR(java.util.List)>
+<com.journeyapps.barcodescanner.BarcodeView: void startDecoderThread()>
+<com.journeyapps.barcodescanner.CaptureManager: void onResume()>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void setReadyHandler(android.os.Handler)>
+<com.journeyapps.barcodescanner.BarcodeCallback: void barcodeResult(com.journeyapps.barcodescanner.BarcodeResult)>
+<de.hskl.contacts.Helper.CaptureActivityPortrait: void <init>()>
+<de.hskl.contacts.MainActivity$9: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.ViewfinderView$1: void previewStarted()>
+<com.journeyapps.barcodescanner.CompoundBarcodeView: void initialize(android.util.AttributeSet)>
+<de.hskl.contacts.contact_create_activity: void openCameraIntent()>
+<de.hdodenhof.circleimageview.CircleImageView: boolean isDisableCircularTransformation()>
+<com.journeyapps.barcodescanner.DecoderThread$2: void <init>(com.journeyapps.barcodescanner.DecoderThread)>
+<com.journeyapps.barcodescanner.CameraPreview$4: void previewStopped()>
+<de.hskl.contacts.Helper.DBHelper: java.util.ArrayList getContactArrayList()>
+<com.journeyapps.barcodescanner.CameraPreview: void rotationChanged()>
+<com.journeyapps.barcodescanner.SourceData: int getImageFormat()>
+<de.hskl.contacts.contact_view_activity$1: void onClick(android.view.View)>
+<de.hskl.contacts.MainActivity$1$1: void <init>(de.hskl.contacts.MainActivity$1)>
+<de.hskl.contacts.Settings$5$1: void <init>(de.hskl.contacts.Settings$5,android.app.Dialog)>
+<de.hskl.contacts.Database_Structure.Contact: void setIsfavourite(boolean)>
+<de.hskl.contacts.numpad_activity: void updateText()>
+<com.journeyapps.barcodescanner.CameraPreview: void setTorch(boolean)>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager: void <init>(android.hardware.Camera,com.journeyapps.barcodescanner.camera.CameraSettings)>
+<com.journeyapps.barcodescanner.BarcodeView: com.journeyapps.barcodescanner.Decoder createDecoder()>
+<com.journeyapps.barcodescanner.DecoderThread$1: boolean handleMessage(android.os.Message)>
+<de.hskl.contacts.settings_category_activity$1$1: void <init>(de.hskl.contacts.settings_category_activity$1,android.widget.EditText,android.app.Dialog)>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager: void start()>
+<de.hskl.contacts.Database_Structure.Contact: void setName(java.lang.String)>
+<com.journeyapps.barcodescanner.camera.CameraInstance$2: void <init>(com.journeyapps.barcodescanner.camera.CameraInstance,com.journeyapps.barcodescanner.camera.PreviewCallback)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void open()>
+<de.hdodenhof.circleimageview.CircleImageView: void setPadding(int,int,int,int)>
+<com.journeyapps.barcodescanner.Size: com.journeyapps.barcodescanner.Size scale(int,int)>
+<de.hskl.contacts.Helper.DBHelper: boolean deleteCategory(int)>
+<de.hskl.contacts.Settings$4: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.BarcodeView: void <init>(android.content.Context)>
+<com.journeyapps.barcodescanner.camera.CameraInstance$3: void <init>(com.journeyapps.barcodescanner.camera.CameraInstance)>
+<com.journeyapps.barcodescanner.BarcodeView: void <init>(android.content.Context,android.util.AttributeSet)>
+<com.journeyapps.barcodescanner.RotationListener: void <init>()>
+<de.hskl.contacts.settings_category_activity$1$2: void <init>(de.hskl.contacts.settings_category_activity$1,android.app.Dialog)>
+<de.hdodenhof.circleimageview.CircleImageView: boolean onTouchEvent(android.view.MotionEvent)>
+<de.hskl.contacts.Helper.DBHelper: long insertContact(de.hskl.contacts.Database_Structure.Contact)>
+<de.hskl.contacts.Settings: void onCreate(android.os.Bundle)>

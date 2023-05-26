@@ -1,0 +1,214 @@
+---------- Controls Visited (7) ----------
+task_project_item
+Unknown
+task_priority_item
+fab
+task_date_item
+Unknown
+task_info_item
+
+---------- Controls Not Visited (46) ----------
+task_project_text
+task_priority_number
+website
+task_priority_number
+task_date_icon
+no_text
+task_project_icon
+task_priority_icon
+Unknown
+toolbar
+root
+app_version
+fragment_container
+Unknown
+no_text
+toolbar
+toolbar
+root
+Unknown
+Unknown
+task_date_text
+content
+toolbar
+toolbar
+task_project_item
+task_name_text
+Unknown
+fab
+task_priority_icon
+Unknown
+send_feedback
+root
+drawer
+task_info_icon
+list
+task_info_text
+task_project_text
+list
+task_date_icon
+today_tab
+root
+task_info_text
+task_priority_text
+fab
+drawer
+task_date_text
+
+---------- Methods Visited (59) ----------
+<io.gitlab.allenb1.todolist.TaskEditActivity$2: void <init>(io.gitlab.allenb1.todolist.TaskEditActivity)>
+<io.gitlab.allenb1.todolist.TaskListFragment$1: void <init>(io.gitlab.allenb1.todolist.TaskListFragment)>
+<io.gitlab.allenb1.todolist.TaskEditActivity$4: void onClick(android.view.View)>
+<io.gitlab.allenb1.todolist.TaskActivity$1: void onClick(android.view.View)>
+<io.gitlab.allenb1.todolist.d$b: void <init>()>
+<io.gitlab.allenb1.todolist.TaskEditActivity$6: void <init>(io.gitlab.allenb1.todolist.TaskEditActivity)>
+<io.gitlab.allenb1.todolist.f: void <init>(android.content.Context,java.util.List)>
+<io.gitlab.allenb1.todolist.TaskListFragment: void <init>()>
+<io.gitlab.allenb1.todolist.TaskActivity: void <init>()>
+<io.gitlab.allenb1.todolist.TaskEditActivity: void n()>
+<io.gitlab.allenb1.todolist.e$a: void a()>
+<io.gitlab.allenb1.todolist.d$d: boolean hasNext()>
+<io.gitlab.allenb1.todolist.a: void onResume()>
+<io.gitlab.allenb1.todolist.TaskEditActivity$3: void <init>(io.gitlab.allenb1.todolist.TaskEditActivity)>
+<io.gitlab.allenb1.todolist.TaskEditActivity$4$1: void onDateSet(android.widget.DatePicker,int,int,int)>
+<io.gitlab.allenb1.todolist.TaskEditActivity: void l()>
+<io.gitlab.allenb1.todolist.TaskEditActivity$3: void onClick(android.view.View)>
+<io.gitlab.allenb1.todolist.TaskEditActivity$7: void <init>(io.gitlab.allenb1.todolist.TaskEditActivity)>
+<io.gitlab.allenb1.todolist.a: void onCreate(android.os.Bundle)>
+<io.gitlab.allenb1.todolist.TaskActivity: void onCreate(android.os.Bundle)>
+<io.gitlab.allenb1.todolist.TaskListFragment: void Y()>
+<io.gitlab.allenb1.todolist.TaskEditActivity: void m()>
+<io.gitlab.allenb1.todolist.TaskEditActivity: void onCreate(android.os.Bundle)>
+<io.gitlab.allenb1.todolist.TaskListFragment$2: void <init>(io.gitlab.allenb1.todolist.TaskListFragment)>
+<io.gitlab.allenb1.todolist.TaskEditActivity: void b(int)>
+<io.gitlab.allenb1.todolist.TaskEditActivity: void onBackPressed()>
+<io.gitlab.allenb1.todolist.TaskEditActivity$2: void onClick(android.view.View)>
+<io.gitlab.allenb1.todolist.TaskEditActivity$4$1: void <init>(io.gitlab.allenb1.todolist.TaskEditActivity$4)>
+<io.gitlab.allenb1.todolist.e$a: io.gitlab.allenb1.todolist.e$a b(android.content.Context)>
+<io.gitlab.allenb1.todolist.TaskActivity: io.gitlab.allenb1.todolist.e$a m()>
+<io.gitlab.allenb1.todolist.e$a: void a(java.io.File)>
+<io.gitlab.allenb1.todolist.d: void <init>(io.gitlab.allenb1.todolist.e$a,io.gitlab.allenb1.todolist.d$c)>
+<io.gitlab.allenb1.todolist.d$d: void <init>(io.gitlab.allenb1.todolist.d)>
+<io.gitlab.allenb1.todolist.TaskEditActivity: java.util.Calendar a(io.gitlab.allenb1.todolist.TaskEditActivity)>
+<io.gitlab.allenb1.todolist.TaskListFragment: void m()>
+<io.gitlab.allenb1.todolist.TaskEditActivity: void k()>
+<io.gitlab.allenb1.todolist.TaskListFragment: void a(android.widget.ListView)>
+<io.gitlab.allenb1.todolist.TaskEditActivity: void <init>()>
+<io.gitlab.allenb1.todolist.TaskActivity: void onResume()>
+<io.gitlab.allenb1.todolist.d: java.util.Iterator iterator()>
+<io.gitlab.allenb1.todolist.TaskActivity$1: void <init>(io.gitlab.allenb1.todolist.TaskActivity)>
+<io.gitlab.allenb1.todolist.e$a: java.io.File a(android.content.Context)>
+<io.gitlab.allenb1.todolist.TaskActivity: void k()>
+<io.gitlab.allenb1.todolist.e$a: void <init>(java.io.File)>
+<io.gitlab.allenb1.todolist.TaskEditActivity: void a(java.lang.String)>
+<io.gitlab.allenb1.todolist.TaskListFragment: io.gitlab.allenb1.todolist.e$a Z()>
+<io.gitlab.allenb1.todolist.e: void <init>()>
+<io.gitlab.allenb1.todolist.TaskEditActivity$1: void onClick(android.view.View)>
+<io.gitlab.allenb1.todolist.a: void <init>()>
+<io.gitlab.allenb1.todolist.TaskEditActivity: boolean a(io.gitlab.allenb1.todolist.TaskEditActivity,boolean)>
+<io.gitlab.allenb1.todolist.TaskEditActivity$5: void <init>(io.gitlab.allenb1.todolist.TaskEditActivity)>
+<io.gitlab.allenb1.todolist.TaskListFragment: android.view.View a(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<io.gitlab.allenb1.todolist.d$a: void <init>()>
+<io.gitlab.allenb1.todolist.TaskEditActivity: boolean onOptionsItemSelected(android.view.MenuItem)>
+<io.gitlab.allenb1.todolist.TaskEditActivity$1: void <init>(io.gitlab.allenb1.todolist.TaskEditActivity)>
+<io.gitlab.allenb1.todolist.TaskEditActivity$4: void <init>(io.gitlab.allenb1.todolist.TaskEditActivity,android.widget.TextView)>
+<io.gitlab.allenb1.todolist.f: void a(io.gitlab.allenb1.todolist.d)>
+<io.gitlab.allenb1.todolist.TaskEditActivity: boolean onCreateOptionsMenu(android.view.Menu)>
+<io.gitlab.allenb1.todolist.TaskEditActivity: void o()>
+
+---------- Methods Not Visited (95) ----------
+<io.gitlab.allenb1.todolist.f: android.view.View getView(int,android.view.View,android.view.ViewGroup)>
+<io.gitlab.allenb1.todolist.ProjectActivity$1: void <init>(io.gitlab.allenb1.todolist.ProjectActivity)>
+<io.gitlab.allenb1.todolist.ProjectActivity: void <init>()>
+<io.gitlab.allenb1.todolist.e$a: java.lang.String toString()>
+<io.gitlab.allenb1.todolist.ProjectViewActivity: boolean onOptionsItemSelected(android.view.MenuItem)>
+<io.gitlab.allenb1.todolist.c: java.lang.String toString()>
+<io.gitlab.allenb1.todolist.d: java.lang.String toString()>
+<io.gitlab.allenb1.todolist.e$a: void b()>
+<io.gitlab.allenb1.todolist.TaskListFragment$2$1: boolean a(android.view.MenuItem)>
+<io.gitlab.allenb1.todolist.c$a: void <init>(java.lang.String)>
+<io.gitlab.allenb1.todolist.d$c: boolean a(io.gitlab.allenb1.todolist.e)>
+<io.gitlab.allenb1.todolist.AboutActivity: void <init>()>
+<io.gitlab.allenb1.todolist.b$2: void <init>(io.gitlab.allenb1.todolist.e$a,int,io.gitlab.allenb1.todolist.b$a,io.gitlab.allenb1.todolist.e,android.app.Activity)>
+<io.gitlab.allenb1.todolist.b: void a(android.app.Activity,io.gitlab.allenb1.todolist.e$a,int,io.gitlab.allenb1.todolist.b$a)>
+<io.gitlab.allenb1.todolist.d$a: java.lang.String toString()>
+<io.gitlab.allenb1.todolist.ProjectViewActivity: void <init>()>
+<io.gitlab.allenb1.todolist.AboutActivity$2: void <init>(io.gitlab.allenb1.todolist.AboutActivity)>
+<io.gitlab.allenb1.todolist.d$b: boolean a(io.gitlab.allenb1.todolist.e)>
+<io.gitlab.allenb1.todolist.d$d: io.gitlab.allenb1.todolist.e a()>
+<io.gitlab.allenb1.todolist.d$b: java.lang.String toString()>
+<io.gitlab.allenb1.todolist.ProjectViewActivity: void l()>
+<io.gitlab.allenb1.todolist.ProjectViewActivity: void onResume()>
+<io.gitlab.allenb1.todolist.TaskListFragment$2$1$1: void <init>(io.gitlab.allenb1.todolist.TaskListFragment$2$1)>
+<io.gitlab.allenb1.todolist.b$1: void onClick(android.content.DialogInterface,int)>
+<io.gitlab.allenb1.todolist.d$a: boolean a(io.gitlab.allenb1.todolist.e)>
+<io.gitlab.allenb1.todolist.a: boolean onOptionsItemSelected(android.view.MenuItem)>
+<io.gitlab.allenb1.todolist.ProjectViewActivity$1: void onClick(android.view.View)>
+<io.gitlab.allenb1.todolist.c: void <init>(io.gitlab.allenb1.todolist.e$a,java.lang.String)>
+<io.gitlab.allenb1.todolist.e: boolean b()>
+<io.gitlab.allenb1.todolist.b$2: void onClick(android.content.DialogInterface,int)>
+<io.gitlab.allenb1.todolist.TaskListFragment$2: boolean onItemLongClick(android.widget.AdapterView,android.view.View,int,long)>
+<io.gitlab.allenb1.todolist.AboutActivity: boolean onOptionsItemSelected(android.view.MenuItem)>
+<io.gitlab.allenb1.todolist.d: int size()>
+<io.gitlab.allenb1.todolist.TaskViewActivity$2: void onClick(android.view.View)>
+<io.gitlab.allenb1.todolist.TaskViewActivity: boolean onOptionsItemSelected(android.view.MenuItem)>
+<io.gitlab.allenb1.todolist.ProjectViewActivity: io.gitlab.allenb1.todolist.c a(io.gitlab.allenb1.todolist.ProjectViewActivity)>
+<io.gitlab.allenb1.todolist.a: void onBackPressed()>
+<io.gitlab.allenb1.todolist.TaskViewActivity$1: void <init>(io.gitlab.allenb1.todolist.TaskViewActivity)>
+<io.gitlab.allenb1.todolist.ProjectActivity: void onCreate(android.os.Bundle)>
+<io.gitlab.allenb1.todolist.e: boolean equals(java.lang.Object)>
+<io.gitlab.allenb1.todolist.TaskEditActivity$7: void onClick(android.content.DialogInterface,int)>
+<io.gitlab.allenb1.todolist.TaskListFragment$1: void onItemClick(android.widget.AdapterView,android.view.View,int,long)>
+<io.gitlab.allenb1.todolist.e$a: void <init>()>
+<io.gitlab.allenb1.todolist.TaskListFragment$2$1$1: void a(io.gitlab.allenb1.todolist.e)>
+<io.gitlab.allenb1.todolist.TaskViewActivity$3: void <init>(io.gitlab.allenb1.todolist.TaskViewActivity)>
+<io.gitlab.allenb1.todolist.TaskViewActivity: void l()>
+<io.gitlab.allenb1.todolist.TaskEditActivity$5: void onClick(android.content.DialogInterface,int)>
+<io.gitlab.allenb1.todolist.d: int a()>
+<io.gitlab.allenb1.todolist.e: void <init>(java.lang.String)>
+<io.gitlab.allenb1.todolist.ProjectViewActivity: void k()>
+<io.gitlab.allenb1.todolist.e$a: void b(java.io.File)>
+<io.gitlab.allenb1.todolist.TaskViewActivity$2: void <init>(io.gitlab.allenb1.todolist.TaskViewActivity)>
+<io.gitlab.allenb1.todolist.e: int a(io.gitlab.allenb1.todolist.e)>
+<io.gitlab.allenb1.todolist.TaskListFragment$a: io.gitlab.allenb1.todolist.e$a m()>
+<io.gitlab.allenb1.todolist.c: boolean remove(java.lang.Object)>
+<io.gitlab.allenb1.todolist.AboutActivity$1: void onClick(android.view.View)>
+<io.gitlab.allenb1.todolist.TaskViewActivity$1: void onClick(android.view.View)>
+<io.gitlab.allenb1.todolist.TaskActivity: android.content.Intent a(android.content.Context,java.lang.String)>
+<io.gitlab.allenb1.todolist.a: boolean a(android.view.MenuItem)>
+<io.gitlab.allenb1.todolist.TaskViewActivity: int a(io.gitlab.allenb1.todolist.TaskViewActivity)>
+<io.gitlab.allenb1.todolist.TaskViewActivity$2$1: void onClick(android.content.DialogInterface,int)>
+<io.gitlab.allenb1.todolist.AboutActivity: void a(android.content.Context)>
+<io.gitlab.allenb1.todolist.TaskViewActivity: void <init>()>
+<io.gitlab.allenb1.todolist.d$d: void remove()>
+<io.gitlab.allenb1.todolist.d$d: int b()>
+<io.gitlab.allenb1.todolist.TaskListFragment: io.gitlab.allenb1.todolist.e$a a(io.gitlab.allenb1.todolist.TaskListFragment)>
+<io.gitlab.allenb1.todolist.TaskViewActivity: void m()>
+<io.gitlab.allenb1.todolist.ProjectActivity: void onResume()>
+<io.gitlab.allenb1.todolist.e: int compareTo(java.lang.Object)>
+<io.gitlab.allenb1.todolist.TaskViewActivity: void k()>
+<io.gitlab.allenb1.todolist.ProjectViewActivity: void onCreate(android.os.Bundle)>
+<io.gitlab.allenb1.todolist.TaskViewActivity$3: void a(io.gitlab.allenb1.todolist.e)>
+<io.gitlab.allenb1.todolist.c$a: boolean a(io.gitlab.allenb1.todolist.e)>
+<io.gitlab.allenb1.todolist.d$d: java.lang.Object next()>
+<io.gitlab.allenb1.todolist.AboutActivity: void onCreate(android.os.Bundle)>
+<io.gitlab.allenb1.todolist.c: boolean add(java.lang.Object)>
+<io.gitlab.allenb1.todolist.TaskActivity: void onNewIntent(android.content.Intent)>
+<io.gitlab.allenb1.todolist.c: boolean b(io.gitlab.allenb1.todolist.e)>
+<io.gitlab.allenb1.todolist.TaskViewActivity$2$1: void <init>(io.gitlab.allenb1.todolist.TaskViewActivity$2,java.lang.CharSequence[])>
+<io.gitlab.allenb1.todolist.AboutActivity$2: void onClick(android.view.View)>
+<io.gitlab.allenb1.todolist.TaskListFragment$2$1: void <init>(io.gitlab.allenb1.todolist.TaskListFragment$2,android.view.View)>
+<io.gitlab.allenb1.todolist.ProjectViewActivity$1: void <init>(io.gitlab.allenb1.todolist.ProjectViewActivity)>
+<io.gitlab.allenb1.todolist.TaskViewActivity: void onCreate(android.os.Bundle)>
+<io.gitlab.allenb1.todolist.e: java.lang.String toString()>
+<io.gitlab.allenb1.todolist.AboutActivity$1: void <init>(io.gitlab.allenb1.todolist.AboutActivity)>
+<io.gitlab.allenb1.todolist.ProjectActivity$1: void onItemClick(android.widget.AdapterView,android.view.View,int,long)>
+<io.gitlab.allenb1.todolist.TaskViewActivity: boolean onCreateOptionsMenu(android.view.Menu)>
+<io.gitlab.allenb1.todolist.c: boolean a(io.gitlab.allenb1.todolist.e)>
+<io.gitlab.allenb1.todolist.b$a: void a(io.gitlab.allenb1.todolist.e)>
+<io.gitlab.allenb1.todolist.e: boolean a()>
+<io.gitlab.allenb1.todolist.TaskListFragment: android.support.v4.a.h a(io.gitlab.allenb1.todolist.c)>
+<io.gitlab.allenb1.todolist.b$1: void <init>()>
+<io.gitlab.allenb1.todolist.ProjectViewActivity: io.gitlab.allenb1.todolist.e$a m()>
+<io.gitlab.allenb1.todolist.TaskActivity: android.content.Intent a(android.content.Context,int)>
+<io.gitlab.allenb1.todolist.TaskEditActivity$6: void onClick(android.content.DialogInterface,int)>

@@ -1,0 +1,144 @@
+---------- Controls Visited (2) ----------
+button
+Unknown
+
+---------- Controls Not Visited (27) ----------
+shift_timer
+lightLevelUseCurrent
+currentLightLevel
+imageView
+persistentNotification
+textView2
+widget_on_off_text
+space2
+space
+spinner
+scrollView
+scrollView
+widget_on_off_button
+enableFilter
+textView5
+spinner
+triggerLightLevel
+textView3
+hideNotification
+textView4
+textView6
+textView
+scrollView2
+samsungBacklight
+enableLightSensor
+textView2
+imageView2
+
+---------- Methods Visited (51) ----------
+<screen.dimmer.pixelfilter.MainActivity$4: void onItemSelected(android.widget.AdapterView,android.view.View,int,long)>
+<screen.dimmer.pixelfilter.MainActivity: void onCheckedChanged(android.widget.CompoundButton,boolean)>
+<screen.dimmer.pixelfilter.PermissionActivity: void <init>()>
+<screen.dimmer.pixelfilter.MainActivity$7: void <init>(screen.dimmer.pixelfilter.MainActivity)>
+<screen.dimmer.pixelfilter.PermissionActivity: void onCreate(android.os.Bundle)>
+<screen.dimmer.pixelfilter.FilterService: void onCreate()>
+<screen.dimmer.pixelfilter.d: screen.dimmer.pixelfilter.d a()>
+<screen.dimmer.pixelfilter.b: void <clinit>()>
+<screen.dimmer.pixelfilter.MainActivity$3: void <init>(screen.dimmer.pixelfilter.MainActivity,java.lang.Boolean[])>
+<screen.dimmer.pixelfilter.d: void <init>()>
+<screen.dimmer.pixelfilter.a: void b(android.content.Context)>
+<screen.dimmer.pixelfilter.MainActivity: void onStart()>
+<screen.dimmer.pixelfilter.MainActivity$8: void <init>(screen.dimmer.pixelfilter.MainActivity)>
+<screen.dimmer.pixelfilter.MainActivity$2$1: void run()>
+<screen.dimmer.pixelfilter.MainActivity: void <init>()>
+<screen.dimmer.pixelfilter.MainActivity: void onCreate(android.os.Bundle)>
+<screen.dimmer.pixelfilter.d$b$a: void <clinit>()>
+<screen.dimmer.pixelfilter.d$b: void <init>()>
+<screen.dimmer.pixelfilter.MainActivity$3: void onCheckedChanged(android.widget.CompoundButton,boolean)>
+<screen.dimmer.pixelfilter.FilterService: int onStartCommand(android.content.Intent,int,int)>
+<screen.dimmer.pixelfilter.MainActivity$6: void <init>(screen.dimmer.pixelfilter.MainActivity)>
+<screen.dimmer.pixelfilter.a: void <clinit>()>
+<screen.dimmer.pixelfilter.FilterService: void b()>
+<screen.dimmer.pixelfilter.MainActivity$9: void <init>(screen.dimmer.pixelfilter.MainActivity,android.widget.EditText)>
+<screen.dimmer.pixelfilter.MainActivity$1: void onItemSelected(android.widget.AdapterView,android.view.View,int,long)>
+<screen.dimmer.pixelfilter.MainActivity: void b()>
+<screen.dimmer.pixelfilter.FilterService: void onDestroy()>
+<screen.dimmer.pixelfilter.MainActivity: void onResume()>
+<screen.dimmer.pixelfilter.FilterService: int c()>
+<screen.dimmer.pixelfilter.MainActivity: boolean onOptionsItemSelected(android.view.MenuItem)>
+<screen.dimmer.pixelfilter.FilterService: void d()>
+<screen.dimmer.pixelfilter.PermissionActivity: void openSettings(android.view.View)>
+<screen.dimmer.pixelfilter.MainActivity: boolean onCreateOptionsMenu(android.view.Menu)>
+<screen.dimmer.pixelfilter.MainActivity$4: void <init>(screen.dimmer.pixelfilter.MainActivity)>
+<screen.dimmer.pixelfilter.MainActivity$1: void <init>(screen.dimmer.pixelfilter.MainActivity,java.lang.Boolean[])>
+<screen.dimmer.pixelfilter.MainActivity: void onPause()>
+<screen.dimmer.pixelfilter.FilterService: void <clinit>()>
+<screen.dimmer.pixelfilter.FilterService: void <init>()>
+<screen.dimmer.pixelfilter.MainActivity$2: void <init>(screen.dimmer.pixelfilter.MainActivity,android.widget.CheckBox,boolean)>
+<screen.dimmer.pixelfilter.FilterService: void a()>
+<screen.dimmer.pixelfilter.MainActivity$2$1: void <init>(screen.dimmer.pixelfilter.MainActivity$2)>
+<screen.dimmer.pixelfilter.MainActivity$5: void <init>(screen.dimmer.pixelfilter.MainActivity)>
+<screen.dimmer.pixelfilter.FilterService: android.view.WindowManager$LayoutParams e()>
+<screen.dimmer.pixelfilter.MainActivity: void a()>
+<screen.dimmer.pixelfilter.MainActivity$2: void run()>
+<screen.dimmer.pixelfilter.d$b: void a(android.hardware.SensorManager,android.hardware.SensorEventListener,android.hardware.Sensor,int,int)>
+<screen.dimmer.pixelfilter.c: void a(android.app.Service,boolean)>
+<screen.dimmer.pixelfilter.MainActivity$10: void <init>(screen.dimmer.pixelfilter.MainActivity)>
+<screen.dimmer.pixelfilter.d$b$a: screen.dimmer.pixelfilter.d$b a()>
+<screen.dimmer.pixelfilter.a: void a(android.content.Context)>
+<screen.dimmer.pixelfilter.d$b: void <init>(screen.dimmer.pixelfilter.d$1)>
+
+---------- Methods Not Visited (57) ----------
+<screen.dimmer.pixelfilter.MainActivity$1: void onNothingSelected(android.widget.AdapterView)>
+<screen.dimmer.pixelfilter.FilterService: int c(screen.dimmer.pixelfilter.FilterService)>
+<screen.dimmer.pixelfilter.TaskerActivity$1: void onNothingSelected(android.widget.AdapterView)>
+<screen.dimmer.pixelfilter.OnOffWidget: void onUpdate(android.content.Context,android.appwidget.AppWidgetManager,int[])>
+<screen.dimmer.pixelfilter.d$a: void a(android.hardware.SensorManager,android.hardware.SensorEventListener,android.hardware.Sensor,int,int)>
+<screen.dimmer.pixelfilter.MainActivity$3$2: void onClick(android.content.DialogInterface,int)>
+<screen.dimmer.pixelfilter.d$a$a: void <clinit>()>
+<screen.dimmer.pixelfilter.OnOffWidget: void <init>()>
+<screen.dimmer.pixelfilter.MainActivity: void onNewIntent(android.content.Intent)>
+<screen.dimmer.pixelfilter.FilterService: android.hardware.Sensor d(screen.dimmer.pixelfilter.FilterService)>
+<screen.dimmer.pixelfilter.MainActivity: void onSensorChanged(android.hardware.SensorEvent)>
+<screen.dimmer.pixelfilter.QuickSettingsTileService: void <init>()>
+<screen.dimmer.pixelfilter.TaskerReceiver: void onReceive(android.content.Context,android.content.Intent)>
+<screen.dimmer.pixelfilter.FilterService$1: void run()>
+<screen.dimmer.pixelfilter.MainActivity$3$1: void <init>(screen.dimmer.pixelfilter.MainActivity$3,android.widget.CompoundButton)>
+<screen.dimmer.pixelfilter.FilterService$1: void <init>(screen.dimmer.pixelfilter.FilterService,int,android.os.Handler)>
+<screen.dimmer.pixelfilter.MainActivity$8: void onCheckedChanged(android.widget.CompoundButton,boolean)>
+<screen.dimmer.pixelfilter.d$a$a: screen.dimmer.pixelfilter.d$a a()>
+<screen.dimmer.pixelfilter.MainActivity$6: void onCheckedChanged(android.widget.CompoundButton,boolean)>
+<screen.dimmer.pixelfilter.MainActivity$7: void onTextChanged(java.lang.CharSequence,int,int,int)>
+<screen.dimmer.pixelfilter.TaskerActivity$1: void onItemSelected(android.widget.AdapterView,android.view.View,int,long)>
+<screen.dimmer.pixelfilter.FilterService: void onAccuracyChanged(android.hardware.Sensor,int)>
+<screen.dimmer.pixelfilter.MainActivity$3$2: void <init>(screen.dimmer.pixelfilter.MainActivity$3)>
+<screen.dimmer.pixelfilter.TaskerActivity: void onCreate(android.os.Bundle)>
+<screen.dimmer.pixelfilter.TaskerActivity: void cancel(android.view.View)>
+<screen.dimmer.pixelfilter.FilterService: void onConfigurationChanged(android.content.res.Configuration)>
+<screen.dimmer.pixelfilter.MainActivity$7: void afterTextChanged(android.text.Editable)>
+<screen.dimmer.pixelfilter.MainActivity$4: void onNothingSelected(android.widget.AdapterView)>
+<screen.dimmer.pixelfilter.FilterService: android.widget.ImageView a(screen.dimmer.pixelfilter.FilterService)>
+<screen.dimmer.pixelfilter.FilterService: boolean b(screen.dimmer.pixelfilter.FilterService)>
+<screen.dimmer.pixelfilter.FilterService$a: void <init>(screen.dimmer.pixelfilter.FilterService)>
+<screen.dimmer.pixelfilter.StartOnBootReceiver: void onReceive(android.content.Context,android.content.Intent)>
+<screen.dimmer.pixelfilter.d$a: void <init>()>
+<screen.dimmer.pixelfilter.TaskerReceiver: void <init>()>
+<screen.dimmer.pixelfilter.QuickSettingsTileService: int a()>
+<screen.dimmer.pixelfilter.QuickSettingsTileService: void a(int)>
+<screen.dimmer.pixelfilter.MainActivity: void onDestroy()>
+<screen.dimmer.pixelfilter.MainActivity$10: void onCheckedChanged(android.widget.CompoundButton,boolean)>
+<screen.dimmer.pixelfilter.QuickSettingsTileService: void a(android.content.Context)>
+<screen.dimmer.pixelfilter.MainActivity: void onAccuracyChanged(android.hardware.Sensor,int)>
+<screen.dimmer.pixelfilter.d$a: void <init>(screen.dimmer.pixelfilter.d$1)>
+<screen.dimmer.pixelfilter.FilterService: void onSensorChanged(android.hardware.SensorEvent)>
+<screen.dimmer.pixelfilter.d: void a(android.hardware.SensorManager,android.hardware.SensorEventListener,android.hardware.Sensor,int,int)>
+<screen.dimmer.pixelfilter.StartOnBootReceiver: void <init>()>
+<screen.dimmer.pixelfilter.TaskerActivity$1: void <init>(screen.dimmer.pixelfilter.TaskerActivity)>
+<screen.dimmer.pixelfilter.TaskerActivity: void okay(android.view.View)>
+<screen.dimmer.pixelfilter.FilterService: android.hardware.SensorManager e(screen.dimmer.pixelfilter.FilterService)>
+<screen.dimmer.pixelfilter.MainActivity$7: void beforeTextChanged(java.lang.CharSequence,int,int,int)>
+<screen.dimmer.pixelfilter.QuickSettingsTileService: void onClick()>
+<screen.dimmer.pixelfilter.FilterService: android.os.IBinder onBind(android.content.Intent)>
+<screen.dimmer.pixelfilter.QuickSettingsTileService: void b(android.content.Context)>
+<screen.dimmer.pixelfilter.QuickSettingsTileService: void onStartListening()>
+<screen.dimmer.pixelfilter.MainActivity$5: void onCheckedChanged(android.widget.CompoundButton,boolean)>
+<screen.dimmer.pixelfilter.MainActivity$3$1: void onClick(android.content.DialogInterface,int)>
+<screen.dimmer.pixelfilter.TaskerActivity: void <init>()>
+<screen.dimmer.pixelfilter.MainActivity$9: void onClick(android.view.View)>
+<screen.dimmer.pixelfilter.FilterService$a: void onReceive(android.content.Context,android.content.Intent)>

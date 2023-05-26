@@ -1,0 +1,181 @@
+---------- Controls Visited (13) ----------
+btn_start_b
+btn_start_b
+btn_start_c
+btn_location
+btn_start_a
+btn_finish_location
+btn_finish_fragment
+btn_finish_b
+btn_start_fragment
+btn_start_c
+btn_start_a
+btn_start_dialog
+btn_start_a
+
+---------- Controls Not Visited (23) ----------
+current_location_text
+current_location_update
+btn_finish_c
+status_view_all_a
+btn_close_dialog
+status_view_c
+btn_start_c
+btn_start_dialog
+last_known_location_text
+btn_finish_fragment
+new_fragment_button
+status_view_a
+status_view_all_b
+fragment_button
+status_view_all_a
+btn_finish_a
+status_view_a
+status_view_b
+last_known_location_update
+fragment_text
+fragment_container_view
+status_view_all_c
+btn_start_b
+
+---------- Methods Visited (99) ----------
+<com.example.android.lifecycle.DialogActivity: void onCreate(android.os.Bundle)>
+<com.example.android.lifecycle.ActivityA$5: void onClick(android.view.View)>
+<com.example.android.lifecycle.ActivityC: void onStop()>
+<com.example.android.lifecycle.ActivityB: void onRestart()>
+<com.example.android.lifecycle.ActivityA: void onCreate(android.os.Bundle)>
+<com.example.android.lifecycle.LocationActivity$$ExternalSyntheticLambda0: void <init>(com.example.android.lifecycle.LocationActivity)>
+<com.example.android.lifecycle.LocationActivity: void startActivityA()>
+<com.example.android.lifecycle.FragmentA$3: void onClick(android.view.View)>
+<com.example.android.lifecycle.FragmentA: void <init>()>
+<com.example.android.lifecycle.ActivityA: void onStop()>
+<com.example.android.lifecycle.ActivityC: void onResume()>
+<com.example.android.lifecycle.util.StatusTracker: void setStatus(java.lang.String,java.lang.String)>
+<com.example.android.lifecycle.util.StatusTracker: void <init>()>
+<com.example.android.lifecycle.ActivityB: void <init>()>
+<com.example.android.lifecycle.util.Utils$1: void <init>(android.widget.TextView,android.widget.TextView)>
+<com.example.android.lifecycle.LocationActivity: void <init>()>
+<com.example.android.lifecycle.LocationActivity$1: void onClick(android.view.View)>
+<com.example.android.lifecycle.ActivityB$1: void <init>(com.example.android.lifecycle.ActivityB)>
+<com.example.android.lifecycle.ActivityA: void startActivityB()>
+<com.example.android.lifecycle.ActivityB: void onDestroy()>
+<com.example.android.lifecycle.ActivityC$2: void <init>(com.example.android.lifecycle.ActivityC)>
+<com.example.android.lifecycle.FragmentA$2: void <init>(com.example.android.lifecycle.FragmentA)>
+<com.example.android.lifecycle.ActivityA$1: void <init>(com.example.android.lifecycle.ActivityA)>
+<com.example.android.lifecycle.util.StatusTracker: com.example.android.lifecycle.util.StatusTracker getInstance()>
+<com.example.android.lifecycle.LocationActivity$2: void <init>(com.example.android.lifecycle.LocationActivity)>
+<com.example.android.lifecycle.LocationActivity$3: void onClick(android.view.View)>
+<com.example.android.lifecycle.ActivityC: void <init>()>
+<com.example.android.lifecycle.ActivityB$1: void onClick(android.view.View)>
+<com.example.android.lifecycle.LocationActivity$1: void <init>(com.example.android.lifecycle.LocationActivity)>
+<com.example.android.lifecycle.ActivityC: void onStart()>
+<com.example.android.lifecycle.util.Utils: void printStatus(android.widget.TextView,android.widget.TextView)>
+<com.example.android.lifecycle.FragmentA: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<com.example.android.lifecycle.LocationActivity: void startActivityC()>
+<com.example.android.lifecycle.ActivityA: void onRestart()>
+<com.example.android.lifecycle.ActivityC$1: void onClick(android.view.View)>
+<com.example.android.lifecycle.ActivityB$2: void <init>(com.example.android.lifecycle.ActivityB)>
+<com.example.android.lifecycle.LocationActivity$6: void <init>(com.example.android.lifecycle.LocationActivity)>
+<com.example.android.lifecycle.ActivityC: void startActivityB()>
+<com.example.android.lifecycle.DialogActivity: boolean onTouchEvent(android.view.MotionEvent)>
+<com.example.android.lifecycle.DialogActivity: void <init>()>
+<com.example.android.lifecycle.FragmentA$3: void <init>(com.example.android.lifecycle.FragmentA)>
+<com.example.android.lifecycle.LocationActivity: void onResume()>
+<com.example.android.lifecycle.ActivityB: void onStop()>
+<com.example.android.lifecycle.ActivityC$2: void onClick(android.view.View)>
+<com.example.android.lifecycle.DialogActivity$1: void <init>(com.example.android.lifecycle.DialogActivity)>
+<com.example.android.lifecycle.ActivityB: void finishActivityB()>
+<com.example.android.lifecycle.util.Utils$1: void run()>
+<com.example.android.lifecycle.ActivityA$4: void <init>(com.example.android.lifecycle.ActivityA)>
+<com.example.android.lifecycle.util.StatusTracker: void <clinit>()>
+<com.example.android.lifecycle.ActivityC: void startActivityA()>
+<com.example.android.lifecycle.ActivityB: void onStart()>
+<com.example.android.lifecycle.ActivityB$4: void <init>(com.example.android.lifecycle.ActivityB)>
+<com.example.android.lifecycle.LocationActivity: void onPause()>
+<com.example.android.lifecycle.FragmentActivity: void onCreate(android.os.Bundle)>
+<com.example.android.lifecycle.ActivityA: void launchLocationActivity()>
+<com.example.android.lifecycle.FragmentA: void onCreate(android.os.Bundle)>
+<com.example.android.lifecycle.LocationActivity: void onStop()>
+<com.example.android.lifecycle.ActivityA: void startDialog()>
+<com.example.android.lifecycle.LocationActivity: void onCreate(android.os.Bundle)>
+<com.example.android.lifecycle.LocationActivity$5: void <init>(com.example.android.lifecycle.LocationActivity)>
+<com.example.android.lifecycle.LocationActivity: void onDestroy()>
+<com.example.android.lifecycle.ActivityC$4: void <init>(com.example.android.lifecycle.ActivityC)>
+<com.example.android.lifecycle.ActivityC: void onPause()>
+<com.example.android.lifecycle.ActivityC: void onCreate(android.os.Bundle)>
+<com.example.android.lifecycle.FragmentActivity: void <init>()>
+<com.example.android.lifecycle.ActivityB: void startActivityA()>
+<com.example.android.lifecycle.ActivityB: void startActivityC()>
+<com.example.android.lifecycle.LocationActivity$4: void onClick(android.view.View)>
+<com.example.android.lifecycle.LocationActivity: void finishActivityLocation()>
+<com.example.android.lifecycle.ActivityA$2: void <init>(com.example.android.lifecycle.ActivityA)>
+<com.example.android.lifecycle.ActivityA: void onResume()>
+<com.example.android.lifecycle.ActivityB: void onResume()>
+<com.example.android.lifecycle.util.StatusTracker: java.util.Set keySet()>
+<com.example.android.lifecycle.ActivityB$2: void onClick(android.view.View)>
+<com.example.android.lifecycle.ActivityA$5: void <init>(com.example.android.lifecycle.ActivityA)>
+<com.example.android.lifecycle.LocationActivity$3: void <init>(com.example.android.lifecycle.LocationActivity)>
+<com.example.android.lifecycle.ActivityB: void onPause()>
+<com.example.android.lifecycle.ActivityA: void <init>()>
+<com.example.android.lifecycle.LocationActivity$4: void <init>(com.example.android.lifecycle.LocationActivity)>
+<com.example.android.lifecycle.ActivityB: void startFragment()>
+<com.example.android.lifecycle.util.StatusTracker: java.lang.String getStatus(java.lang.String)>
+<com.example.android.lifecycle.ActivityC$1: void <init>(com.example.android.lifecycle.ActivityC)>
+<com.example.android.lifecycle.ActivityC$3: void <init>(com.example.android.lifecycle.ActivityC)>
+<com.example.android.lifecycle.ActivityA$3: void onClick(android.view.View)>
+<com.example.android.lifecycle.util.StatusTracker: void clear()>
+<com.example.android.lifecycle.ActivityB$3: void onClick(android.view.View)>
+<com.example.android.lifecycle.ActivityB: void onCreate(android.os.Bundle)>
+<com.example.android.lifecycle.ActivityA: void onPause()>
+<com.example.android.lifecycle.FragmentA$1: void <init>(com.example.android.lifecycle.FragmentA)>
+<com.example.android.lifecycle.ActivityA$1: void onClick(android.view.View)>
+<com.example.android.lifecycle.FragmentA: void finishFragment()>
+<com.example.android.lifecycle.util.Utils: void <clinit>()>
+<com.example.android.lifecycle.ActivityB$3: void <init>(com.example.android.lifecycle.ActivityB)>
+<com.example.android.lifecycle.ActivityA: void onStart()>
+<com.example.android.lifecycle.util.StatusTracker: java.util.List getMethodList()>
+<com.example.android.lifecycle.ActivityA$3: void <init>(com.example.android.lifecycle.ActivityA)>
+<com.example.android.lifecycle.FragmentA: void onViewCreated(android.view.View,android.os.Bundle)>
+<com.example.android.lifecycle.LocationActivity: void onStart()>
+<com.example.android.lifecycle.ActivityB$4: void onClick(android.view.View)>
+
+---------- Methods Not Visited (39) ----------
+<com.example.android.lifecycle.ActivityC$4: void onClick(android.view.View)>
+<com.example.android.lifecycle.FragmentB: void finishFragment()>
+<com.example.android.lifecycle.LocationActivity: void getPermissions()>
+<com.example.android.lifecycle.ActivityA: void finishActivityA()>
+<com.example.android.lifecycle.ActivityC: void finishActivityC()>
+<com.example.android.lifecycle.DialogActivity: void finishDialog()>
+<com.example.android.lifecycle.FragmentB: void onViewCreated(android.view.View,android.os.Bundle)>
+<com.example.android.lifecycle.LocationActivity$6$1: void onSuccess(android.location.Location)>
+<com.example.android.lifecycle.LocationActivity$6$1: void onSuccess(java.lang.Object)>
+<com.example.android.lifecycle.LocationActivity: void onRestart()>
+<com.example.android.lifecycle.LocationActivity$$ExternalSyntheticLambda0: void onActivityResult(java.lang.Object)>
+<com.example.android.lifecycle.LocationActivity$5$1: void <init>(com.example.android.lifecycle.LocationActivity$5)>
+<com.example.android.lifecycle.LocationActivity$5$1: void onSuccess(android.location.Location)>
+<com.example.android.lifecycle.ActivityC: void startDialog()>
+<com.example.android.lifecycle.ActivityC: void onDestroy()>
+<com.example.android.lifecycle.LocationActivity$6: void onClick(android.view.View)>
+<com.example.android.lifecycle.FragmentB$1: void onClick(android.view.View)>
+<com.example.android.lifecycle.ActivityC$3: void onClick(android.view.View)>
+<com.example.android.lifecycle.LocationActivity$6$1: void <init>(com.example.android.lifecycle.LocationActivity$6)>
+<com.example.android.lifecycle.DialogActivity$1: void onClick(android.view.View)>
+<com.example.android.lifecycle.FragmentA$1: void onClick(android.view.View)>
+<com.example.android.lifecycle.ActivityA: void onDestroy()>
+<com.example.android.lifecycle.ActivityA: void startActivityC()>
+<com.example.android.lifecycle.LocationActivity: void lambda$new$0$LocationActivity(java.lang.Boolean)>
+<com.example.android.lifecycle.ActivityA$4: void onClick(android.view.View)>
+<com.example.android.lifecycle.FragmentB: void <init>()>
+<com.example.android.lifecycle.FragmentB: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<com.example.android.lifecycle.ActivityC: void onRestart()>
+<com.example.android.lifecycle.LocationActivity$2: void onClick(android.view.View)>
+<com.example.android.lifecycle.LocationActivity$5$1: void onSuccess(java.lang.Object)>
+<com.example.android.lifecycle.util.Utils: void <init>()>
+<com.example.android.lifecycle.LocationActivity$5: void onClick(android.view.View)>
+<com.example.android.lifecycle.FragmentA: void displayMessage()>
+<com.example.android.lifecycle.FragmentA: void loadNewFragment()>
+<com.example.android.lifecycle.ActivityA$2: void onClick(android.view.View)>
+<com.example.android.lifecycle.FragmentB$1: void <init>(com.example.android.lifecycle.FragmentB)>
+<com.example.android.lifecycle.FragmentA$2: void onClick(android.view.View)>
+<com.example.android.lifecycle.LocationActivity: void startActivityB()>
+<com.example.android.lifecycle.FragmentB: void onCreate(android.os.Bundle)>

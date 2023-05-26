@@ -1,0 +1,173 @@
+---------- Controls Visited (2) ----------
+Unknown
+mainPlay
+
+---------- Controls Not Visited (28) ----------
+txtHeader
+channelIconSpinner
+channelName
+Unknown
+Unknown
+addChannel
+mainText
+Unknown
+channelsList
+editChannel
+mainSpinner
+okChannelsTextButton
+mainLayout
+about
+okChannelsButton
+saveButton
+iconSimple
+Unknown
+progressBar
+channelTxtSimple
+icon
+channelTxt
+Unknown
+editChannels
+channelUrl
+channelsText
+rmChannel
+checkbox
+
+---------- Methods Visited (72) ----------
+<starcom.snd.array.ChannelList: java.util.ArrayList addMissingDefaults(android.app.Activity)>
+<starcom.snd.array.ChannelList: java.lang.String getStringFromChannels(java.util.ArrayList)>
+<starcom.snd.WebRadioChannel: boolean equals(java.lang.Object)>
+<starcom.snd.WebRadioChannel: java.lang.String getFullName()>
+<starcom.debug.LoggingSystem: void info(java.lang.Class,java.lang.String[])>
+<starcom.snd.WebStreamPlayer: android.media.MediaPlayer getMediaPlayer()>
+<starcom.snd.array.ChannelList: starcom.snd.array.ChannelList getInstance()>
+<starcom.snd.WebRadio: android.widget.AdapterView$OnItemSelectedListener createSpinnerListener()>
+<starcom.snd.WebRadio: void stateLoading(int)>
+<starcom.snd.array.ChannelList: void writeChannels(android.app.Activity,java.lang.String)>
+<starcom.snd.array.ChannelList: void manipulateCustomAndDefault(java.util.ArrayList)>
+<starcom.snd.WebRadio: boolean onCreateOptionsMenu(android.view.Menu)>
+<starcom.debug.LoggingSystem: java.lang.String join(java.lang.String[])>
+<starcom.snd.WebRadio: boolean onOptionsItemSelected(android.view.MenuItem)>
+<starcom.snd.WebStreamPlayer: void onPrepared(android.media.MediaPlayer)>
+<starcom.snd.WebStreamPlayer: starcom.snd.WebStreamPlayer getInstance()>
+<starcom.snd.array.SimpleArrayAdapter: void <init>(android.content.Context)>
+<starcom.debug.LoggingSystem: void severe(java.lang.Class,java.lang.String[])>
+<starcom.snd.WebStreamPlayer: void <init>()>
+<starcom.snd.WebRadio: void onClick(android.view.View)>
+<starcom.snd.WebStreamPlayer: void play(java.lang.String)>
+<starcom.snd.WebStreamPlayer$State: void <init>(java.lang.String,int)>
+<starcom.snd.listener.CallStateListener: void <init>(starcom.snd.WebStreamPlayer)>
+<starcom.snd.WebRadio: void showTimeSelector()>
+<starcom.snd.WebRadio$4: void <init>(starcom.snd.WebRadio)>
+<starcom.snd.array.SimpleArrayAdapter: void clear()>
+<starcom.snd.util.Resources: java.lang.String readTextRaw(android.content.Context,int)>
+<starcom.snd.WebRadio$1: void onItemSelected(android.widget.AdapterView,android.view.View,int,long)>
+<starcom.debug.LoggingSystem: void severe(java.lang.Class,java.lang.Exception,java.lang.String[])>
+<starcom.snd.array.ChannelList: java.lang.String readChannels(android.app.Activity,java.lang.String)>
+<starcom.snd.array.SimpleArrayAdapter: long getItemId(int)>
+<starcom.snd.WebStreamPlayer$State: void <clinit>()>
+<starcom.snd.array.ChannelList: void doWriteChannels(android.app.Activity,java.lang.String,java.lang.String)>
+<starcom.snd.WebRadio: void onDestroy()>
+<starcom.snd.WebStreamPlayer: void setState(starcom.snd.WebStreamPlayer$State)>
+<starcom.snd.WebRadio: void updateSpinner()>
+<starcom.snd.array.ChannelList: java.util.ArrayList createSelectedChannelList()>
+<starcom.snd.WebStreamPlayer: starcom.snd.WebStreamPlayer$State getState()>
+<starcom.snd.array.ChannelList: void <init>()>
+<starcom.snd.array.ChannelList: void checkVersion(android.app.Activity)>
+<starcom.snd.array.SimpleArrayAdapter: void addAll(java.util.List)>
+<starcom.snd.WebRadio$1: void <init>(starcom.snd.WebRadio)>
+<starcom.snd.WebRadio: void <clinit>()>
+<starcom.snd.WebRadioChannel: int compareTo(starcom.snd.WebRadioChannel)>
+<starcom.snd.WebRadioChannel: java.lang.String getName()>
+<starcom.snd.array.SimpleArrayAdapter: java.lang.Object getItem(int)>
+<starcom.snd.listener.CallStateListener: void do_continue()>
+<starcom.snd.WebRadioChannel: void <init>(java.lang.String,java.lang.String)>
+<starcom.snd.WebStreamPlayer: boolean stop()>
+<starcom.snd.array.ChannelList: void init(android.app.Activity)>
+<starcom.snd.array.SimpleArrayAdapter: android.view.View getView(int,android.view.View,android.view.ViewGroup)>
+<starcom.snd.array.ChannelList: java.util.ArrayList getChannelsFromString(java.lang.String)>
+<starcom.snd.WebRadio: boolean onPrepareOptionsMenu(android.view.Menu)>
+<starcom.snd.WebRadio: void onResume()>
+<starcom.debug.LoggingSystem: void log(java.util.logging.Level,java.lang.Class,java.lang.String)>
+<starcom.debug.LoggingSystem: java.lang.String getName(java.lang.Class)>
+<starcom.snd.WebRadio: void hideNotification()>
+<starcom.snd.WebRadio: void onCreate(android.os.Bundle)>
+<starcom.snd.array.ChannelList: java.lang.String readDefaultChannels(android.content.Context)>
+<starcom.snd.WebRadioChannel: int getGenreIcon()>
+<starcom.snd.WebStreamPlayer: void setStateListener(starcom.snd.listener.StateListener)>
+<starcom.snd.WebRadioChannel: java.lang.String getUrl()>
+<starcom.snd.listener.CallStateListener: void onCallStateChanged(int,java.lang.String)>
+<starcom.snd.array.SimpleArrayAdapter: int getCount()>
+<starcom.snd.WebRadioChannel: boolean isSelected()>
+<starcom.snd.WebRadio: void <init>()>
+<starcom.debug.LoggingSystem: void <clinit>()>
+<starcom.debug.LoggingSystem: void warn(java.lang.Class,java.lang.String[])>
+<starcom.snd.WebRadioChannel: void setSelected(boolean)>
+<starcom.snd.WebRadio: void stateChanged(starcom.snd.WebStreamPlayer$State)>
+<starcom.snd.WebRadio: void showNotification()>
+<starcom.snd.WebStreamPlayer: void releaseMP()>
+
+---------- Methods Not Visited (64) ----------
+<starcom.snd.WebRadio$3: void <init>(starcom.snd.WebRadio)>
+<starcom.snd.dialog.SettingsDialog: void <init>()>
+<starcom.snd.WebRadioChannel: java.lang.String toString()>
+<starcom.snd.util.Resources: void <init>()>
+<starcom.snd.WebRadio$3: void run()>
+<starcom.snd.WebStreamPlayer: boolean onInfo(android.media.MediaPlayer,int,int)>
+<starcom.snd.listener.CallbackListener: void onCallback()>
+<starcom.snd.WebRadio$2: void run()>
+<starcom.snd.WebRadio$MyTimerTask: void <init>(long)>
+<starcom.snd.dialog.SettingsDialog: void <clinit>()>
+<starcom.snd.WebRadio$1: void onNothingSelected(android.widget.AdapterView)>
+<starcom.snd.array.CustomArrayAdapter$CustomTouchListener: void <init>(int,android.app.Activity,starcom.snd.listener.CallbackListener)>
+<starcom.snd.dialog.ChannelsDialog: void onClick(android.view.View)>
+<starcom.snd.dialog.SettingsDialog: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<starcom.snd.array.CustomArrayAdapter: android.view.View getView(int,android.view.View,android.view.ViewGroup)>
+<starcom.snd.listener.StateListener: void stateChanged(starcom.snd.WebStreamPlayer$State)>
+<starcom.snd.WebStreamPlayer: boolean pause(boolean)>
+<starcom.snd.array.CustomArrayAdapter: void onCallback()>
+<starcom.snd.listener.DialogFragmentWithListener: void onDismiss(android.content.DialogInterface)>
+<starcom.snd.dialog.TextDialog: void <init>()>
+<starcom.snd.listener.StateListener: void stateLoading(int)>
+<starcom.snd.array.ChannelList: int listViewGetArrayPos(int)>
+<starcom.snd.array.CustomArrayAdapter: android.widget.CompoundButton$OnCheckedChangeListener createCheckboxListener(int)>
+<starcom.snd.dialog.ChannelsDialog: void onDismiss(android.content.DialogInterface)>
+<starcom.snd.WebRadio$MyTimerTask: long getRemainingMin()>
+<starcom.snd.dialog.SettingsDialog$SettingsType: void <init>(java.lang.String,int)>
+<starcom.snd.WebRadio: void onCallback()>
+<starcom.snd.array.CustomArrayAdapter$CustomTouchListener: boolean onLongClick(android.view.View)>
+<starcom.snd.listener.CallStateListener: void do_stop()>
+<starcom.snd.dialog.SettingsDialog: void showSettings(android.view.View,android.app.FragmentManager,java.lang.String,java.lang.Class,starcom.snd.listener.CallbackListener,starcom.snd.dialog.SettingsDialog$SettingsType)>
+<starcom.snd.WebRadio$MyTimerTask: long getRemainingMS()>
+<starcom.snd.WebRadioChannel: void setData(starcom.snd.WebRadioChannel)>
+<starcom.snd.WebRadio$4: void onTimeSet(android.widget.TimePicker,int,int)>
+<starcom.snd.WebStreamPlayer: void onBufferingUpdate(android.media.MediaPlayer,int)>
+<starcom.snd.dialog.SettingsDialog$SettingsType: void <clinit>()>
+<starcom.snd.array.ChannelList: void setSelectedChannel(int,boolean)>
+<starcom.snd.WebRadioChannel: int compareTo(java.lang.Object)>
+<starcom.snd.dialog.SettingsDialog$SettingsType: starcom.snd.dialog.SettingsDialog$SettingsType valueOf(java.lang.String)>
+<starcom.snd.dialog.SettingsDialog$SettingsType: starcom.snd.dialog.SettingsDialog$SettingsType[] values()>
+<starcom.snd.array.CustomArrayAdapter$1: void onCheckedChanged(android.widget.CompoundButton,boolean)>
+<starcom.snd.array.ChannelList: starcom.snd.WebRadioChannel getSelectedChannel()>
+<starcom.snd.WebStreamPlayer: void onCompletion(android.media.MediaPlayer)>
+<starcom.snd.WebRadio$2: void <init>(starcom.snd.WebRadio)>
+<starcom.snd.array.ChannelList: boolean listViewIsDefault(int)>
+<starcom.snd.dialog.SettingsDialog: void onResume()>
+<starcom.snd.array.ChannelList: java.util.ArrayList getCustomChannelList()>
+<starcom.snd.array.ChannelList: java.util.ArrayList listViewCreateChannelList()>
+<starcom.snd.array.SimpleArrayAdapter: void add(starcom.snd.WebRadioChannel)>
+<starcom.snd.listener.DialogFragmentWithListener: void <init>()>
+<starcom.snd.WebStreamPlayer: boolean onError(android.media.MediaPlayer,int,int)>
+<starcom.snd.array.CustomArrayAdapter: void <init>(android.app.Activity)>
+<starcom.snd.dialog.ChannelsDialog: void <init>()>
+<starcom.snd.WebRadio: void doClickLater()>
+<starcom.snd.dialog.SettingsDialog: void onClick(android.view.View)>
+<starcom.snd.dialog.TextDialog: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<starcom.snd.dialog.TextDialog: void onClick(android.view.View)>
+<starcom.snd.WebStreamPlayer$State: starcom.snd.WebStreamPlayer$State valueOf(java.lang.String)>
+<starcom.snd.WebStreamPlayer$State: starcom.snd.WebStreamPlayer$State[] values()>
+<starcom.snd.array.ChannelList: java.util.ArrayList getDefaultChannelList()>
+<starcom.snd.array.CustomArrayAdapter$1: void <init>(starcom.snd.array.CustomArrayAdapter,int)>
+<starcom.snd.dialog.ChannelsDialog: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<starcom.debug.LoggingSystem: void <init>()>
+<starcom.snd.listener.DialogFragmentWithListener: starcom.snd.listener.CallbackListener setCallbackListener(starcom.snd.listener.CallbackListener)>
+<starcom.snd.WebRadio$MyTimerTask: void run()>

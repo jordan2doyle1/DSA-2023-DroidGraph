@@ -1,0 +1,328 @@
+---------- Controls Visited (0) ----------
+
+---------- Controls Not Visited (64) ----------
+activity_main_navigation_view
+activity_edit_cellar_cuvee_ACTV
+recycler_cellar_row_domain_text
+activity_edit_cellar_ok_button
+Unknown
+activity_main_drawer_sort_2_radio
+activity_edit_cellar_stock_edit
+bottombar_red_button
+activity_main_drawer_sort_0_radio
+activity_edit_cellar_domain_ACTV
+recycler_cellar_row_vintage_text
+activity_edit_cellar_photo_image
+recycler_cellar_row_origin_text
+activity_edit_cellar_title_text
+recycler_cellar_row_buttons_linearlayout
+activity_edit_cellar_capacity_spinner
+recycler_cellar_row_plus_button
+recycler_cellar_row_cellar_comment_text
+fragment_cellar_choice_dialog_spinner
+bottombar_pink_button
+Unknown
+recycler_cellar_row_capacity_text
+fragment_edit_dialog_text
+activity_main_drawer_sort_radio_group
+recycler_cellar_row_bottle_name_text
+recycler_cellar_row_minus_button
+recycler_cellar_row_edit_image
+recycler_cellar_row_cuvee_text
+activity_edit_cellar_red_radio
+activity_edit_cellar_white_radio
+bottombar_white_button
+recycler_cellar_row_collapse_image
+activity_edit_cellar_origin_edit
+Unknown
+bottombar_all_wines_button
+recycler_cellar_row_cellar_comment_title_text
+activity_edit_cellar_cellar_comment_edit
+activity_edit_cellar_storage_button
+Unknown
+activity_main_bottom_bar_frame_layout
+activity_main_drawer_layout
+recycler_cellar_row_type_text
+recycler_cellar_row_bottle_comment_text
+activity_main_frame_layout
+activity_edit_cellar_camera_button
+activity_edit_cellar_delete_button
+activity_edit_cellar_bottle_comment_edit
+recycler_cellar_row_origin_title_text
+fragment_edit_dialog_edit
+Unknown
+activity_edit_cellar_delete_photo_button
+activity_edit_cellar_pink_radio
+recycler_cellar_row_appellation_text
+fragment_cellar_recycler_view
+recycler_cellar_row_bottle_comment_title_text
+Unknown
+activity_main_drawer_sort_1_radio
+recycler_cellar_row_photo_image
+activity_edit_cellar_vintage_edit
+activity_edit_cellar_appellation_ACTV
+Unknown
+recycler_cellar_row_quantity_text
+Unknown
+Unknown
+
+---------- Methods Visited (53) ----------
+<com.nathaniel.motus.cavevin.view.CellarFragment: void updateCellarRecyclerView(com.nathaniel.motus.cavevin.model.Cellar)>
+<com.nathaniel.motus.cavevin.model.Cellar: java.util.ArrayList getCellarPool()>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void configureBottomBar()>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void <init>()>
+<com.nathaniel.motus.cavevin.view.BottomBarFragment: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<com.nathaniel.motus.cavevin.model.CellComparator: void setSortingOrder(int,int,int,int,int)>
+<com.nathaniel.motus.cavevin.view.CellarFragment: void onActivityCreated(android.os.Bundle)>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void configureAndShowCellarFragment()>
+<com.nathaniel.motus.cavevin.model.Cell: int getNumberOfCells()>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void configureDrawerLayout()>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void onRequestPermissionsResult(int,java.lang.String[],int[])>
+<com.nathaniel.motus.cavevin.model.Cellar: int getNumberOfCellars()>
+<com.nathaniel.motus.cavevin.model.CellComparator: void <clinit>()>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: void loadDataBase(android.content.Context,java.io.File)>
+<com.nathaniel.motus.cavevin.model.Cell: void <clinit>()>
+<com.nathaniel.motus.cavevin.model.Cellar: void <init>(java.lang.Boolean)>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void cleanUpDatabase()>
+<com.nathaniel.motus.cavevin.controller.PhotoProvider: boolean onCreate()>
+<com.nathaniel.motus.cavevin.controller.MainActivity$1: void <init>(com.nathaniel.motus.cavevin.controller.MainActivity)>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void configureNavigationView()>
+<com.nathaniel.motus.cavevin.view.BottomBarFragment: void <init>()>
+<com.nathaniel.motus.cavevin.model.Cellar: void <clinit>()>
+<com.nathaniel.motus.cavevin.model.Bottle: int getNumberOfReferences()>
+<com.nathaniel.motus.cavevin.view.CellarFragment: void onPause()>
+<com.nathaniel.motus.cavevin.model.Bottle: void <clinit>()>
+<com.nathaniel.motus.cavevin.view.CellarFragment: void <clinit>()>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void onCreate(android.os.Bundle)>
+<com.nathaniel.motus.cavevin.model.CellComparator: void setSortingSense(int,int,int,int,int)>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: java.io.File createOrGetFile(java.io.File,java.lang.String,java.lang.String)>
+<com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter: void <init>(com.nathaniel.motus.cavevin.model.Cellar,android.content.Context,android.app.Activity)>
+<com.nathaniel.motus.cavevin.controller.PhotoProvider: void <init>()>
+<com.nathaniel.motus.cavevin.model.CellComparator: void <init>()>
+<com.nathaniel.motus.cavevin.model.Cellar: java.util.ArrayList getCellList()>
+<com.nathaniel.motus.cavevin.view.CellarFragment: void <init>()>
+<com.nathaniel.motus.cavevin.view.CellarFragment: void onResume()>
+<com.nathaniel.motus.cavevin.view.CellarFragment: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void configureSortOptions()>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void loadDatas()>
+<com.nathaniel.motus.cavevin.model.Cellar: com.nathaniel.motus.cavevin.model.Cellar typeFiltered(java.lang.String)>
+<com.nathaniel.motus.cavevin.model.Cellar: java.lang.String getCellarName()>
+<com.nathaniel.motus.cavevin.view.BottomBarFragment: void createCallBackToParentActivity()>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void prepareFirstUse()>
+<com.nathaniel.motus.cavevin.controller.MainActivity: java.lang.String getCurrentTypeFilter()>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void <clinit>()>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void setDrawerCellarTitle()>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void onResume()>
+<com.nathaniel.motus.cavevin.model.Cellar: void <init>(java.lang.String,java.util.ArrayList,java.lang.Boolean)>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void checkPermissions()>
+<com.nathaniel.motus.cavevin.controller.MainActivity: int getCurrentCellarIndex()>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void configureToolBar()>
+<com.nathaniel.motus.cavevin.controller.MainActivity$1: void onCheckedChanged(android.widget.RadioGroup,int)>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void getSharedPreferences()>
+<com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter: int getItemCount()>
+
+---------- Methods Not Visited (204) ----------
+<com.nathaniel.motus.cavevin.model.Cellar: void clearCellarPool()>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: void zipSubFolder(java.util.zip.ZipOutputStream,java.io.File,int)>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void onActivityResult(int,int,android.content.Intent)>
+<com.nathaniel.motus.cavevin.model.Cellar: void setCellarParametersOf(com.nathaniel.motus.cavevin.model.Cellar)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity: void onDestroy()>
+<com.nathaniel.motus.cavevin.view.CellarChoiceDialogFragment$2: void onClick(android.content.DialogInterface,int)>
+<com.nathaniel.motus.cavevin.view.CellarChoiceDialogFragment$1: void <init>(com.nathaniel.motus.cavevin.view.CellarChoiceDialogFragment)>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: java.lang.String cellToString(com.nathaniel.motus.cavevin.model.Cell)>
+<com.nathaniel.motus.cavevin.controller.CellarPictureUtils: android.net.Uri getUriFromFileProvider(android.content.Context,java.lang.String)>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: void createDataBase(android.content.Context,com.nathaniel.motus.cavevin.model.JsonObject)>
+<com.nathaniel.motus.cavevin.controller.MainActivity: boolean getCameraPermission()>
+<com.nathaniel.motus.cavevin.model.Cellar: int getStock()>
+<com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter$5: void onClick(android.view.View)>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: com.nathaniel.motus.cavevin.model.JsonObject bottleCatalogToJsonObject()>
+<com.nathaniel.motus.cavevin.model.Cell: void removeCell()>
+<com.nathaniel.motus.cavevin.view.MyViewHolder: void <init>(android.view.View)>
+<com.nathaniel.motus.cavevin.model.Bottle: void setCuvee(java.lang.String)>
+<com.nathaniel.motus.cavevin.model.JsonObject: int getClosureIndex(int)>
+<com.nathaniel.motus.cavevin.controller.PhotoProvider: android.database.Cursor query(android.net.Uri,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity: void <init>()>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void showCellarChoiceDialogFragment(java.lang.String,java.lang.String)>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void importDatabase(android.net.Uri)>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: void exportCellarToCsvFile(android.content.Context,android.net.Uri)>
+<com.nathaniel.motus.cavevin.model.Cell: void setCellParametersOf(com.nathaniel.motus.cavevin.model.Cell)>
+<com.nathaniel.motus.cavevin.model.Cell: com.nathaniel.motus.cavevin.model.Cellar findUseCaseCellar(int)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity: void <clinit>()>
+<com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter: void expandCard(com.nathaniel.motus.cavevin.view.MyViewHolder)>
+<com.nathaniel.motus.cavevin.model.Bottle: void setBottleName(java.lang.String)>
+<com.nathaniel.motus.cavevin.model.Cell: java.lang.Boolean isBottleUseCase(com.nathaniel.motus.cavevin.model.Bottle)>
+<com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter: com.nathaniel.motus.cavevin.view.MyViewHolder onCreateViewHolder(android.view.ViewGroup,int)>
+<com.nathaniel.motus.cavevin.controller.CellarPictureUtils: int calculateInSampleSize(android.graphics.BitmapFactory$Options,int,int)>
+<com.nathaniel.motus.cavevin.model.Cell: void <init>(java.lang.Boolean)>
+<com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter$4: void onClick(android.view.View)>
+<com.nathaniel.motus.cavevin.model.Cell: void setBottle(com.nathaniel.motus.cavevin.model.Bottle)>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void showStats()>
+<com.nathaniel.motus.cavevin.model.Bottle: float getCapacity()>
+<com.nathaniel.motus.cavevin.view.EditDialogFragment: void <init>()>
+<com.nathaniel.motus.cavevin.model.Bottle: void <init>(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Float,java.lang.String,java.lang.String,java.lang.Boolean)>
+<com.nathaniel.motus.cavevin.controller.PhotoProvider: java.lang.String getType(android.net.Uri)>
+<com.nathaniel.motus.cavevin.model.JsonObject: com.nathaniel.motus.cavevin.model.JsonObject stringToJsonObject(java.lang.String)>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: void deleteRecursive(java.io.File)>
+<com.nathaniel.motus.cavevin.model.Bottle: void setPhotoName(java.lang.String)>
+<com.nathaniel.motus.cavevin.view.CellarChoiceDialogFragment: com.nathaniel.motus.cavevin.view.CellarChoiceDialogFragment newInstance(java.lang.String)>
+<com.nathaniel.motus.cavevin.view.CellarChoiceDialogFragment: void initializeCellarChoiceSpinner()>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity: void onActivityResult(int,int,android.content.Intent)>
+<com.nathaniel.motus.cavevin.model.CellComparator: java.util.ArrayList getSortingSense()>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity$7: void onClick(android.content.DialogInterface,int)>
+<com.nathaniel.motus.cavevin.view.CellarChoiceDialogFragment$2: void <init>(com.nathaniel.motus.cavevin.view.CellarChoiceDialogFragment)>
+<com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter$1: void <init>(com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter,int)>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: com.nathaniel.motus.cavevin.model.JsonObject bottleToJsonObject(com.nathaniel.motus.cavevin.model.Bottle)>
+<com.nathaniel.motus.cavevin.view.CellarChoiceDialogFragment$1: void onClick(android.content.DialogInterface,int)>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void launchEditCellarActivity(int)>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: void saveBitmapToInternalStorage(java.io.File,java.lang.String,java.lang.String,android.graphics.Bitmap)>
+<com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter: void createCallBackToParentActivity()>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity: void sendTakePhotoIntent()>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity: java.util.ArrayList getCuveeAutoCompletionList()>
+<com.nathaniel.motus.cavevin.model.Bottle: java.util.ArrayList getBottleCatalog()>
+<com.nathaniel.motus.cavevin.model.Bottle: void setBottleParametersOf(com.nathaniel.motus.cavevin.model.Bottle)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity$1: void onClick(android.view.View)>
+<com.nathaniel.motus.cavevin.model.JsonObject: java.lang.String jsonToString()>
+<com.nathaniel.motus.cavevin.model.Bottle: void setAppellation(java.lang.String)>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void sendExportCsvIntent()>
+<com.nathaniel.motus.cavevin.model.Bottle: java.lang.String getAppellation()>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: android.graphics.Bitmap getBitmapFromUri(android.content.Context,android.net.Uri)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity$2: void <init>(com.nathaniel.motus.cavevin.controller.EditCellarActivity)>
+<com.nathaniel.motus.cavevin.model.JsonObject: java.lang.String getKeyValue(java.lang.String)>
+<com.nathaniel.motus.cavevin.controller.CellarInputUtils: void <clinit>()>
+<com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter: androidx.recyclerview.widget.RecyclerView$ViewHolder onCreateViewHolder(android.view.ViewGroup,int)>
+<com.nathaniel.motus.cavevin.model.Bottle: java.lang.String getDomain()>
+<com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter: void collapseCard(com.nathaniel.motus.cavevin.view.MyViewHolder)>
+<com.nathaniel.motus.cavevin.model.Bottle: void setCapacity(float)>
+<com.nathaniel.motus.cavevin.model.Bottle: java.lang.String getBottleName()>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: com.nathaniel.motus.cavevin.model.JsonObject cellPoolToJsonObject()>
+<com.nathaniel.motus.cavevin.view.EditDialogFragment$1: void onClick(android.content.DialogInterface,int)>
+<com.nathaniel.motus.cavevin.view.EditDialogFragment: void createCallBackToParentActivity()>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void onCellarChoiceFragmentClick(int)>
+<com.nathaniel.motus.cavevin.view.CellarChoiceDialogFragment: void createCallBackToParentActivity()>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: android.graphics.Bitmap decodeSampledBitmapFromFile(java.io.File,java.lang.String,java.lang.String,int,int)>
+<com.nathaniel.motus.cavevin.view.CellarChoiceDialogFragment$onCellarChoiceFragmentClickListener: void onCellarChoiceFragmentClick(int)>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: java.lang.String cellarToString(com.nathaniel.motus.cavevin.model.Cellar)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity$8: void onClick(android.content.DialogInterface,int)>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void sendExportDataBaseIntent()>
+<com.nathaniel.motus.cavevin.controller.CellarPictureUtils: android.graphics.Bitmap rotate(android.graphics.Bitmap,int)>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: boolean zipFileAtPath(android.content.Context,java.lang.String,android.net.Uri)>
+<com.nathaniel.motus.cavevin.model.Bottle: com.nathaniel.motus.cavevin.model.Cell findUseCaseCell(int)>
+<com.nathaniel.motus.cavevin.model.JsonObject: void addKeyValue(java.lang.String,java.util.ArrayList)>
+<com.nathaniel.motus.cavevin.controller.MainActivity: boolean getWriteExternalStoragePermission()>
+<com.nathaniel.motus.cavevin.model.JsonObject: void addKeyValue(java.lang.String,java.lang.String)>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: com.nathaniel.motus.cavevin.model.JsonObject dataBaseToJsonObject()>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void showSortOptionsEditor()>
+<com.nathaniel.motus.cavevin.model.Bottle: java.lang.String getBottleComment()>
+<com.nathaniel.motus.cavevin.view.CellarChoiceDialogFragment: void <init>()>
+<com.nathaniel.motus.cavevin.view.EditDialogFragment$onEditDialogClickListener: void onEditDialogClick(android.view.View,java.lang.String)>
+<com.nathaniel.motus.cavevin.model.Bottle: void <init>(java.lang.Boolean)>
+<com.nathaniel.motus.cavevin.model.Cell: java.lang.String getCellComment()>
+<com.nathaniel.motus.cavevin.view.EditDialogFragment$2: void onClick(android.content.DialogInterface,int)>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void onBottomBarItemClicked(android.view.View,java.lang.String)>
+<com.nathaniel.motus.cavevin.model.Bottle: java.lang.String getCuvee()>
+<com.nathaniel.motus.cavevin.model.Cell: void setCellComment(java.lang.String)>
+<com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter$4: void <init>(com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter,int)>
+<com.nathaniel.motus.cavevin.controller.PhotoProvider: android.net.Uri insert(android.net.Uri,android.content.ContentValues)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity: void configureToolBar()>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity$4: void <init>(com.nathaniel.motus.cavevin.controller.EditCellarActivity)>
+<com.nathaniel.motus.cavevin.view.EditDialogFragment: android.app.Dialog onCreateDialog(android.os.Bundle)>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void onItemClicked(android.view.View,int)>
+<com.nathaniel.motus.cavevin.model.Bottle: void setDomain(java.lang.String)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity$3: void <init>(com.nathaniel.motus.cavevin.controller.EditCellarActivity)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity: void createEntry()>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity$7: void <init>(com.nathaniel.motus.cavevin.controller.EditCellarActivity)>
+<com.nathaniel.motus.cavevin.model.Bottle: java.lang.String getType()>
+<com.nathaniel.motus.cavevin.view.EditDialogFragment$1: void <init>(com.nathaniel.motus.cavevin.view.EditDialogFragment,android.view.View)>
+<com.nathaniel.motus.cavevin.model.Bottle: void clearBottle()>
+<com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter$3: void <init>(com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter,int,com.nathaniel.motus.cavevin.view.MyViewHolder)>
+<com.nathaniel.motus.cavevin.controller.CellarPictureUtils: int getDisplayWidthPx(android.content.Context)>
+<com.nathaniel.motus.cavevin.controller.CellarInputUtils: java.lang.String replaceForbiddenCharacters(android.content.Context,java.lang.String)>
+<com.nathaniel.motus.cavevin.controller.CellarPictureUtils: android.graphics.Bitmap decodeSampledBitmapFromResource(android.content.res.Resources,int,int,int)>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: void clearDataBase()>
+<com.nathaniel.motus.cavevin.model.Cell: void clearCellPool()>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity$6: void onClick(android.view.View)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity$6: void <init>(com.nathaniel.motus.cavevin.controller.EditCellarActivity)>
+<com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter$2: void <init>(com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter,int,com.nathaniel.motus.cavevin.view.MyViewHolder)>
+<com.nathaniel.motus.cavevin.model.Bottle: void removeBottleFromCatalog()>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void saveDatas()>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: com.nathaniel.motus.cavevin.model.JsonObject cellarPoolToJsonObject()>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity: void initializeFields()>
+<com.nathaniel.motus.cavevin.model.Cell: int getStock()>
+<com.nathaniel.motus.cavevin.model.JsonObject: void addJsonObject(com.nathaniel.motus.cavevin.model.JsonObject)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity: java.util.ArrayList getDomainAutoCompletionList()>
+<com.nathaniel.motus.cavevin.model.Cell: void clearCell()>
+<com.nathaniel.motus.cavevin.model.Cell: com.nathaniel.motus.cavevin.model.Bottle getBottle()>
+<com.nathaniel.motus.cavevin.model.JsonObject: void <init>()>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: java.lang.String saveBottleImageToInternalStorage(java.io.File,java.lang.String,android.graphics.Bitmap)>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: void deleteFileFromInternalStorage(java.io.File,java.lang.String,java.lang.String)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity$5: void <init>(com.nathaniel.motus.cavevin.controller.EditCellarActivity)>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: java.lang.String cellToCsvLine(android.content.Context,com.nathaniel.motus.cavevin.model.Cell)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity: void deleteCellarEntry()>
+<com.nathaniel.motus.cavevin.controller.MainActivity: boolean onOptionsItemSelected(android.view.MenuItem)>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void showEditDialogFragment(java.lang.String,java.lang.String,java.lang.String,java.lang.String)>
+<com.nathaniel.motus.cavevin.controller.MainActivity: boolean onNavigationItemSelected(android.view.MenuItem)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity: void saveDatas()>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: void saveDataBase(java.io.File)>
+<com.nathaniel.motus.cavevin.model.Cell: java.util.ArrayList getCellPool()>
+<com.nathaniel.motus.cavevin.model.Cell: void setOrigin(java.lang.String)>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: android.graphics.Bitmap getBitmapFromInternalStorage(java.io.File,java.lang.String,java.lang.String)>
+<com.nathaniel.motus.cavevin.model.Cellar: void setCellList(java.util.ArrayList)>
+<com.nathaniel.motus.cavevin.view.EditDialogFragment$2: void <init>(com.nathaniel.motus.cavevin.view.EditDialogFragment)>
+<com.nathaniel.motus.cavevin.model.JsonObject: java.util.ArrayList getKeyValueArray(java.lang.String)>
+<com.nathaniel.motus.cavevin.model.Cellar: int getStock(java.lang.String)>
+<com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter$2: void onClick(android.view.View)>
+<com.nathaniel.motus.cavevin.model.Cellar: void setCellarName(java.lang.String)>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: com.nathaniel.motus.cavevin.model.JsonObject cellarToJsonObject(com.nathaniel.motus.cavevin.model.Cellar)>
+<com.nathaniel.motus.cavevin.model.Cell: void <init>(com.nathaniel.motus.cavevin.model.Bottle,java.lang.String,int,java.lang.String,java.lang.Boolean)>
+<com.nathaniel.motus.cavevin.model.Bottle: void setType(java.lang.String)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity$2: void onClick(android.view.View)>
+<com.nathaniel.motus.cavevin.model.CellComparator: java.util.ArrayList getSortingOrder()>
+<com.nathaniel.motus.cavevin.controller.PhotoProvider: android.os.ParcelFileDescriptor openFile(android.net.Uri,java.lang.String)>
+<com.nathaniel.motus.cavevin.model.Cellar: void destroyCells()>
+<com.nathaniel.motus.cavevin.model.Bottle: void clearBottleCatalog()>
+<com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter$1: void onClick(android.view.View)>
+<com.nathaniel.motus.cavevin.model.CellComparator: int compare(java.lang.Object,java.lang.Object)>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void onDestroy()>
+<com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter$3: void onClick(android.view.View)>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void onEditDialogClick(android.view.View,java.lang.String)>
+<com.nathaniel.motus.cavevin.controller.PhotoProvider: int update(android.net.Uri,android.content.ContentValues,java.lang.String,java.lang.String[])>
+<com.nathaniel.motus.cavevin.model.CellComparator: int compare(com.nathaniel.motus.cavevin.model.Cell,com.nathaniel.motus.cavevin.model.Cell)>
+<com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter: void onBindViewHolder(com.nathaniel.motus.cavevin.view.MyViewHolder,int)>
+<com.nathaniel.motus.cavevin.model.Bottle: java.lang.String getVintage()>
+<com.nathaniel.motus.cavevin.controller.MainActivity: boolean onCreateOptionsMenu(android.view.Menu)>
+<com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter$5: void <init>(com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter,int,com.nathaniel.motus.cavevin.view.MyViewHolder)>
+<com.nathaniel.motus.cavevin.view.BottomBarFragment: void onClick(android.view.View)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity: void updateAutoCompletionTextViewAdapter()>
+<com.nathaniel.motus.cavevin.model.Bottle: void setVintage(java.lang.String)>
+<com.nathaniel.motus.cavevin.model.Cell: void setStock(int)>
+<com.nathaniel.motus.cavevin.view.BottomBarFragment$onBottomBarClickedListener: void onBottomBarItemClicked(android.view.View,java.lang.String)>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: com.nathaniel.motus.cavevin.model.JsonObject cellToJsonObject(com.nathaniel.motus.cavevin.model.Cell)>
+<com.nathaniel.motus.cavevin.model.Cellar: int totalStock()>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: java.lang.String getLastPathComponent(java.lang.String)>
+<com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter$onItemClickedListener: void onItemClicked(android.view.View,int)>
+<com.nathaniel.motus.cavevin.controller.PhotoProvider: int delete(android.net.Uri,java.lang.String,java.lang.String[])>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity: void sendGetPhotoPathNameIntent()>
+<com.nathaniel.motus.cavevin.controller.MainActivity$2: void onClick(android.content.DialogInterface,int)>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: java.lang.String bottleToString(com.nathaniel.motus.cavevin.model.Bottle)>
+<com.nathaniel.motus.cavevin.controller.CellarPictureUtils: void <init>()>
+<com.nathaniel.motus.cavevin.view.MyRecyclerViewAdapter: void onBindViewHolder(androidx.recyclerview.widget.RecyclerView$ViewHolder,int)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity: java.util.ArrayList getAppellationAutoCompletionList()>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: boolean unpackZip(android.content.Context,java.lang.String,android.net.Uri)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity$8: void <init>(com.nathaniel.motus.cavevin.controller.EditCellarActivity)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity: boolean onCreateOptionsMenu(android.view.Menu)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity$4: void onClick(android.view.View)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity$5: void onClick(android.view.View)>
+<com.nathaniel.motus.cavevin.controller.MainActivity: void sendImportDataBaseIntent()>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity: void onCreate(android.os.Bundle)>
+<com.nathaniel.motus.cavevin.controller.CellarStorageUtils: void <init>()>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity$3: void onClick(android.view.View)>
+<com.nathaniel.motus.cavevin.controller.CellarInputUtils: void <init>()>
+<com.nathaniel.motus.cavevin.model.Bottle: java.lang.String getPhotoName()>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity$1: void <init>(com.nathaniel.motus.cavevin.controller.EditCellarActivity)>
+<com.nathaniel.motus.cavevin.model.Cell: java.lang.String getOrigin()>
+<com.nathaniel.motus.cavevin.view.EditDialogFragment: com.nathaniel.motus.cavevin.view.EditDialogFragment newInstance(java.lang.String,java.lang.String,java.lang.String)>
+<com.nathaniel.motus.cavevin.model.Bottle: void setBottleComment(java.lang.String)>
+<com.nathaniel.motus.cavevin.controller.EditCellarActivity: void deleteBottlePhoto()>
+<com.nathaniel.motus.cavevin.model.Cellar: java.lang.Boolean isCellUseCase(com.nathaniel.motus.cavevin.model.Cell)>
+<com.nathaniel.motus.cavevin.controller.MainActivity$2: void <init>(com.nathaniel.motus.cavevin.controller.MainActivity)>
+<com.nathaniel.motus.cavevin.view.CellarChoiceDialogFragment: android.app.Dialog onCreateDialog(android.os.Bundle)>

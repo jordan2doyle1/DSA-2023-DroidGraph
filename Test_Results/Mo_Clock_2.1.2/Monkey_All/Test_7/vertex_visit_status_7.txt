@@ -1,0 +1,68 @@
+---------- Controls Visited (1) ----------
+Unknown
+
+---------- Controls Not Visited (20) ----------
+fragment_container
+relativeLayout3
+textClock
+edit_text_input
+Unknown
+chronometert
+bottom_nav
+start_pause
+textView3
+swp
+reset
+Unknown
+relativeLayout2
+setbutton
+textView4
+swr
+textView
+relativeLayout
+sws
+textfortimer
+
+---------- Methods Visited (12) ----------
+<com.lako.moclock.ClockFragment: void <init>()>
+<com.lako.moclock.TimerFragment: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<com.lako.moclock.MainActivity$1: boolean onNavigationItemSelected(android.view.MenuItem)>
+<com.lako.moclock.TimerFragment$1: void <init>(com.lako.moclock.TimerFragment)>
+<com.lako.moclock.MainActivity: void <init>()>
+<com.lako.moclock.TimerFragment$2: void <init>(com.lako.moclock.TimerFragment)>
+<com.lako.moclock.TimerFragment: void updateInterface()>
+<com.lako.moclock.TimerFragment$3: void <init>(com.lako.moclock.TimerFragment)>
+<com.lako.moclock.MainActivity$1: void <init>(com.lako.moclock.MainActivity)>
+<com.lako.moclock.ClockFragment: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<com.lako.moclock.TimerFragment: void <init>()>
+<com.lako.moclock.MainActivity: void onCreate(android.os.Bundle)>
+
+---------- Methods Not Visited (28) ----------
+<com.lako.moclock.StopwatchFragment: void startChronometer(android.view.View)>
+<com.lako.moclock.StopwatchFragment$1: void <init>(com.lako.moclock.StopwatchFragment,android.view.View)>
+<com.lako.moclock.TimerFragment$4: void onTick(long)>
+<com.lako.moclock.TimerFragment: void resetTimerText()>
+<com.lako.moclock.StopwatchFragment$1: void onClick(android.view.View)>
+<com.lako.moclock.MainActivity: void createNotificationChannel()>
+<com.lako.moclock.SettingsFragment: void <init>()>
+<com.lako.moclock.TimerFragment: void OnAttach(android.content.Context)>
+<com.lako.moclock.StopwatchFragment: void <init>()>
+<com.lako.moclock.StopwatchFragment: void pauseChronometer(android.view.View)>
+<com.lako.moclock.StopwatchFragment$2: void onClick(android.view.View)>
+<com.lako.moclock.TimerFragment: void startTimer()>
+<com.lako.moclock.StopwatchFragment$3: void <init>(com.lako.moclock.StopwatchFragment,android.view.View)>
+<com.lako.moclock.TimerFragment$4: void onFinish()>
+<com.lako.moclock.TimerFragment$2: void onClick(android.view.View)>
+<com.lako.moclock.TimerFragment: void pauseTimer()>
+<com.lako.moclock.TimerFragment$4: void <init>(com.lako.moclock.TimerFragment,long,long)>
+<com.lako.moclock.TimerFragment: void updateCountDownText()>
+<com.lako.moclock.TimerFragment: void onStop()>
+<com.lako.moclock.StopwatchFragment$3: void onClick(android.view.View)>
+<com.lako.moclock.StopwatchFragment: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<com.lako.moclock.TimerFragment$1: void onClick(android.view.View)>
+<com.lako.moclock.TimerFragment$3: void onClick(android.view.View)>
+<com.lako.moclock.SettingsFragment: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<com.lako.moclock.StopwatchFragment$2: void <init>(com.lako.moclock.StopwatchFragment,android.view.View)>
+<com.lako.moclock.TimerFragment: void resetTimer()>
+<com.lako.moclock.TimerFragment: void setTime(long)>
+<com.lako.moclock.StopwatchFragment: void resetChronometer(android.view.View)>

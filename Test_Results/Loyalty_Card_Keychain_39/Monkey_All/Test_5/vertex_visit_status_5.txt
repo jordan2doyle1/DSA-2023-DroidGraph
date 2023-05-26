@@ -1,0 +1,1168 @@
+---------- Controls Visited (6) ----------
+Unknown
+Unknown
+Unknown
+Unknown
+Unknown
+Unknown
+
+---------- Controls Not Visited (103) ----------
+codabarBarcode
+thumbnail
+cardIdTableRow
+storeNameField
+importOptionApplicationTitle
+headingStoreTextColorSample
+code39Barcode
+toolbar
+exportOptionTitle
+noteField
+Unknown
+centerGuideline
+enterButton
+drop_shadow_actionbar
+upcaBarcodeText
+barcodesLayout
+pdf417BarcodeText
+storeTextField
+Unknown
+scrollView
+ean13Barcode
+cardIdView
+code128BarcodeText
+toolbar
+main
+aztecBarcode
+noteView
+noteEdit
+cardIdView
+barcodeLayout
+toolbar
+cardIdDivider
+importOptionFilesystemTitle
+code39BarcodeText
+app_bar_layout
+barcodeTypeDivider
+main
+Unknown
+importOptionApplicationExplanation
+datamatrixBarcodeText
+Unknown
+note
+importOptionFilesystemButton
+itfBarcodeText
+importOptionFilesystemExplanation
+coordinator_layout
+headingColorSampleBorder
+Unknown
+Unknown
+headingStoreTextColorSelectButton
+headingColorSelectButton
+valueLayout
+Unknown
+cardIdField
+main
+headingField
+itfBarcode
+codabarBarcodeText
+code128Barcode
+Unknown
+aztecBarcodeText
+barcode
+barcode
+barcodeIdLayout
+main
+storeNameEdit
+qrcodeBarcode
+exportOptionExplanation
+toolbar
+ean8Barcode
+ean8BarcodeText
+dividerImportFilesystem
+storeName
+importOptionApplicationButton
+qrcodeBarcodeText
+pdf417Barcode
+Unknown
+noteViewDivider
+store
+barcodeTypeTableRow
+datamatrixBarcode
+noBarcode
+barcodeCaptureLayout
+main
+Unknown
+upcaBarcode
+captureButton
+collapsingToolbarLayout
+exportButton
+main
+dividerExport
+headingStoreTextColorSampleBorder
+toolbar
+ean13BarcodeText
+dividerImportApplication
+cardId
+Unknown
+Unknown
+barcodeTypeField
+Unknown
+barcodeTypeView
+Unknown
+headingColorSample
+
+---------- Methods Visited (116) ----------
+<com.github.paolorotolo.appintro.AppIntroBase: void initController()>
+<com.github.paolorotolo.appintro.AppIntroBase: boolean dispatchTouchEvent(android.view.MotionEvent)>
+<com.github.paolorotolo.appintro.AppIntroBase: void onPageSelected(int)>
+<com.github.paolorotolo.appintro.AppIntroBase: void handleSlideChanged(androidx.fragment.app.Fragment,androidx.fragment.app.Fragment)>
+<protect.card_locker.LoyaltyCardEditActivity: void <init>()>
+<protect.card_locker.intro.IntroSlide3: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<protect.card_locker.MainActivity: boolean onCreateOptionsMenu(android.view.Menu)>
+<protect.card_locker.intro.IntroSlide1: void <init>()>
+<protect.card_locker.intro.IntroActivity: void <init>()>
+<com.github.paolorotolo.appintro.AppIntroViewPager: boolean onTouchEvent(android.view.MotionEvent)>
+<com.github.paolorotolo.appintro.AppIntroBase: boolean handleBeforeSlideChanged()>
+<protect.card_locker.MainActivity: void updateLoyaltyCardList(java.lang.String)>
+<protect.card_locker.intro.IntroSlide6: void <init>()>
+<com.github.paolorotolo.appintro.AppIntroBase: void setProgressButtonEnabled(boolean)>
+<com.github.paolorotolo.appintro.AppIntroBase$1: void <init>(com.github.paolorotolo.appintro.AppIntroBase)>
+<com.github.paolorotolo.appintro.ScrollerCustomDuration: void startScroll(int,int,int,int,int)>
+<com.github.paolorotolo.appintro.AppIntroBase$2: void <init>(com.github.paolorotolo.appintro.AppIntroBase)>
+<protect.card_locker.MainActivity: void onResume()>
+<protect.card_locker.LoyaltyCardEditActivity: boolean onCreateOptionsMenu(android.view.Menu)>
+<com.github.paolorotolo.appintro.AppIntroBase: void setButtonState(android.view.View,boolean)>
+<com.github.paolorotolo.appintro.AppIntroBase: void <clinit>()>
+<com.github.paolorotolo.appintro.util.LogHelper: java.lang.String makeLogTag(java.lang.String)>
+<com.github.paolorotolo.appintro.AppIntroViewPager: void setCurrentItem(int)>
+<protect.card_locker.LoyaltyCardLockerApplication: void onCreate()>
+<com.github.paolorotolo.appintro.AppIntroBase$WindowGestureListener: void <init>(com.github.paolorotolo.appintro.AppIntroBase)>
+<protect.card_locker.MainActivity: void startIntro()>
+<protect.card_locker.LoyaltyCardEditActivity$2: void <init>(protect.card_locker.LoyaltyCardEditActivity)>
+<com.github.paolorotolo.appintro.AppIntroBase: void setScrollDurationFactor(int)>
+<com.github.paolorotolo.appintro.AppIntroViewPager: void goToNextSlide()>
+<protect.card_locker.DBHelper: int getLoyaltyCardCount(java.lang.String)>
+<protect.card_locker.MainActivity$1: void <init>(protect.card_locker.MainActivity)>
+<com.github.paolorotolo.appintro.ScrollerCustomDuration: void <init>(android.content.Context,android.view.animation.Interpolator)>
+<protect.card_locker.intro.IntroSlide2: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<com.github.paolorotolo.appintro.DefaultIndicatorController: void initialize(int)>
+<protect.card_locker.MainActivity$3: void <init>(protect.card_locker.MainActivity)>
+<com.github.paolorotolo.appintro.AppIntro: void <clinit>()>
+<com.github.paolorotolo.appintro.AppIntroViewPager: boolean checkCanRequestNextPage(android.view.MotionEvent)>
+<com.github.paolorotolo.appintro.AppIntro: int getLayoutId()>
+<protect.card_locker.MainActivity: void <init>()>
+<protect.card_locker.intro.IntroSlide4: void <init>()>
+<protect.card_locker.LoyaltyCardEditActivity: boolean onOptionsItemSelected(android.view.MenuItem)>
+<protect.card_locker.LoyaltyCardEditActivity$ColorSelectListener: void <init>(protect.card_locker.LoyaltyCardEditActivity,int,boolean)>
+<protect.card_locker.MainActivity$2: void <init>(protect.card_locker.MainActivity)>
+<com.github.paolorotolo.appintro.util.LogHelper: void d(java.lang.String,java.lang.Object[])>
+<protect.card_locker.intro.IntroSlide4: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<protect.card_locker.LoyaltyCardEditActivity$3: void <init>(protect.card_locker.LoyaltyCardEditActivity)>
+<protect.card_locker.MainActivity: void onCreate(android.os.Bundle)>
+<protect.card_locker.intro.IntroSlide3: void <init>()>
+<com.github.paolorotolo.appintro.AppIntroBase: void checkButton(android.view.View,java.lang.String)>
+<com.github.paolorotolo.appintro.AppIntroViewPager: void addOnPageChangeListener(com.github.paolorotolo.appintro.AppIntroBase$PagerOnPageChangeListener)>
+<protect.card_locker.DBHelper: void onCreate(android.database.sqlite.SQLiteDatabase)>
+<protect.card_locker.MainActivity: boolean onOptionsItemSelected(android.view.MenuItem)>
+<protect.card_locker.intro.IntroSlide2: void <init>()>
+<com.github.paolorotolo.appintro.AppIntroBase: void <init>()>
+<com.github.paolorotolo.appintro.AppIntroViewPager: void initViewPagerScroller()>
+<com.github.paolorotolo.appintro.DefaultIndicatorController: void selectPosition(int)>
+<protect.card_locker.intro.IntroSlide6: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<com.github.paolorotolo.appintro.AppIntroBase$NextButtonOnClickListener: void <init>(com.github.paolorotolo.appintro.AppIntroBase)>
+<com.github.paolorotolo.appintro.AppIntroBase$4: void run()>
+<protect.card_locker.LoyaltyCardEditActivity: void onCreate(android.os.Bundle)>
+<protect.card_locker.preferences.Settings: void <init>(android.content.Context)>
+<protect.card_locker.intro.IntroActivity: void init(android.os.Bundle)>
+<com.github.paolorotolo.appintro.AppIntroBase: void onWindowFocusChanged(boolean)>
+<com.github.paolorotolo.appintro.AppIntroBase$PagerOnPageChangeListener: void onPageScrolled(int,float,int)>
+<com.github.paolorotolo.appintro.ScrollerCustomDuration: void setScrollDurationFactor(double)>
+<com.github.paolorotolo.appintro.AppIntroViewPager: boolean isRtl(android.content.res.Resources)>
+<com.github.paolorotolo.appintro.AppIntroViewPager: void <init>(android.content.Context,android.util.AttributeSet)>
+<com.github.paolorotolo.appintro.AppIntroViewPager: void setOnNextPageRequestedListener(com.github.paolorotolo.appintro.AppIntroViewPager$OnNextPageRequestedListener)>
+<com.github.paolorotolo.appintro.PagerAdapter: void destroyItem(android.view.ViewGroup,int,java.lang.Object)>
+<com.github.paolorotolo.appintro.AppIntroBase: void addSlide(androidx.fragment.app.Fragment)>
+<com.github.paolorotolo.appintro.PagerAdapter: androidx.fragment.app.Fragment getItem(int)>
+<com.github.paolorotolo.appintro.DefaultIndicatorController: void <init>()>
+<com.github.paolorotolo.appintro.AppIntroBase$NextButtonOnClickListener: void <init>(com.github.paolorotolo.appintro.AppIntroBase,com.github.paolorotolo.appintro.AppIntroBase$1)>
+<com.github.paolorotolo.appintro.AppIntroViewPager: boolean onInterceptTouchEvent(android.view.MotionEvent)>
+<com.github.paolorotolo.appintro.DefaultIndicatorController: android.view.View newInstance(android.content.Context)>
+<com.github.paolorotolo.appintro.AppIntroViewPager: void setScrollDurationFactor(double)>
+<protect.card_locker.LoyaltyCardLockerApplication: void <init>()>
+<protect.card_locker.intro.IntroSlide5: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<com.github.paolorotolo.appintro.AppIntroBase: void onCreate(android.os.Bundle)>
+<com.github.paolorotolo.appintro.AppIntroBase: void onSlideChanged()>
+<com.github.paolorotolo.appintro.util.LogHelper: void <clinit>()>
+<com.github.paolorotolo.appintro.AppIntroBase: void onSlideChanged(androidx.fragment.app.Fragment,androidx.fragment.app.Fragment)>
+<protect.card_locker.DBHelper: int getLoyaltyCardCount()>
+<protect.card_locker.intro.IntroActivity: void onDonePressed(androidx.fragment.app.Fragment)>
+<protect.card_locker.preferences.Settings: java.lang.String getString(int,java.lang.String)>
+<protect.card_locker.LoyaltyCardCursorAdapter: void <init>(android.content.Context,android.database.Cursor)>
+<com.github.paolorotolo.appintro.AppIntroViewPager: boolean checkPagingState(android.view.MotionEvent)>
+<com.github.paolorotolo.appintro.AppIntroBase: boolean onCanRequestNextPage()>
+<com.github.paolorotolo.appintro.AppIntroBase$WindowGestureListener: void <init>(com.github.paolorotolo.appintro.AppIntroBase,com.github.paolorotolo.appintro.AppIntroBase$1)>
+<com.github.paolorotolo.appintro.AppIntroViewPager: boolean isNextPagingEnabled()>
+<protect.card_locker.LoyaltyCardEditActivity: void hideBarcode()>
+<com.github.paolorotolo.appintro.AppIntroBase$NextButtonOnClickListener: void onClick(android.view.View)>
+<com.github.paolorotolo.appintro.PagerAdapter: void <init>(androidx.fragment.app.FragmentManager,java.util.List)>
+<protect.card_locker.intro.IntroSlide1: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<protect.card_locker.intro.IntroSlide5: void <init>()>
+<protect.card_locker.DBHelper: android.database.Cursor getLoyaltyCardCursor(java.lang.String)>
+<com.github.paolorotolo.appintro.AppIntroBase$PagerOnPageChangeListener: void onPageScrollStateChanged(int)>
+<com.github.paolorotolo.appintro.AppIntroBase$4: void <init>(com.github.paolorotolo.appintro.AppIntroBase)>
+<com.github.paolorotolo.appintro.AppIntroBase$PagerOnPageChangeListener: void <init>(com.github.paolorotolo.appintro.AppIntroBase)>
+<com.github.paolorotolo.appintro.util.LogHelper: java.lang.String makeLogTag(java.lang.Class)>
+<com.github.paolorotolo.appintro.PagerAdapter: int getCount()>
+<com.github.paolorotolo.appintro.PagerAdapter: java.lang.Object instantiateItem(android.view.ViewGroup,int)>
+<protect.card_locker.LoyaltyCardEditActivity: void extractIntentFields(android.content.Intent)>
+<protect.card_locker.preferences.Settings: int getTheme()>
+<com.github.paolorotolo.appintro.AppIntroBase: void onNextPressed()>
+<protect.card_locker.ImportURIHelper: void <init>(android.content.Context)>
+<protect.card_locker.DBHelper: void <init>(android.content.Context)>
+<com.github.paolorotolo.appintro.AppIntroBase: void onPostCreate(android.os.Bundle)>
+<protect.card_locker.LoyaltyCardEditActivity: void onResume()>
+<com.github.paolorotolo.appintro.AppIntro: void <init>()>
+<com.github.paolorotolo.appintro.AppIntroBase: boolean isRtl()>
+<com.github.paolorotolo.appintro.AppIntroBase: boolean onKeyDown(int,android.view.KeyEvent)>
+<com.github.paolorotolo.appintro.AppIntroBase$3: void <init>(com.github.paolorotolo.appintro.AppIntroBase)>
+<protect.card_locker.MainActivity: void onActivityResult(int,int,android.content.Intent)>
+<protect.card_locker.preferences.Settings: java.lang.String getResString(int)>
+<com.github.paolorotolo.appintro.AppIntroBase$PagerOnPageChangeListener: void onPageSelected(int)>
+
+---------- Methods Not Visited (936) ----------
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration: void setPreviewScalingStrategy(com.journeyapps.barcodescanner.camera.PreviewScalingStrategy)>
+<com.jaredrummler.android.colorpicker.ColorPanelView: void <init>(android.content.Context,android.util.AttributeSet,int)>
+<com.journeyapps.barcodescanner.BarcodeView: void setDecoderFactory(com.journeyapps.barcodescanner.DecoderFactory)>
+<com.journeyapps.barcodescanner.Size: java.lang.String toString()>
+<com.github.paolorotolo.appintro.AppIntroBase: com.github.paolorotolo.appintro.AppIntroViewPager getPager()>
+<com.journeyapps.barcodescanner.SourceData: android.graphics.Bitmap getBitmap(android.graphics.Rect,int)>
+<com.github.paolorotolo.appintro.FadePageTransformer: void <init>()>
+<protect.card_locker.CardShortcutConfigure$1: void <init>(protect.card_locker.CardShortcutConfigure)>
+<com.journeyapps.barcodescanner.CameraPreview: double getMarginFraction()>
+<com.journeyapps.barcodescanner.SourceData: android.graphics.Bitmap getBitmap()>
+<com.vanniktech.vntnumberpickerpreference.VNTNumberPickerPreference: void onPrepareDialogBuilder(android.app.AlertDialog$Builder)>
+<com.jaredrummler.android.colorpicker.ColorPreference: void onBindView(android.view.View)>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager$2$1: void <init>(com.journeyapps.barcodescanner.camera.AutoFocusManager$2)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void configureCamera()>
+<com.journeyapps.barcodescanner.camera.CameraManager: void setDisplayConfiguration(com.journeyapps.barcodescanner.camera.DisplayConfiguration)>
+<com.journeyapps.barcodescanner.SourceData: android.graphics.Bitmap getBitmap(int)>
+<com.jaredrummler.android.colorpicker.ColorPanelView: void setColor(int)>
+<com.jaredrummler.android.colorpicker.AlphaPatternDrawable: void draw(android.graphics.Canvas)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$3: void onClick(android.view.View)>
+<com.github.paolorotolo.appintro.AppIntroViewPager: boolean isPagingEnabled()>
+<com.github.paolorotolo.appintro.ISlidePolicy: void onUserIllegallyRequestedNextPage()>
+<com.journeyapps.barcodescanner.DecoderThread: void setDecoder(com.journeyapps.barcodescanner.Decoder)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: boolean isContinuousFocusEnabled()>
+<protect.card_locker.LetterBitmap: int pickColor(java.lang.String,android.content.res.TypedArray)>
+<com.journeyapps.barcodescanner.camera.CameraInstance$1: void run()>
+<protect.card_locker.LoyaltyCardEditActivity$1: void <init>(protect.card_locker.LoyaltyCardEditActivity,java.lang.String,com.google.zxing.BarcodeFormat)>
+<com.github.paolorotolo.appintro.PagerAdapter: java.util.List getFragments()>
+<com.journeyapps.barcodescanner.DecoderThread: void <clinit>()>
+<com.journeyapps.barcodescanner.CameraPreview$3: boolean handleMessage(android.os.Message)>
+<protect.card_locker.ImportExportActivity$3: void <init>(protect.card_locker.ImportExportActivity,android.content.Intent)>
+<com.jaredrummler.android.colorpicker.AlphaPatternDrawable: void <init>(int)>
+<protect.card_locker.MainActivity$3: boolean onQueryTextChange(java.lang.String)>
+<com.github.paolorotolo.appintro.AppIntroBase: void setNavBarColor(java.lang.String)>
+<com.journeyapps.barcodescanner.camera.CameraThread: com.journeyapps.barcodescanner.camera.CameraThread getInstance()>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void close()>
+<protect.card_locker.LoyaltyCardViewActivity: void <init>()>
+<com.journeyapps.barcodescanner.BarcodeResult: void drawLine(android.graphics.Canvas,android.graphics.Paint,com.google.zxing.ResultPoint,com.google.zxing.ResultPoint,int)>
+<com.journeyapps.barcodescanner.camera.FitXYStrategy: float getScore(com.journeyapps.barcodescanner.Size,com.journeyapps.barcodescanner.Size)>
+<com.journeyapps.barcodescanner.camera.CameraSettings$FocusMode: void <init>(java.lang.String,int)>
+<com.journeyapps.barcodescanner.CameraPreview: android.view.TextureView$SurfaceTextureListener surfaceTextureListener()>
+<com.jaredrummler.android.colorpicker.ColorPickerDialogListener: void onDialogDismissed(int)>
+<protect.card_locker.ImportExportActivity$1: void onClick(android.view.View)>
+<com.github.paolorotolo.appintro.AppIntroBaseFragment: void onSlideDeselected()>
+<com.journeyapps.barcodescanner.camera.CameraSettings: void setContinuousFocusEnabled(boolean)>
+<com.journeyapps.barcodescanner.CameraPreview: boolean isUseTextureView()>
+<protect.card_locker.FormatException: void <init>(java.lang.String)>
+<com.journeyapps.barcodescanner.camera.CameraSurface: android.graphics.SurfaceTexture getSurfaceTexture()>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager: void <init>(android.hardware.Camera,com.journeyapps.barcodescanner.camera.CameraSettings)>
+<com.journeyapps.barcodescanner.CameraPreview: android.os.Parcelable onSaveInstanceState()>
+<com.journeyapps.barcodescanner.CameraPreview: boolean isCameraClosed()>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$8: void <init>(com.jaredrummler.android.colorpicker.ColorPickerDialog,com.jaredrummler.android.colorpicker.ColorPanelView)>
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration: com.journeyapps.barcodescanner.camera.PreviewScalingStrategy getPreviewScalingStrategy()>
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration: void <init>(int)>
+<com.journeyapps.barcodescanner.CameraPreview: void pauseAndWait()>
+<com.journeyapps.barcodescanner.DecoderThread: void stop()>
+<com.journeyapps.barcodescanner.CaptureManager: void initializeFromIntent(android.content.Intent,android.os.Bundle)>
+<com.journeyapps.barcodescanner.CaptureManager: void displayFrameworkBugMessageAndExit()>
+<com.journeyapps.barcodescanner.BarcodeView: void initialize()>
+<com.journeyapps.barcodescanner.BarcodeResult: java.util.Map getResultMetadata()>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder: com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder setAllowPresets(boolean)>
+<com.journeyapps.barcodescanner.BarcodeView$DecodeMode: void <init>(java.lang.String,int)>
+<com.journeyapps.barcodescanner.Decoder: com.google.zxing.Result decode(com.google.zxing.LuminanceSource)>
+<com.journeyapps.barcodescanner.camera.CenterCropStrategy: void <init>()>
+<com.jaredrummler.android.colorpicker.ColorPreference: void <init>(android.content.Context,android.util.AttributeSet,int)>
+<com.journeyapps.barcodescanner.Size: com.journeyapps.barcodescanner.Size rotate()>
+<com.journeyapps.barcodescanner.SourceData: byte[] rotateCW(byte[],int,int)>
+<com.journeyapps.barcodescanner.CaptureManager$2: void previewStarted()>
+<com.jaredrummler.android.colorpicker.ColorPreference: java.lang.String getFragmentTag()>
+<protect.card_locker.CsvDatabaseImporter: void importData(protect.card_locker.DBHelper,java.io.InputStreamReader)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void drawSatValPanel(android.graphics.Canvas)>
+<com.github.paolorotolo.appintro.util.LogHelper: void w(java.lang.String,java.lang.Object[])>
+<com.jaredrummler.android.colorpicker.ColorPickerView: int pointToAlpha(int)>
+<com.github.paolorotolo.appintro.AppIntroBase: void setFlowAnimation()>
+<com.journeyapps.barcodescanner.camera.LegacyPreviewScalingStrategy$1: int compare(java.lang.Object,java.lang.Object)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder: com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder setPresets(int[])>
+<com.journeyapps.barcodescanner.camera.CameraInstance$2: void <init>(com.journeyapps.barcodescanner.camera.CameraInstance,com.journeyapps.barcodescanner.camera.PreviewCallback)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: boolean isMeteringEnabled()>
+<protect.card_locker.ImportExportActivity$8: void <init>(protect.card_locker.ImportExportActivity,android.net.Uri,java.lang.CharSequence)>
+<com.journeyapps.barcodescanner.CameraPreview: void rotationChanged()>
+<com.journeyapps.barcodescanner.camera.CameraInstance$5: void <init>(com.journeyapps.barcodescanner.camera.CameraInstance)>
+<com.journeyapps.barcodescanner.CameraPreview$5: void cameraClosed()>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void setDisplayConfiguration(com.journeyapps.barcodescanner.camera.DisplayConfiguration)>
+<protect.card_locker.ImportExportActivity$2: void <init>(protect.card_locker.ImportExportActivity,android.content.Intent)>
+<com.github.paolorotolo.appintro.AppIntroViewPager: void goToPreviousSlide()>
+<com.github.paolorotolo.appintro.DefaultIndicatorController: void setUnselectedIndicatorColor(int)>
+<protect.card_locker.ImportExportTask: void onCancelled()>
+<com.journeyapps.barcodescanner.BarcodeView: void stopDecoderThread()>
+<com.github.paolorotolo.appintro.AppIntroBase: void setWizardMode(boolean)>
+<com.journeyapps.barcodescanner.CameraPreview$1: boolean onSurfaceTextureDestroyed(android.graphics.SurfaceTexture)>
+<protect.card_locker.LoyaltyCardViewActivity$2: void onGlobalLayout()>
+<protect.card_locker.ImportExportActivity$7: void <init>(protect.card_locker.ImportExportActivity)>
+<com.journeyapps.barcodescanner.CameraPreview: void initCamera()>
+<com.journeyapps.barcodescanner.ViewfinderView: void setCameraPreview(com.journeyapps.barcodescanner.CameraPreview)>
+<com.github.paolorotolo.appintro.ScrollerCustomDuration: void <init>(android.content.Context)>
+<protect.card_locker.MainActivity: void onCreateContextMenu(android.view.ContextMenu,android.view.View,android.view.ContextMenu$ContextMenuInfo)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: void onColorChanged(int)>
+<com.journeyapps.barcodescanner.Decoder: java.util.List getPossibleResultPoints()>
+<protect.card_locker.BarcodeSelectorActivity$1: void <init>(protect.card_locker.BarcodeSelectorActivity)>
+<com.journeyapps.barcodescanner.camera.LegacyPreviewScalingStrategy: void <clinit>()>
+<com.github.paolorotolo.appintro.ISlidePolicy: boolean isPolicyRespected()>
+<com.jaredrummler.android.colorpicker.NestedGridView: void onMeasure(int,int)>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager: void autoFocusAgainLater()>
+<protect.card_locker.MainActivity: void onBackPressed()>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: void onDismiss(android.content.DialogInterface)>
+<com.journeyapps.barcodescanner.CameraPreview: boolean isPreviewActive()>
+<protect.card_locker.FormatException: void <init>(java.lang.String,java.lang.Exception)>
+<com.journeyapps.barcodescanner.camera.LegacyPreviewScalingStrategy$1: int compare(com.journeyapps.barcodescanner.Size,com.journeyapps.barcodescanner.Size)>
+<com.journeyapps.barcodescanner.camera.CameraManager$CameraPreviewCallback: void onPreviewFrame(byte[],android.hardware.Camera)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: void setBarcodeSceneModeEnabled(boolean)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void setParameters()>
+<com.journeyapps.barcodescanner.SourceData: byte[] rotate180(byte[],int,int)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: android.graphics.Point alphaToPoint(int)>
+<protect.card_locker.CsvDatabaseImporter: java.lang.String extractString(java.lang.String,org.apache.commons.csv.CSVRecord,java.lang.String)>
+<com.github.paolorotolo.appintro.util.LogHelper: void w(java.lang.String,java.lang.Throwable,java.lang.Object[])>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void setAlphaSliderVisible(boolean)>
+<com.github.paolorotolo.appintro.ViewPageTransformer: void <init>(com.github.paolorotolo.appintro.ViewPageTransformer$TransformType)>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager: void focus()>
+<com.journeyapps.barcodescanner.camera.CameraManager: void startPreview()>
+<com.jaredrummler.android.colorpicker.AlphaPatternDrawable: void generatePatternBitmap()>
+<com.github.paolorotolo.appintro.AppIntroBaseFragment: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<com.journeyapps.barcodescanner.camera.CameraManager$CameraPreviewCallback: void setCallback(com.journeyapps.barcodescanner.camera.PreviewCallback)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder: com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder setShowAlphaSlider(boolean)>
+<com.journeyapps.barcodescanner.camera.PreviewScalingStrategy: void <init>()>
+<protect.card_locker.DBHelper: boolean deleteLoyaltyCard(int)>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView: void initialize(android.util.AttributeSet)>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView: boolean onKeyDown(int,android.view.KeyEvent)>
+<com.jaredrummler.android.colorpicker.ColorPreference: void saveValue(int)>
+<com.journeyapps.barcodescanner.DecoderThread: com.google.zxing.LuminanceSource createSource(com.journeyapps.barcodescanner.SourceData)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void setAlphaSliderText(int)>
+<protect.card_locker.ImportExportActivity$6: void onClick(android.content.DialogInterface,int)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void <clinit>()>
+<com.journeyapps.barcodescanner.CameraPreview: void setFramingRectSize(com.journeyapps.barcodescanner.Size)>
+<com.journeyapps.barcodescanner.camera.PreviewScalingStrategy$1: void <init>(com.journeyapps.barcodescanner.camera.PreviewScalingStrategy,com.journeyapps.barcodescanner.Size)>
+<com.github.paolorotolo.appintro.AppIntroBase: void setSlideOverAnimation()>
+<com.journeyapps.barcodescanner.BarcodeView: com.journeyapps.barcodescanner.DecoderFactory createDefaultDecoderFactory()>
+<protect.card_locker.DBHelper: android.database.Cursor getLoyaltyCardCursor()>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void setSliderTrackerColor(int)>
+<com.journeyapps.barcodescanner.CameraPreview: void <clinit>()>
+<com.journeyapps.barcodescanner.DecoderThread: com.journeyapps.barcodescanner.Decoder getDecoder()>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$3: void <init>(com.jaredrummler.android.colorpicker.ColorPickerDialog)>
+<com.journeyapps.barcodescanner.BarcodeView: void startDecoderThread()>
+<protect.card_locker.LetterBitmap: android.graphics.Bitmap getLetterTile()>
+<com.journeyapps.barcodescanner.CameraPreview: android.graphics.Matrix calculateTextureTransform(com.journeyapps.barcodescanner.Size,com.journeyapps.barcodescanner.Size)>
+<com.journeyapps.barcodescanner.CameraPreview: android.graphics.Rect getPreviewFramingRect()>
+<com.journeyapps.barcodescanner.CaptureActivity: void onSaveInstanceState(android.os.Bundle)>
+<protect.card_locker.MultiFormatExporter: void <init>()>
+<protect.card_locker.DatabaseImporter: void importData(protect.card_locker.DBHelper,java.io.InputStreamReader)>
+<com.github.paolorotolo.appintro.PagerAdapter: java.util.Collection getRetainedFragments()>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: void createColorShades(int)>
+<com.journeyapps.barcodescanner.BarcodeResult: void <init>(com.google.zxing.Result,com.journeyapps.barcodescanner.SourceData)>
+<com.journeyapps.barcodescanner.camera.CameraManager$CameraPreviewCallback: void setResolution(com.journeyapps.barcodescanner.Size)>
+<protect.card_locker.LoyaltyCardEditActivity$ColorSelectListener$1: void onDialogDismissed(int)>
+<com.journeyapps.barcodescanner.DecoderThread$2: void onPreviewError(java.lang.Exception)>
+<com.github.paolorotolo.appintro.IndicatorController: void setSelectedIndicatorColor(int)>
+<com.journeyapps.barcodescanner.CameraPreview$StateListener: void previewStopped()>
+<com.github.paolorotolo.appintro.AppIntro: void setColorDoneText(int)>
+<com.journeyapps.barcodescanner.CaptureActivity: void onResume()>
+<protect.card_locker.ImportExportTask: void onPreExecute()>
+<com.journeyapps.barcodescanner.CaptureManager: java.lang.String getBarcodeImagePath(com.journeyapps.barcodescanner.BarcodeResult)>
+<com.journeyapps.barcodescanner.CameraPreview: boolean isActive()>
+<com.journeyapps.barcodescanner.camera.CameraManager: int getCameraRotation()>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void setSurface(com.journeyapps.barcodescanner.camera.CameraSurface)>
+<com.journeyapps.barcodescanner.CameraPreview$5: void previewStopped()>
+<com.journeyapps.barcodescanner.BarcodeResult: byte[] getRawBytes()>
+<com.journeyapps.barcodescanner.ViewfinderView: void addPossibleResultPoint(com.google.zxing.ResultPoint)>
+<com.github.paolorotolo.appintro.AppIntroBase: void onRequestPermissionsResult(int,java.lang.String[],int[])>
+<com.journeyapps.barcodescanner.camera.CameraThread: void checkRunning()>
+<com.journeyapps.barcodescanner.DecoderThread$2: void <init>(com.journeyapps.barcodescanner.DecoderThread)>
+<com.journeyapps.barcodescanner.camera.PreviewScalingStrategy: android.graphics.Rect scalePreview(com.journeyapps.barcodescanner.Size,com.journeyapps.barcodescanner.Size)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void open()>
+<protect.card_locker.BarcodeImageWriterTask: void onPostExecute(java.lang.Object)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void onMeasure(int,int)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$1: void <init>(com.jaredrummler.android.colorpicker.ColorPickerDialog)>
+<protect.card_locker.CardShortcutConfigure: void <init>()>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void setColor(int,boolean)>
+<protect.card_locker.LoyaltyCardViewActivity$1: void <init>(protect.card_locker.LoyaltyCardViewActivity)>
+<protect.card_locker.LoyaltyCardEditActivity$5: void onClick(android.content.DialogInterface,int)>
+<com.journeyapps.barcodescanner.CameraPreview: com.journeyapps.barcodescanner.camera.CameraSettings getCameraSettings()>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView: void decodeSingle(com.journeyapps.barcodescanner.BarcodeCallback)>
+<com.journeyapps.barcodescanner.Size: int hashCode()>
+<com.journeyapps.barcodescanner.Util: void <init>()>
+<com.github.paolorotolo.appintro.AppIntroViewPager$OnNextPageRequestedListener: void onIllegallyRequestedNextPage()>
+<com.journeyapps.barcodescanner.camera.CameraSettings: void setFocusMode(com.journeyapps.barcodescanner.camera.CameraSettings$FocusMode)>
+<com.github.paolorotolo.appintro.AppIntroBase: void setZoomAnimation()>
+<com.journeyapps.barcodescanner.ViewfinderView$1: void cameraError(java.lang.Exception)>
+<protect.card_locker.LoyaltyCardViewActivity$2: void <init>(protect.card_locker.LoyaltyCardViewActivity)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: int getBorderColor()>
+<com.journeyapps.barcodescanner.camera.CameraInstance: boolean isCameraClosed()>
+<com.journeyapps.barcodescanner.camera.PreviewScalingStrategy$1: int compare(java.lang.Object,java.lang.Object)>
+<com.journeyapps.barcodescanner.CaptureManager: void onPause()>
+<com.journeyapps.barcodescanner.BarcodeView$DecodeMode: com.journeyapps.barcodescanner.BarcodeView$DecodeMode[] values()>
+<protect.card_locker.ImportExportActivity: void startExport(java.io.OutputStream,android.net.Uri)>
+<com.journeyapps.barcodescanner.CameraPreview: void startCameraPreview(com.journeyapps.barcodescanner.camera.CameraSurface)>
+<com.journeyapps.barcodescanner.SourceData: byte[] rotateCameraPreview(int,byte[],int,int)>
+<protect.card_locker.LoyaltyCardEditActivity$ColorSelectListener: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.CaptureManager$5: void onClick(android.content.DialogInterface,int)>
+<com.journeyapps.barcodescanner.camera.CenterCropStrategy: void <clinit>()>
+<com.journeyapps.barcodescanner.CameraPreview: void onLayout(boolean,int,int,int,int)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: boolean isScanInverted()>
+<com.journeyapps.barcodescanner.camera.CameraSettings: int getRequestedCameraId()>
+<com.github.paolorotolo.appintro.IndicatorController: void initialize(int)>
+<com.jaredrummler.android.colorpicker.ColorPreference: void setPresets(int[])>
+<com.github.paolorotolo.appintro.util.LogHelper: void i(java.lang.String,java.lang.Object[])>
+<com.jaredrummler.android.colorpicker.ColorPaletteAdapter: void <init>(com.jaredrummler.android.colorpicker.ColorPaletteAdapter$OnColorSelectedListener,int[],int,int)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: int getColor()>
+<com.vanniktech.vntnumberpickerpreference.VNTNumberPickerPreference: void onSetInitialValue(boolean,java.lang.Object)>
+<protect.card_locker.BarcodeImageWriterTask: void <init>(android.widget.ImageView,java.lang.String,com.google.zxing.BarcodeFormat)>
+<com.jaredrummler.android.colorpicker.ColorPreference: void setOnShowDialogListener(com.jaredrummler.android.colorpicker.ColorPreference$OnShowDialogListener)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: int[] unshiftIfNotExists(int[],int)>
+<com.github.paolorotolo.appintro.ViewPageTransformer$TransformType: com.github.paolorotolo.appintro.ViewPageTransformer$TransformType[] values()>
+<com.journeyapps.barcodescanner.RotationListener$1: void <init>(com.journeyapps.barcodescanner.RotationListener,android.content.Context,int)>
+<com.github.paolorotolo.appintro.AppIntroBase: void setNextPageSwipeLock(boolean)>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView$TorchListener: void onTorchOff()>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: void beforeTextChanged(java.lang.CharSequence,int,int,int)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void setUpAlphaRect()>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void setTorch(boolean)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$4: void <init>(com.jaredrummler.android.colorpicker.ColorPickerDialog)>
+<com.journeyapps.barcodescanner.BarcodeResult: android.graphics.Bitmap getBitmapWithResultPoints(int)>
+<protect.card_locker.CsvDatabaseExporter: void <init>()>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView: void pauseAndWait()>
+<com.journeyapps.barcodescanner.CameraPreview: void initialize(android.content.Context,android.util.AttributeSet,int,int)>
+<com.github.paolorotolo.appintro.AppIntroBaseFragment: void setBackgroundColor(int)>
+<protect.card_locker.LoyaltyCardViewActivity: void setOrientatonLock(android.view.MenuItem,boolean)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void setAlphaSliderText(java.lang.String)>
+<protect.card_locker.ImportExportActivity$4: void onTaskComplete(boolean)>
+<com.jaredrummler.android.colorpicker.ColorPaletteAdapter: android.view.View getView(int,android.view.View,android.view.ViewGroup)>
+<com.journeyapps.barcodescanner.CaptureManager$3: void <init>(com.journeyapps.barcodescanner.CaptureManager)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: android.view.View createPickerView()>
+<com.jaredrummler.android.colorpicker.ColorPickerView: int getPreferredHeight()>
+<protect.card_locker.LoyaltyCardEditActivity$1: void onGlobalLayout()>
+<protect.card_locker.LoyaltyCardViewActivity: void onBackPressed()>
+<com.github.paolorotolo.appintro.PermissionObject: int getPosition()>
+<com.jaredrummler.android.colorpicker.ColorPanelView: int getShape()>
+<protect.card_locker.LoyaltyCardEditActivity: void onActivityResult(int,int,android.content.Intent)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: void setColorPickerDialogListener(com.jaredrummler.android.colorpicker.ColorPickerDialogListener)>
+<com.journeyapps.barcodescanner.CameraPreview$4: void <init>(com.journeyapps.barcodescanner.CameraPreview)>
+<protect.card_locker.ImportExportActivity$4: void <init>(protect.card_locker.ImportExportActivity,android.net.Uri)>
+<com.jaredrummler.android.colorpicker.ColorPaletteAdapter: int getCount()>
+<com.vanniktech.vntnumberpickerpreference.VNTNumberPickerPreference: void <init>(android.content.Context,android.util.AttributeSet)>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView$WrappedCallback: void <init>(com.journeyapps.barcodescanner.DecoratedBarcodeView,com.journeyapps.barcodescanner.BarcodeCallback)>
+<com.github.paolorotolo.appintro.PermissionObject: void <init>(java.lang.String[],int)>
+<com.journeyapps.barcodescanner.CameraPreview$2: void surfaceCreated(android.view.SurfaceHolder)>
+<com.github.paolorotolo.appintro.AppIntroBase$3: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView: com.journeyapps.barcodescanner.ViewfinderView getViewFinder()>
+<com.journeyapps.barcodescanner.camera.CameraManager: boolean isTorchOn()>
+<protect.card_locker.preferences.SettingsActivity$SettingsFragment$1: boolean onPreferenceChange(android.preference.Preference,java.lang.Object)>
+<com.journeyapps.barcodescanner.CaptureManager: void returnResult(com.journeyapps.barcodescanner.BarcodeResult)>
+<com.journeyapps.barcodescanner.DecoderResultPointCallback: void foundPossibleResultPoint(com.google.zxing.ResultPoint)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$9: void onStopTrackingTouch(android.widget.SeekBar)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$9: void onStartTrackingTouch(android.widget.SeekBar)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void notifyError(java.lang.Exception)>
+<com.journeyapps.barcodescanner.camera.CameraThread: void enqueue(java.lang.Runnable)>
+<protect.card_locker.DBHelper: long insertLoyaltyCard(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Integer,java.lang.Integer)>
+<com.github.paolorotolo.appintro.AppIntroFragment: void <init>()>
+<protect.card_locker.DatabaseExporter: void exportData(protect.card_locker.DBHelper,java.io.OutputStreamWriter)>
+<com.journeyapps.barcodescanner.BarcodeView: void <init>(android.content.Context)>
+<com.journeyapps.barcodescanner.CameraPreview: void onAttachedToWindow()>
+<com.journeyapps.barcodescanner.CaptureManager$2: void previewStopped()>
+<protect.card_locker.BarcodeSelectorActivity$2: void <init>(protect.card_locker.BarcodeSelectorActivity,java.lang.String)>
+<com.github.paolorotolo.appintro.AppIntroBase: boolean getWizardMode()>
+<protect.card_locker.ShortcutHelper: void updateShortcuts(android.content.Context,protect.card_locker.LoyaltyCard,android.content.Intent)>
+<protect.card_locker.ImportExportTask$1: void <init>(protect.card_locker.ImportExportTask)>
+<protect.card_locker.BarcodeSelectorActivity$4: void <init>(protect.card_locker.BarcodeSelectorActivity,java.lang.String,android.widget.ImageView,java.lang.String,com.google.zxing.BarcodeFormat,android.widget.TextView)>
+<com.journeyapps.barcodescanner.CameraPreview$1: void onSurfaceTextureUpdated(android.graphics.SurfaceTexture)>
+<com.jaredrummler.android.colorpicker.ColorPanelView: void onSizeChanged(int,int,int,int)>
+<protect.card_locker.preferences.Settings: int getCardNoteFontSize()>
+<protect.card_locker.ShortcutHelper: void <init>()>
+<com.journeyapps.barcodescanner.camera.CameraSurface: void setPreview(android.hardware.Camera)>
+<com.jaredrummler.android.colorpicker.ColorPickerView$BitmapCache: void <init>(com.jaredrummler.android.colorpicker.ColorPickerView,com.jaredrummler.android.colorpicker.ColorPickerView$1)>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView: void resume()>
+<com.journeyapps.barcodescanner.camera.CameraManager: com.journeyapps.barcodescanner.camera.CameraSettings getCameraSettings()>
+<com.jaredrummler.android.colorpicker.ColorPanelView: void setOriginalColor(int)>
+<com.github.paolorotolo.appintro.AppIntroBase: void setSwipeLock(boolean)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder: com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder setDialogTitle(int)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void stopPreview()>
+<protect.card_locker.preferences.SettingsActivity: void <init>()>
+<com.journeyapps.barcodescanner.BarcodeView: void decodeContinuous(com.journeyapps.barcodescanner.BarcodeCallback)>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager$2: void <init>(com.journeyapps.barcodescanner.camera.AutoFocusManager)>
+<protect.card_locker.BarcodeImageWriterTask: android.graphics.Bitmap doInBackground(java.lang.Void[])>
+<com.github.paolorotolo.appintro.util.CustomFontCache: void <clinit>()>
+<com.github.paolorotolo.appintro.AppIntroBase: void handleIllegalSlideChangeAttempt()>
+<com.github.paolorotolo.appintro.AppIntroBase: boolean getBackButtonVisibilityWithDone()>
+<com.github.paolorotolo.appintro.util.CustomFontCache: android.graphics.Typeface get(java.lang.String,android.content.Context)>
+<com.journeyapps.barcodescanner.CaptureManager$1$1: void run()>
+<com.journeyapps.barcodescanner.CaptureActivity: void onRequestPermissionsResult(int,java.lang.String[],int[])>
+<com.github.paolorotolo.appintro.AppIntro: void setSkipText(java.lang.CharSequence)>
+<com.journeyapps.barcodescanner.RotationListener: void stop()>
+<com.journeyapps.barcodescanner.Size: boolean equals(java.lang.Object)>
+<com.journeyapps.barcodescanner.CameraPreview: android.graphics.Rect calculateFramingRect(android.graphics.Rect,android.graphics.Rect)>
+<com.github.paolorotolo.appintro.AppIntroBase: void setCustomTransformer(androidx.viewpager.widget.ViewPager$PageTransformer)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$1: void onClick(android.content.DialogInterface,int)>
+<com.journeyapps.barcodescanner.CameraPreview: void setMarginFraction(double)>
+<com.jaredrummler.android.colorpicker.ColorPanelView: android.os.Parcelable onSaveInstanceState()>
+<com.journeyapps.barcodescanner.Decoder: com.google.zxing.BinaryBitmap toBitmap(com.google.zxing.LuminanceSource)>
+<protect.card_locker.LoyaltyCardEditActivity$4: void <init>(protect.card_locker.LoyaltyCardEditActivity)>
+<com.journeyapps.barcodescanner.camera.CameraManager: com.journeyapps.barcodescanner.camera.DisplayConfiguration getDisplayConfiguration()>
+<com.journeyapps.barcodescanner.BarcodeCallback: void possibleResultPoints(java.util.List)>
+<com.journeyapps.barcodescanner.camera.CameraSurface: void <init>(android.view.SurfaceHolder)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void setOnColorChangedListener(com.jaredrummler.android.colorpicker.ColorPickerView$OnColorChangedListener)>
+<protect.card_locker.BarcodeSelectorActivity$3: void <init>(protect.card_locker.BarcodeSelectorActivity,java.lang.String,java.lang.String)>
+<com.jaredrummler.android.colorpicker.ColorPreference: void init(android.util.AttributeSet)>
+<protect.card_locker.ImportExportActivity$8: void onClick(android.content.DialogInterface,int)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: int[] pushIfNotExists(int[],int)>
+<protect.card_locker.MainActivity$4: void onClick(android.content.DialogInterface,int)>
+<com.jaredrummler.android.colorpicker.ColorPaletteAdapter$ViewHolder: void setColorFilter(int)>
+<protect.card_locker.LoyaltyCardEditActivity$2: void onClick(android.view.View)>
+<protect.card_locker.LoyaltyCardViewActivity$1: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.camera.PreviewCallback: void onPreview(com.journeyapps.barcodescanner.SourceData)>
+<com.github.paolorotolo.appintro.AppIntro2: void setImageSkipButton(android.graphics.drawable.Drawable)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$2: void onClick(android.view.View)>
+<com.github.paolorotolo.appintro.AppIntroFragment: int getLayoutId()>
+<com.journeyapps.barcodescanner.CaptureManager$5: void <init>(com.journeyapps.barcodescanner.CaptureManager)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: android.os.Parcelable onSaveInstanceState()>
+<com.jaredrummler.android.colorpicker.ColorPickerView: int getPaddingRight()>
+<protect.card_locker.ImportExportTask: void <init>(android.app.Activity,protect.card_locker.DataFormat,java.io.OutputStream,protect.card_locker.ImportExportTask$TaskCompleteListener)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder: com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder setAllowCustom(boolean)>
+<protect.card_locker.ImportExportActivity$6: void <init>(protect.card_locker.ImportExportActivity)>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager$1: boolean handleMessage(android.os.Message)>
+<com.github.paolorotolo.appintro.ProgressIndicatorController: void setSelectedIndicatorColor(int)>
+<protect.card_locker.BarcodeImageWriterTask: java.lang.Object doInBackground(java.lang.Object[])>
+<protect.card_locker.CsvDatabaseImporter: void <init>()>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView: void initializeFromIntent(android.content.Intent)>
+<com.journeyapps.barcodescanner.camera.CameraManager: com.journeyapps.barcodescanner.Size getNaturalPreviewSize()>
+<com.journeyapps.barcodescanner.ViewfinderView$1: void cameraClosed()>
+<com.journeyapps.barcodescanner.camera.CameraManager: void setPreviewDisplay(android.view.SurfaceHolder)>
+<protect.card_locker.LetterBitmap: int getDefaultColor(android.content.Context,java.lang.String)>
+<com.github.paolorotolo.appintro.AppIntro2: void setBackgroundView(android.view.View)>
+<com.journeyapps.barcodescanner.CameraPreview: void setPreviewScalingStrategy(com.journeyapps.barcodescanner.camera.PreviewScalingStrategy)>
+<protect.card_locker.LoyaltyCardCursorAdapter: void bindView(android.view.View,android.content.Context,android.database.Cursor)>
+<com.github.paolorotolo.appintro.ViewPageTransformer$TransformType: void <clinit>()>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder: com.jaredrummler.android.colorpicker.ColorPickerDialog create()>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$5: void <init>(com.jaredrummler.android.colorpicker.ColorPickerDialog)>
+<protect.card_locker.preferences.Settings: boolean getLockBarcodeScreenOrientation()>
+<com.github.paolorotolo.appintro.IndicatorController: void selectPosition(int)>
+<protect.card_locker.ImportExportTask: java.lang.Object doInBackground(java.lang.Object[])>
+<com.github.paolorotolo.appintro.AppIntroBase: void onDonePressed(androidx.fragment.app.Fragment)>
+<protect.card_locker.ImportExportTask: void <init>(android.app.Activity,protect.card_locker.DataFormat,java.io.InputStream,protect.card_locker.ImportExportTask$TaskCompleteListener)>
+<protect.card_locker.LoyaltyCardCursorAdapter: android.view.View newView(android.content.Context,android.database.Cursor,android.view.ViewGroup)>
+<protect.card_locker.BarcodeSelectorActivity: void setButtonListener(android.view.View,java.lang.String)>
+<protect.card_locker.BarcodeSelectorActivity: boolean onOptionsItemSelected(android.view.MenuItem)>
+<com.journeyapps.barcodescanner.DecoderResultPointCallback: void <init>(com.journeyapps.barcodescanner.Decoder)>
+<com.journeyapps.barcodescanner.BarcodeResult: long getTimestamp()>
+<protect.card_locker.ImportExportActivity$7: void onClick(android.content.DialogInterface,int)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void setReadyHandler(android.os.Handler)>
+<com.journeyapps.barcodescanner.DecoderThread: void start()>
+<com.jaredrummler.android.colorpicker.ColorPanelView: void <init>(android.content.Context,android.util.AttributeSet)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder: com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder setDialogId(int)>
+<protect.card_locker.CardShortcutConfigure: void onCreate(android.os.Bundle)>
+<com.journeyapps.barcodescanner.SourceData: int getImageFormat()>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void <init>(android.content.Context,android.util.AttributeSet)>
+<com.journeyapps.barcodescanner.camera.FitXYStrategy: void <init>()>
+<protect.card_locker.LoyaltyCardEditActivity$3: void onClick(android.view.View)>
+<com.github.paolorotolo.appintro.AppIntroViewPager: void setNextPagingEnabled(boolean)>
+<com.github.paolorotolo.appintro.AppIntro: void showSeparator(boolean)>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView: com.journeyapps.barcodescanner.BarcodeView getBarcodeView()>
+<com.github.paolorotolo.appintro.AppIntroBaseFragment: int getDefaultBackgroundColor()>
+<com.github.paolorotolo.appintro.AppIntro2: void <clinit>()>
+<com.jaredrummler.android.colorpicker.ColorPanelView: void setUpColorRect()>
+<com.journeyapps.barcodescanner.CameraPreview$StateListener: void cameraClosed()>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: int getSelectedItemPosition()>
+<com.journeyapps.barcodescanner.BarcodeResult: int getBitmapScaleFactor()>
+<com.journeyapps.barcodescanner.DecoderFactory: com.journeyapps.barcodescanner.Decoder createDecoder(java.util.Map)>
+<com.github.paolorotolo.appintro.AppIntroBase: void setVibrateIntensity(int)>
+<com.github.paolorotolo.appintro.AppIntro2Fragment: int getLayoutId()>
+<com.github.paolorotolo.appintro.ProgressIndicatorController: android.view.View newInstance(android.content.Context)>
+<protect.card_locker.preferences.SettingsActivity: boolean onOptionsItemSelected(android.view.MenuItem)>
+<com.github.paolorotolo.appintro.AppIntroBase: void setBackButtonVisibilityWithDone(boolean)>
+<protect.card_locker.BarcodeSelectorActivity: void onCreate(android.os.Bundle)>
+<protect.card_locker.ImportExportActivity: void onActivityResult(int,int,android.content.Intent)>
+<com.journeyapps.barcodescanner.camera.FitCenterStrategy: android.graphics.Rect scalePreview(com.journeyapps.barcodescanner.Size,com.journeyapps.barcodescanner.Size)>
+<com.jaredrummler.android.colorpicker.ColorPreference: void onColorSelected(int,int)>
+<com.journeyapps.barcodescanner.camera.CameraManager: android.hardware.Camera getCamera()>
+<protect.card_locker.BarcodeSelectorActivity: void <clinit>()>
+<com.journeyapps.barcodescanner.InvertedDecoder: void <init>(com.google.zxing.Reader)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: java.lang.String getAlphaSliderText()>
+<com.journeyapps.barcodescanner.CaptureActivity: void <init>()>
+<com.github.paolorotolo.appintro.ProgressIndicatorController: void selectPosition(int)>
+<protect.card_locker.BarcodeSelectorActivity$4: void onGlobalLayout()>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder: com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder setSelectedButtonText(int)>
+<protect.card_locker.LoyaltyCardEditActivity$ColorSelectListener$1: void <init>(protect.card_locker.LoyaltyCardEditActivity$ColorSelectListener)>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView: void <init>(android.content.Context,android.util.AttributeSet)>
+<com.journeyapps.barcodescanner.CaptureManager$1: void possibleResultPoints(java.util.List)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void validateOpen()>
+<com.journeyapps.barcodescanner.CaptureManager$6: void <init>(com.journeyapps.barcodescanner.CaptureManager)>
+<com.journeyapps.barcodescanner.BarcodeResult: com.google.zxing.ResultPoint[] getResultPoints()>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void applyThemeColors(android.content.Context)>
+<protect.card_locker.ShortcutHelper$1: void <init>()>
+<com.journeyapps.barcodescanner.camera.CameraManager: void close()>
+<com.journeyapps.barcodescanner.RotationListener: void listen(android.content.Context,com.journeyapps.barcodescanner.RotationCallback)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder: void <init>()>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void onRestoreInstanceState(android.os.Parcelable)>
+<com.github.paolorotolo.appintro.AppIntro: void showDoneButton(boolean)>
+<com.jaredrummler.android.colorpicker.ColorPanelView: void init(android.content.Context,android.util.AttributeSet)>
+<com.github.paolorotolo.appintro.util.LogHelper: void e(java.lang.String,java.lang.Object[])>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: int shadeColor(int,double)>
+<com.journeyapps.barcodescanner.camera.CameraThread: void quit()>
+<com.github.paolorotolo.appintro.AppIntroViewPager: void setPagingEnabled(boolean)>
+<protect.card_locker.CsvDatabaseImporter: java.lang.Integer extractInt(java.lang.String,org.apache.commons.csv.CSVRecord,boolean)>
+<com.github.paolorotolo.appintro.AppIntroBaseFragment: void <init>()>
+<com.github.paolorotolo.appintro.AppIntroViewPager: void checkIllegallyRequestedNextPage(android.view.MotionEvent)>
+<com.journeyapps.barcodescanner.CameraPreview: void initializeAttributes(android.util.AttributeSet)>
+<com.github.paolorotolo.appintro.AppIntroBase$2: void onClick(android.view.View)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: android.view.View createPresetsView()>
+<com.journeyapps.barcodescanner.camera.CameraSurface: android.view.SurfaceHolder getSurfaceHolder()>
+<com.journeyapps.barcodescanner.Size: com.journeyapps.barcodescanner.Size scale(int,int)>
+<com.journeyapps.barcodescanner.BarcodeEncoder: android.graphics.Bitmap encodeBitmap(java.lang.String,com.google.zxing.BarcodeFormat,int,int,java.util.Map)>
+<com.journeyapps.barcodescanner.BarcodeView$DecodeMode: void <clinit>()>
+<com.journeyapps.barcodescanner.CaptureActivity: void onCreate(android.os.Bundle)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void requestPreviewFrame(com.journeyapps.barcodescanner.camera.PreviewCallback)>
+<protect.card_locker.BarcodeSelectorActivity$1: void onTextChanged(java.lang.CharSequence,int,int,int)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$4: void onFocusChange(android.view.View,boolean)>
+<com.github.paolorotolo.appintro.AppIntro2Fragment: com.github.paolorotolo.appintro.AppIntroFragment newInstance(java.lang.CharSequence,java.lang.CharSequence,int,int)>
+<protect.card_locker.preferences.Settings: int getResInt(int)>
+<com.jaredrummler.android.colorpicker.AlphaPatternDrawable: void setColorFilter(android.graphics.ColorFilter)>
+<protect.card_locker.preferences.Settings: boolean useMaxBrightnessDisplayingBarcode()>
+<com.journeyapps.barcodescanner.camera.CameraManager$CameraPreviewCallback: void <init>(com.journeyapps.barcodescanner.camera.CameraManager)>
+<com.github.paolorotolo.appintro.ISlideSelectionListener: void onSlideSelected()>
+<com.journeyapps.barcodescanner.CameraPreview: com.journeyapps.barcodescanner.camera.CameraInstance createCameraInstance()>
+<com.github.paolorotolo.appintro.AppIntro2: void onCreate(android.os.Bundle)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder: com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder setColorShape(int)>
+<com.github.paolorotolo.appintro.AppIntroBase: void onSkipPressed(androidx.fragment.app.Fragment)>
+<com.journeyapps.barcodescanner.camera.CameraManager: boolean isOpen()>
+<com.github.paolorotolo.appintro.AppIntroBase: void setVibrate(boolean)>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView$WrappedCallback: void barcodeResult(com.journeyapps.barcodescanner.BarcodeResult)>
+<com.journeyapps.barcodescanner.CaptureManager: int getCameraPermissionReqCode()>
+<com.journeyapps.barcodescanner.camera.CameraSettings: void setAutoTorchEnabled(boolean)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: void <init>()>
+<com.journeyapps.barcodescanner.ViewfinderView: void refreshSizes()>
+<com.jaredrummler.android.colorpicker.ColorPreference: void onSetInitialValue(boolean,java.lang.Object)>
+<protect.card_locker.LoyaltyCardViewActivity: android.graphics.drawable.Drawable getIcon(int,boolean)>
+<com.github.paolorotolo.appintro.AppIntroBase: void setDepthAnimation()>
+<com.github.paolorotolo.appintro.AppIntroBase: void setOffScreenPageLimit(int)>
+<protect.card_locker.intro.IntroActivity: void onSkipPressed(androidx.fragment.app.Fragment)>
+<com.journeyapps.barcodescanner.SourceData: void <init>(byte[],int,int,int,int)>
+<com.github.paolorotolo.appintro.AppIntro2Fragment: com.github.paolorotolo.appintro.AppIntroFragment newInstance(java.lang.CharSequence,java.lang.String,java.lang.CharSequence,java.lang.String,int,int)>
+<protect.card_locker.preferences.Settings: int getCardTitleListFontSize()>
+<com.github.paolorotolo.appintro.AppIntroBase: void setCustomIndicator(com.github.paolorotolo.appintro.IndicatorController)>
+<com.github.paolorotolo.appintro.AppIntro2Fragment: void <init>()>
+<com.github.paolorotolo.appintro.ViewPageTransformer$TransformType: void <init>(java.lang.String,int)>
+<protect.card_locker.LoyaltyCardViewActivity: void setFullscreen(boolean)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void setBorderColor(int)>
+<com.journeyapps.barcodescanner.camera.LegacyPreviewScalingStrategy: android.graphics.Rect scalePreview(com.journeyapps.barcodescanner.Size,com.journeyapps.barcodescanner.Size)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: boolean isExposureEnabled()>
+<protect.card_locker.LoyaltyCard: protect.card_locker.LoyaltyCard toLoyaltyCard(android.database.Cursor)>
+<com.github.paolorotolo.appintro.ProgressIndicatorController: void <init>()>
+<com.jaredrummler.android.colorpicker.DrawingUtils: void <init>()>
+<com.github.paolorotolo.appintro.AppIntroViewPager: boolean isFirstSlide(int)>
+<protect.card_locker.MainActivity: boolean onContextItemSelected(android.view.MenuItem)>
+<com.journeyapps.barcodescanner.BarcodeCallback: void barcodeResult(com.journeyapps.barcodescanner.BarcodeResult)>
+<com.journeyapps.barcodescanner.camera.CameraManager: com.journeyapps.barcodescanner.Size getPreviewSize()>
+<protect.card_locker.BarcodeImageWriterTask: int getMaxWidth(com.google.zxing.BarcodeFormat)>
+<com.journeyapps.barcodescanner.CameraPreview$4$1: void run()>
+<com.journeyapps.barcodescanner.CaptureManager: void finish()>
+<com.github.paolorotolo.appintro.AppIntroBase: void onBackPressed()>
+<protect.card_locker.ShortcutHelper: void removeShortcut(android.content.Context,int)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void <clinit>()>
+<com.github.paolorotolo.appintro.AppIntroBase: void askForPermissions(java.lang.String[],int)>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager: void <clinit>()>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$6: void run()>
+<com.jaredrummler.android.colorpicker.AlphaPatternDrawable: void onBoundsChange(android.graphics.Rect)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: int parseColorString(java.lang.String)>
+<com.journeyapps.barcodescanner.CameraPreview$1: void onSurfaceTextureAvailable(android.graphics.SurfaceTexture,int,int)>
+<com.journeyapps.barcodescanner.camera.CameraManager: java.util.List getPreviewSizes(android.hardware.Camera$Parameters)>
+<com.github.paolorotolo.appintro.ViewPageTransformer: void transformPage(android.view.View,float)>
+<com.journeyapps.barcodescanner.ViewfinderView: void onDraw(android.graphics.Canvas)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: com.journeyapps.barcodescanner.camera.CameraManager getCameraManager()>
+<protect.card_locker.ShortcutHelper$1: int compare(java.lang.Object,java.lang.Object)>
+<com.github.paolorotolo.appintro.ViewPageTransformer$TransformType: com.github.paolorotolo.appintro.ViewPageTransformer$TransformType valueOf(java.lang.String)>
+<com.vanniktech.vntnumberpickerpreference.VNTNumberPickerPreference: void updateSummary()>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView: void <init>(android.content.Context)>
+<com.journeyapps.barcodescanner.Size: com.journeyapps.barcodescanner.Size scaleCrop(com.journeyapps.barcodescanner.Size)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: android.graphics.Point satValToPoint(float,float)>
+<protect.card_locker.ImportURIHelper: protect.card_locker.LoyaltyCard parse(android.net.Uri)>
+<com.jaredrummler.android.colorpicker.ColorPaletteAdapter$ViewHolder$2: boolean onLongClick(android.view.View)>
+<com.journeyapps.barcodescanner.DecoderThread: void setCropRect(android.graphics.Rect)>
+<com.journeyapps.barcodescanner.CaptureActivity: void onDestroy()>
+<com.journeyapps.barcodescanner.camera.PreviewScalingStrategy: void <clinit>()>
+<com.journeyapps.barcodescanner.camera.CameraManager: void setCameraDisplayOrientation(int)>
+<protect.card_locker.BarcodeSelectorActivity$1: void beforeTextChanged(java.lang.CharSequence,int,int,int)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void setSurfaceHolder(android.view.SurfaceHolder)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: int getPreferredWidth()>
+<com.journeyapps.barcodescanner.camera.CameraManager: void configure()>
+<protect.card_locker.ImportExportTask$1: void onDismiss(android.content.DialogInterface)>
+<com.github.paolorotolo.appintro.AppIntroBaseFragment: void onSlideSelected()>
+<protect.card_locker.MultiFormatImporter: void <init>()>
+<com.journeyapps.barcodescanner.CaptureActivity: boolean onKeyDown(int,android.view.KeyEvent)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$9: void onProgressChanged(android.widget.SeekBar,int,boolean)>
+<com.journeyapps.barcodescanner.camera.CenterCropStrategy: float getScore(com.journeyapps.barcodescanner.Size,com.journeyapps.barcodescanner.Size)>
+<com.github.paolorotolo.appintro.AppIntroBase: void setGoBackLock(boolean)>
+<protect.card_locker.ImportExportTask: boolean performExport(java.io.OutputStream,protect.card_locker.DBHelper)>
+<com.journeyapps.barcodescanner.InvertedDecoder: com.google.zxing.BinaryBitmap toBitmap(com.google.zxing.LuminanceSource)>
+<com.journeyapps.barcodescanner.BarcodeView$DecodeMode: com.journeyapps.barcodescanner.BarcodeView$DecodeMode valueOf(java.lang.String)>
+<protect.card_locker.ImportURIHelper: void startShareIntent(protect.card_locker.LoyaltyCard)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$5: void onColorSelected(int)>
+<com.jaredrummler.android.colorpicker.ColorPaletteAdapter$ViewHolder: void setOnClickListener(int)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: boolean isAutoFocusEnabled()>
+<com.journeyapps.barcodescanner.CaptureManager: void <init>(android.app.Activity,com.journeyapps.barcodescanner.DecoratedBarcodeView)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: boolean isOpen()>
+<com.vanniktech.vntnumberpickerpreference.VNTNumberPickerPreference: java.lang.Object onGetDefaultValue(android.content.res.TypedArray,int)>
+<com.journeyapps.barcodescanner.CameraPreview: android.graphics.Rect getFramingRect()>
+<com.github.paolorotolo.appintro.AppIntro: void setNextArrowColor(int)>
+<protect.card_locker.BarcodeSelectorActivity$2: void onClick(android.view.View)>
+<protect.card_locker.MainActivity$3: boolean onQueryTextSubmit(java.lang.String)>
+<com.github.paolorotolo.appintro.ISlideBackgroundColorHolder: void setBackgroundColor(int)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: boolean onTouch(android.view.View,android.view.MotionEvent)>
+<com.journeyapps.barcodescanner.ViewfinderView$1: void previewStopped()>
+<protect.card_locker.ImportExportActivity: void onDestroy()>
+<com.github.paolorotolo.appintro.PermissionObject: java.lang.String[] getPermission()>
+<com.journeyapps.barcodescanner.CameraPreview: int getDisplayRotation()>
+<com.github.paolorotolo.appintro.AppIntroViewPager: int getLockPage()>
+<com.journeyapps.barcodescanner.Size: com.journeyapps.barcodescanner.Size scaleFit(com.journeyapps.barcodescanner.Size)>
+<com.journeyapps.barcodescanner.CameraPreview$StateListener: void cameraError(java.lang.Exception)>
+<com.journeyapps.barcodescanner.camera.CameraInstance$5: void run()>
+<com.journeyapps.barcodescanner.CameraPreview$3: void <init>(com.journeyapps.barcodescanner.CameraPreview)>
+<com.github.paolorotolo.appintro.ProgressIndicatorController: void setUnselectedIndicatorColor(int)>
+<protect.card_locker.ImportExportActivity: boolean onOptionsItemSelected(android.view.MenuItem)>
+<com.journeyapps.barcodescanner.Util: void validateMainThread()>
+<protect.card_locker.preferences.Settings: int getCardIdFontSize()>
+<protect.card_locker.BarcodeSelectorActivity$1: void afterTextChanged(android.text.Editable)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: int getPaddingTop()>
+<com.github.paolorotolo.appintro.AppIntroBase: int getLayoutId()>
+<com.journeyapps.barcodescanner.camera.CameraSettings$FocusMode: com.journeyapps.barcodescanner.camera.CameraSettings$FocusMode[] values()>
+<com.github.paolorotolo.appintro.AppIntro2Fragment: com.github.paolorotolo.appintro.AppIntroFragment newInstance(java.lang.CharSequence,java.lang.String,java.lang.CharSequence,java.lang.String,int,int,int,int)>
+<protect.card_locker.LoyaltyCardViewActivity: void onNewIntent(android.content.Intent)>
+<com.journeyapps.barcodescanner.DecoderThread: android.graphics.Rect getCropRect()>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: void setupTransparency()>
+<com.journeyapps.barcodescanner.camera.PreviewScalingStrategy: com.journeyapps.barcodescanner.Size getBestPreviewSize(java.util.List,com.journeyapps.barcodescanner.Size)>
+<com.journeyapps.barcodescanner.camera.CameraSettings$FocusMode: com.journeyapps.barcodescanner.camera.CameraSettings$FocusMode valueOf(java.lang.String)>
+<com.journeyapps.barcodescanner.camera.FitCenterStrategy: void <clinit>()>
+<protect.card_locker.ImportURIHelper: android.net.Uri toUri(protect.card_locker.LoyaltyCard)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void drawHuePanel(android.graphics.Canvas)>
+<com.github.paolorotolo.appintro.FadePageTransformer: void transformPage(android.view.View,float)>
+<com.journeyapps.barcodescanner.CaptureManager$2: void cameraClosed()>
+<com.journeyapps.barcodescanner.CameraPreview: void previewSized(com.journeyapps.barcodescanner.Size)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$6: void <init>(com.jaredrummler.android.colorpicker.ColorPickerDialog,com.jaredrummler.android.colorpicker.ColorPanelView,int)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: void onStart()>
+<com.journeyapps.barcodescanner.CaptureManager: void onResume()>
+<com.github.paolorotolo.appintro.AppIntroBase: void setNavBarColor(int)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: int getPaddingBottom()>
+<com.journeyapps.barcodescanner.Decoder: com.google.zxing.Reader getReader()>
+<protect.card_locker.BarcodeSelectorActivity$3: void onClick(android.view.View)>
+<protect.card_locker.MainActivity$1: void onItemClick(android.widget.AdapterView,android.view.View,int,long)>
+<com.journeyapps.barcodescanner.camera.CameraThread: void enqueueDelayed(java.lang.Runnable,long)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder: com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder setCustomButtonText(int)>
+<com.journeyapps.barcodescanner.BarcodeView$1: void <init>(com.journeyapps.barcodescanner.BarcodeView)>
+<com.journeyapps.barcodescanner.CameraPreview: void containerSized(com.journeyapps.barcodescanner.Size)>
+<com.github.paolorotolo.appintro.AppIntro: void setColorSkipButton(int)>
+<com.jaredrummler.android.colorpicker.ColorPanelView: void showHint()>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$8: boolean onLongClick(android.view.View)>
+<protect.card_locker.CsvDatabaseExporter: void exportData(protect.card_locker.DBHelper,java.io.OutputStreamWriter)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: android.app.Dialog onCreateDialog(android.os.Bundle)>
+<protect.card_locker.ImportExportActivity$5: void onTaskComplete(boolean)>
+<com.jaredrummler.android.colorpicker.ColorPreference: void onAttachedToActivity()>
+<com.journeyapps.barcodescanner.SourceData: com.google.zxing.PlanarYUVLuminanceSource createSource()>
+<protect.card_locker.LetterBitmap: int getBackgroundColor()>
+<com.journeyapps.barcodescanner.BarcodeResult: android.graphics.Bitmap getBitmap()>
+<protect.card_locker.ImportExportActivity: void onExportComplete(boolean,android.net.Uri)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: boolean isAutoTorchEnabled()>
+<com.journeyapps.barcodescanner.BarcodeResult: com.google.zxing.Result getResult()>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager$2$1: void run()>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$2: void <init>(com.jaredrummler.android.colorpicker.ColorPickerDialog)>
+<com.journeyapps.barcodescanner.CaptureManager: void returnResultTimeout()>
+<protect.card_locker.MainActivity$4: void <init>(protect.card_locker.MainActivity)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: com.journeyapps.barcodescanner.camera.CameraThread getCameraThread()>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void setCameraSettings(com.journeyapps.barcodescanner.camera.CameraSettings)>
+<com.journeyapps.barcodescanner.camera.CameraManager: boolean isCameraRotated()>
+<com.journeyapps.barcodescanner.camera.CameraManager: int calculateDisplayRotation()>
+<protect.card_locker.LoyaltyCardViewActivity: boolean onOptionsItemSelected(android.view.MenuItem)>
+<com.github.paolorotolo.appintro.AppIntro2: void setBarColor(int)>
+<com.journeyapps.barcodescanner.CameraPreview: void <init>(android.content.Context,android.util.AttributeSet,int)>
+<com.github.paolorotolo.appintro.AppIntroBase$1: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.camera.CameraInstance$2: void run()>
+<com.github.paolorotolo.appintro.AppIntro: void setBarColor(int)>
+<com.journeyapps.barcodescanner.CameraPreview: void previewStarted()>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView: void setTorchOn()>
+<com.journeyapps.barcodescanner.camera.CameraInstance$1: void <init>(com.journeyapps.barcodescanner.camera.CameraInstance,boolean)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder: com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder setColor(int)>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView: void setTorchOff()>
+<com.journeyapps.barcodescanner.CameraPreview$5: void previewSized()>
+<com.github.paolorotolo.appintro.AppIntroViewPager: boolean detectSwipeToEnd(android.view.MotionEvent)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void initPaintTools()>
+<com.journeyapps.barcodescanner.CaptureManager: void setCameraPermissionReqCode(int)>
+<com.journeyapps.barcodescanner.DecoderThread$1: boolean handleMessage(android.os.Message)>
+<com.journeyapps.barcodescanner.camera.LegacyPreviewScalingStrategy$1: void <init>(com.journeyapps.barcodescanner.camera.LegacyPreviewScalingStrategy,com.journeyapps.barcodescanner.Size)>
+<com.github.paolorotolo.appintro.ViewPageTransformer$1: void <clinit>()>
+<protect.card_locker.ImportExportActivity: void onRequestPermissionsResult(int,java.lang.String[],int[])>
+<com.journeyapps.barcodescanner.camera.PreviewCallback: void onPreviewError(java.lang.Exception)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void drawAlphaPanel(android.graphics.Canvas)>
+<com.journeyapps.barcodescanner.camera.FitXYStrategy: void <clinit>()>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void <init>(com.journeyapps.barcodescanner.camera.CameraManager)>
+<com.journeyapps.barcodescanner.BarcodeView: void <init>(android.content.Context,android.util.AttributeSet)>
+<protect.card_locker.DBHelper$LoyaltyCardDbIds: void <init>()>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void <init>(android.content.Context,android.util.AttributeSet,int)>
+<com.journeyapps.barcodescanner.camera.CameraInstance$4: void run()>
+<protect.card_locker.preferences.Settings: int getCardTitleFontSize()>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void requestPreview(com.journeyapps.barcodescanner.camera.PreviewCallback)>
+<com.journeyapps.barcodescanner.CaptureManager: void openCameraWithPermission()>
+<com.journeyapps.barcodescanner.CameraPreview: void setTorch(boolean)>
+<com.github.paolorotolo.appintro.AppIntro2: void setAnimationColors(java.util.ArrayList)>
+<com.github.paolorotolo.appintro.AppIntroFragment: com.github.paolorotolo.appintro.AppIntroFragment newInstance(java.lang.CharSequence,java.lang.CharSequence,int,int)>
+<com.journeyapps.barcodescanner.SourceData: int getDataWidth()>
+<com.journeyapps.barcodescanner.camera.LegacyPreviewScalingStrategy: com.journeyapps.barcodescanner.Size scale(com.journeyapps.barcodescanner.Size,com.journeyapps.barcodescanner.Size)>
+<com.jaredrummler.android.colorpicker.NestedGridView: void <init>(android.content.Context,android.util.AttributeSet)>
+<protect.card_locker.preferences.SettingsActivity$SettingsFragment: void <init>()>
+<com.journeyapps.barcodescanner.CaptureManager$2: void <init>(com.journeyapps.barcodescanner.CaptureManager)>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView: void pause()>
+<com.jaredrummler.android.colorpicker.NestedGridView: void <init>(android.content.Context)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void open()>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager$2: void onAutoFocus(boolean,android.hardware.Camera)>
+<protect.card_locker.LoyaltyCardViewActivity: void extractIntentFields(android.content.Intent)>
+<protect.card_locker.preferences.SettingsActivity$SettingsFragment$1: void <init>(protect.card_locker.preferences.SettingsActivity$SettingsFragment)>
+<com.github.paolorotolo.appintro.AppIntroBase: void setColorTransitionsEnabled(boolean)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void onSizeChanged(int,int,int,int)>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager: void stop()>
+<com.journeyapps.barcodescanner.CaptureManager: void closeAndFinish()>
+<com.journeyapps.barcodescanner.CameraPreview: void <init>(android.content.Context,android.util.AttributeSet)>
+<protect.card_locker.ImportExportActivity$3: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.CaptureManager$1: void <init>(com.journeyapps.barcodescanner.CaptureManager)>
+<com.github.paolorotolo.appintro.AppIntroFragment: com.github.paolorotolo.appintro.AppIntroFragment newInstance(java.lang.CharSequence,java.lang.String,java.lang.CharSequence,java.lang.String,int,int,int,int)>
+<com.journeyapps.barcodescanner.CaptureManager: void onSaveInstanceState(android.os.Bundle)>
+<com.jaredrummler.android.colorpicker.ColorPanelView: void setShape(int)>
+<com.journeyapps.barcodescanner.ViewfinderView$1: void previewStarted()>
+<com.github.paolorotolo.appintro.AppIntroBase: void onSaveInstanceState(android.os.Bundle)>
+<protect.card_locker.preferences.Settings: boolean getBoolean(int,boolean)>
+<com.github.paolorotolo.appintro.AppIntroBase: void setProgressIndicator()>
+<protect.card_locker.DBHelper: protect.card_locker.LoyaltyCard getLoyaltyCard(int)>
+<protect.card_locker.ImportExportTask$TaskCompleteListener: void onTaskComplete(boolean)>
+<com.jaredrummler.android.colorpicker.ColorPanelView: void onRestoreInstanceState(android.os.Parcelable)>
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration: android.graphics.Rect scalePreview(com.journeyapps.barcodescanner.Size)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: void setExposureEnabled(boolean)>
+<com.github.paolorotolo.appintro.AppIntroBaseFragment: void onCreate(android.os.Bundle)>
+<com.jaredrummler.android.colorpicker.ColorPanelView: void <init>(android.content.Context)>
+<com.github.paolorotolo.appintro.AppIntroBaseFragment: void <clinit>()>
+<com.journeyapps.barcodescanner.BarcodeEncoder: com.google.zxing.common.BitMatrix encode(java.lang.String,com.google.zxing.BarcodeFormat,int,int)>
+<protect.card_locker.BarcodeImageWriterTask$1: void <clinit>()>
+<protect.card_locker.DataFormat: protect.card_locker.DataFormat valueOf(java.lang.String)>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView: void <init>(android.content.Context,android.util.AttributeSet,int)>
+<protect.card_locker.ImportExportActivity: boolean isCallable(android.content.Context,android.content.Intent)>
+<com.github.paolorotolo.appintro.AppIntroBase: void init(android.os.Bundle)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: void setAutoFocusEnabled(boolean)>
+<protect.card_locker.MultiFormatImporter$1: void <clinit>()>
+<com.jaredrummler.android.colorpicker.ColorPickerView$BitmapCache: void <init>(com.jaredrummler.android.colorpicker.ColorPickerView)>
+<com.journeyapps.barcodescanner.BarcodeEncoder: com.google.zxing.common.BitMatrix encode(java.lang.String,com.google.zxing.BarcodeFormat,int,int,java.util.Map)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: com.journeyapps.barcodescanner.camera.DisplayConfiguration getDisplayConfiguration()>
+<com.journeyapps.barcodescanner.BarcodeView: com.journeyapps.barcodescanner.Decoder createDecoder()>
+<com.journeyapps.barcodescanner.CameraPreview$2: void <init>(com.journeyapps.barcodescanner.CameraPreview)>
+<com.journeyapps.barcodescanner.Decoder: com.google.zxing.Result decode(com.google.zxing.BinaryBitmap)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: void onSaveInstanceState(android.os.Bundle)>
+<com.journeyapps.barcodescanner.ViewfinderView: void <clinit>()>
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration: int getRotation()>
+<com.github.paolorotolo.appintro.AppIntro: void setDoneTextTypeface(java.lang.String)>
+<com.github.paolorotolo.appintro.AppIntroBaseFragment: void onActivityCreated(android.os.Bundle)>
+<com.journeyapps.barcodescanner.RotationListener$1: void onOrientationChanged(int)>
+<com.journeyapps.barcodescanner.camera.LegacyPreviewScalingStrategy: com.journeyapps.barcodescanner.Size getBestPreviewSize(java.util.List,com.journeyapps.barcodescanner.Size)>
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration: void <init>(int,com.journeyapps.barcodescanner.Size)>
+<com.journeyapps.barcodescanner.BarcodeEncoder: android.graphics.Bitmap createBitmap(com.google.zxing.common.BitMatrix)>
+<protect.card_locker.BarcodeSelectorActivity: void createBarcodeOption(android.widget.ImageView,java.lang.String,java.lang.String,android.widget.TextView)>
+<com.journeyapps.barcodescanner.CameraPreview$1: void <init>(com.journeyapps.barcodescanner.CameraPreview)>
+<com.journeyapps.barcodescanner.CameraPreview$5: void <init>(com.journeyapps.barcodescanner.CameraPreview)>
+<com.journeyapps.barcodescanner.SourceData: void setCropRect(android.graphics.Rect)>
+<com.journeyapps.barcodescanner.BarcodeResult: com.google.zxing.BarcodeFormat getBarcodeFormat()>
+<protect.card_locker.CardShortcutConfigure$1: void onItemClick(android.widget.AdapterView,android.view.View,int,long)>
+<com.github.paolorotolo.appintro.AppIntro2: void showDoneButton(boolean)>
+<com.github.paolorotolo.appintro.AppIntroViewPager: void setLockPage(int)>
+<com.journeyapps.barcodescanner.camera.CameraThread: void <init>()>
+<com.journeyapps.barcodescanner.RotationCallback: void onRotationChanged(int)>
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration: void <clinit>()>
+<com.github.paolorotolo.appintro.util.LogHelper: void log(java.lang.String,int,java.lang.Throwable,java.lang.Object[])>
+<com.journeyapps.barcodescanner.Size: void <init>(int,int)>
+<com.journeyapps.barcodescanner.CompoundBarcodeView: void <init>(android.content.Context,android.util.AttributeSet)>
+<com.github.paolorotolo.appintro.AppIntro: void setSkipTextTypeface(java.lang.String)>
+<com.journeyapps.barcodescanner.CaptureManager$1$1: void <init>(com.journeyapps.barcodescanner.CaptureManager$1,com.journeyapps.barcodescanner.BarcodeResult)>
+<com.jaredrummler.android.colorpicker.ColorPaletteAdapter$ViewHolder$1: void <init>(com.jaredrummler.android.colorpicker.ColorPaletteAdapter$ViewHolder,int)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: float[] pointToSatVal(float,float)>
+<com.jaredrummler.android.colorpicker.ColorPreference: void onDialogDismissed(int)>
+<protect.card_locker.DataFormat: void <init>(java.lang.String,int)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$9: void <init>(com.jaredrummler.android.colorpicker.ColorPickerDialog)>
+<com.journeyapps.barcodescanner.CaptureActivity: void onPause()>
+<com.jaredrummler.android.colorpicker.ColorPreference: void <init>(android.content.Context,android.util.AttributeSet)>
+<protect.card_locker.ImportExportActivity$1: void <init>(protect.card_locker.ImportExportActivity,android.content.Intent)>
+<protect.card_locker.ImportExportTask: void onPostExecute(java.lang.Object)>
+<com.github.paolorotolo.appintro.AppIntroViewPager$OnNextPageRequestedListener: boolean onCanRequestNextPage()>
+<com.github.paolorotolo.appintro.DefaultIndicatorController: void setSelectedIndicatorColor(int)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void init(android.content.Context,android.util.AttributeSet)>
+<com.journeyapps.barcodescanner.CameraPreview$1: void onSurfaceTextureSizeChanged(android.graphics.SurfaceTexture,int,int)>
+<com.journeyapps.barcodescanner.CaptureManager: void lockOrientation()>
+<com.github.paolorotolo.appintro.AppIntroBase: java.util.List getSlides()>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView$TorchListener: void onTorchOn()>
+<protect.card_locker.LoyaltyCardViewActivity: void onCreate(android.os.Bundle)>
+<com.github.paolorotolo.appintro.AppIntroBase: void onDonePressed()>
+<com.jaredrummler.android.colorpicker.ColorPanelView: void onMeasure(int,int)>
+<com.journeyapps.barcodescanner.CameraPreview: com.journeyapps.barcodescanner.camera.PreviewScalingStrategy getPreviewScalingStrategy()>
+<com.journeyapps.barcodescanner.camera.CameraManager: void setDesiredParameters(boolean)>
+<com.journeyapps.barcodescanner.CaptureManager: void onDestroy()>
+<com.journeyapps.barcodescanner.CameraPreview$StateListener: void previewStarted()>
+<com.jaredrummler.android.colorpicker.ColorPaletteAdapter$ViewHolder: void setup(int)>
+<protect.card_locker.preferences.SettingsActivity$SettingsFragment: void onCreate(android.os.Bundle)>
+<com.journeyapps.barcodescanner.BarcodeView: void <init>(android.content.Context,android.util.AttributeSet,int)>
+<com.journeyapps.barcodescanner.DecoderResultPointCallback: com.journeyapps.barcodescanner.Decoder getDecoder()>
+<com.journeyapps.barcodescanner.BarcodeResult: java.lang.String toString()>
+<com.journeyapps.barcodescanner.camera.CameraThread: void incrementAndEnqueue(java.lang.Runnable)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void setCameraSettings(com.journeyapps.barcodescanner.camera.CameraSettings)>
+<com.journeyapps.barcodescanner.DecoderResultPointCallback: void <init>()>
+<com.journeyapps.barcodescanner.Size: boolean fitsIn(com.journeyapps.barcodescanner.Size)>
+<com.journeyapps.barcodescanner.camera.PreviewScalingStrategy: java.util.List getBestPreviewOrder(java.util.List,com.journeyapps.barcodescanner.Size)>
+<com.github.paolorotolo.appintro.AppIntro: void setDoneText(java.lang.CharSequence)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialogListener: void onColorSelected(int,int)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: com.journeyapps.barcodescanner.camera.CameraSurface getSurface()>
+<com.vanniktech.vntnumberpickerpreference.VNTNumberPickerPreference: void onDialogClosed(boolean)>
+<com.journeyapps.barcodescanner.ViewfinderView: void <init>(android.content.Context,android.util.AttributeSet)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void <init>(android.content.Context)>
+<com.journeyapps.barcodescanner.SourceData: boolean isRotated()>
+<com.journeyapps.barcodescanner.CameraPreview$5: void previewStarted()>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void setUpHueRect()>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: int[] getColorShades(int)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: void onTextChanged(java.lang.CharSequence,int,int,int)>
+<com.jaredrummler.android.colorpicker.NestedGridView: void <init>(android.content.Context,android.util.AttributeSet,int)>
+<com.journeyapps.barcodescanner.camera.FitCenterStrategy: float getScore(com.journeyapps.barcodescanner.Size,com.journeyapps.barcodescanner.Size)>
+<com.jaredrummler.android.colorpicker.AlphaPatternDrawable: void setAlpha(int)>
+<com.github.paolorotolo.appintro.AppIntroBase: boolean isSkipButtonEnabled()>
+<com.jaredrummler.android.colorpicker.ColorPickerView: android.graphics.Point hueToPoint(float)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder: com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder setShowColorShades(boolean)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder: com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder setDialogType(int)>
+<com.github.paolorotolo.appintro.AppIntroBase$WindowGestureListener: boolean onSingleTapUp(android.view.MotionEvent)>
+<com.journeyapps.barcodescanner.camera.CameraInstance$3: void run()>
+<com.jaredrummler.android.colorpicker.ColorPickerView: float pointToHue(float)>
+<com.github.paolorotolo.appintro.AppIntroBase: void onSkipPressed()>
+<com.journeyapps.barcodescanner.BarcodeEncoder: void <init>()>
+<protect.card_locker.LoyaltyCardViewActivity: boolean onCreateOptionsMenu(android.view.Menu)>
+<com.jaredrummler.android.colorpicker.ColorPaletteAdapter: java.lang.Object getItem(int)>
+<com.jaredrummler.android.colorpicker.ColorPanelView: void onDraw(android.graphics.Canvas)>
+<com.journeyapps.barcodescanner.CameraPreview: void setUseTextureView(boolean)>
+<com.journeyapps.barcodescanner.CaptureManager: void onRequestPermissionsResult(int,java.lang.String[],int[])>
+<com.journeyapps.barcodescanner.CaptureManager$1: void barcodeResult(com.journeyapps.barcodescanner.BarcodeResult)>
+<com.journeyapps.barcodescanner.camera.PreviewScalingStrategy$1: int compare(com.journeyapps.barcodescanner.Size,com.journeyapps.barcodescanner.Size)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: void <clinit>()>
+<com.journeyapps.barcodescanner.CaptureManager: void decode()>
+<protect.card_locker.ImportURIHelper: void startShareIntent(android.net.Uri)>
+<com.journeyapps.barcodescanner.DefaultDecoderFactory: void <init>()>
+<com.journeyapps.barcodescanner.CaptureManager: void <clinit>()>
+<com.journeyapps.barcodescanner.CompoundBarcodeView: void <init>(android.content.Context)>
+<protect.card_locker.LoyaltyCardEditActivity$ColorSelectListener$1: void onColorSelected(int,int)>
+<com.jaredrummler.android.colorpicker.ColorPanelView: void setBorderColor(int)>
+<com.github.paolorotolo.appintro.util.LogHelper: void e(java.lang.String,java.lang.Throwable,java.lang.Object[])>
+<protect.card_locker.DBHelper: void onUpgrade(android.database.sqlite.SQLiteDatabase,int,int)>
+<com.journeyapps.barcodescanner.SourceData: android.graphics.Rect getCropRect()>
+<com.jaredrummler.android.colorpicker.ColorPreference: int[] getPresets()>
+<com.journeyapps.barcodescanner.CameraPreview: void addStateListener(com.journeyapps.barcodescanner.CameraPreview$StateListener)>
+<protect.card_locker.preferences.SettingsActivity: void onCreate(android.os.Bundle)>
+<com.journeyapps.barcodescanner.CameraPreview$4: void onRotationChanged(int)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void setPreviewDisplay(com.journeyapps.barcodescanner.camera.CameraSurface)>
+<com.journeyapps.barcodescanner.CameraPreview: void <init>(android.content.Context)>
+<com.journeyapps.barcodescanner.camera.CameraThread: void decrementInstances()>
+<protect.card_locker.LetterBitmap: void <init>(android.content.Context,java.lang.String,java.lang.String,int,int,int,java.lang.Integer,java.lang.Integer)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder newBuilder()>
+<com.journeyapps.barcodescanner.BarcodeView: void stopDecoding()>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: void <init>()>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void setColor(int)>
+<com.journeyapps.barcodescanner.DecoderThread: void decode(com.journeyapps.barcodescanner.SourceData)>
+<com.github.paolorotolo.appintro.AppIntroBase: void setIndicatorColor(int,int)>
+<com.journeyapps.barcodescanner.DecoderThread$1: void <init>(com.journeyapps.barcodescanner.DecoderThread)>
+<protect.card_locker.DBHelper: boolean updateLoyaltyCard(int,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Integer,java.lang.Integer)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: void afterTextChanged(android.text.Editable)>
+<com.journeyapps.barcodescanner.SourceData: byte[] rotateCCW(byte[],int,int)>
+<com.jaredrummler.android.colorpicker.ColorPaletteAdapter: long getItemId(int)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder: com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder setPresetsButtonText(int)>
+<com.jaredrummler.android.colorpicker.ColorPreference: void onClick()>
+<com.journeyapps.barcodescanner.CaptureManager$4: void <init>(com.journeyapps.barcodescanner.CaptureManager)>
+<com.journeyapps.barcodescanner.DefaultDecoderFactory: void <init>(java.util.Collection,java.util.Map,java.lang.String,boolean)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$Builder: void show(android.app.Activity)>
+<com.journeyapps.barcodescanner.camera.CameraInstance$6: void run()>
+<com.github.paolorotolo.appintro.util.LogHelper: void v(java.lang.String,java.lang.Object[])>
+<com.journeyapps.barcodescanner.camera.CameraSettings: com.journeyapps.barcodescanner.camera.CameraSettings$FocusMode getFocusMode()>
+<com.journeyapps.barcodescanner.Size: int compareTo(com.journeyapps.barcodescanner.Size)>
+<protect.card_locker.LoyaltyCardEditActivity: void showBarcode()>
+<com.journeyapps.barcodescanner.CaptureManager$3: void run()>
+<com.jaredrummler.android.colorpicker.ColorPreference$OnShowDialogListener: void onShowColorPickerDialog(java.lang.String,int)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: int getSliderTrackerColor()>
+<com.github.paolorotolo.appintro.AppIntroBase: void showSkipButton(boolean)>
+<com.jaredrummler.android.colorpicker.ColorPanelView: int getBorderColor()>
+<protect.card_locker.BarcodeSelectorActivity: void <init>()>
+<com.github.paolorotolo.appintro.ISlideBackgroundColorHolder: int getDefaultBackgroundColor()>
+<com.journeyapps.barcodescanner.camera.CameraInstance$6: void <init>(com.journeyapps.barcodescanner.camera.CameraInstance)>
+<protect.card_locker.ImportExportTask: void onPostExecute(java.lang.Boolean)>
+<com.jaredrummler.android.colorpicker.ColorPreference: java.lang.Object onGetDefaultValue(android.content.res.TypedArray,int)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void setTorch(boolean)>
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration: com.journeyapps.barcodescanner.Size getViewfinderSize()>
+<com.journeyapps.barcodescanner.ViewfinderView$1: void <init>(com.journeyapps.barcodescanner.ViewfinderView)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: void loadPresets()>
+<com.journeyapps.barcodescanner.camera.FitCenterStrategy: void <init>()>
+<com.journeyapps.barcodescanner.SourceData: int getDataHeight()>
+<com.github.paolorotolo.appintro.AppIntro2: int getLayoutId()>
+<com.journeyapps.barcodescanner.Decoder: void foundPossibleResultPoint(com.google.zxing.ResultPoint)>
+<com.journeyapps.barcodescanner.DecoderThread$2: void onPreview(com.journeyapps.barcodescanner.SourceData)>
+<com.journeyapps.barcodescanner.CameraPreview: void calculateFrames()>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void setUpSatValRect()>
+<com.journeyapps.barcodescanner.CameraPreview: void onRestoreInstanceState(android.os.Parcelable)>
+<protect.card_locker.ImportExportActivity: void chooseFileWithIntent(android.content.Intent,int)>
+<protect.card_locker.preferences.Settings: int getCardNoteListFontSize()>
+<com.journeyapps.barcodescanner.camera.CameraSettings: boolean isBarcodeSceneModeEnabled()>
+<com.github.paolorotolo.appintro.util.CustomFontCache: void <init>()>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView: void decodeContinuous(com.journeyapps.barcodescanner.BarcodeCallback)>
+<com.journeyapps.barcodescanner.camera.CameraManager: void <init>(android.content.Context)>
+<com.github.paolorotolo.appintro.ISlideSelectionListener: void onSlideDeselected()>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: void onAttach(android.app.Activity)>
+<protect.card_locker.ImportExportActivity$5: void <init>(protect.card_locker.ImportExportActivity,android.net.Uri)>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager: void start()>
+<com.journeyapps.barcodescanner.CameraPreview: void pause()>
+<com.journeyapps.barcodescanner.ViewfinderView$1: void previewSized()>
+<com.journeyapps.barcodescanner.CameraPreview: com.journeyapps.barcodescanner.camera.CameraInstance getCameraInstance()>
+<com.journeyapps.barcodescanner.CameraPreview$5: void cameraError(java.lang.Exception)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: com.journeyapps.barcodescanner.Size getPreviewSize()>
+<protect.card_locker.ImportExportActivity: void onImportComplete(boolean,android.net.Uri)>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView: void initialize()>
+<com.journeyapps.barcodescanner.DefaultDecoderFactory: com.journeyapps.barcodescanner.Decoder createDecoder(java.util.Map)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: boolean moveTrackersIfNeeded(android.view.MotionEvent)>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView: void setStatusText(java.lang.String)>
+<protect.card_locker.MultiFormatImporter: boolean importData(protect.card_locker.DBHelper,java.io.InputStreamReader,protect.card_locker.DataFormat)>
+<com.journeyapps.barcodescanner.CameraPreview: void setupSurfaceView()>
+<protect.card_locker.DBHelper: boolean insertLoyaltyCard(android.database.sqlite.SQLiteDatabase,int,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Integer,java.lang.Integer)>
+<com.github.paolorotolo.appintro.AppIntroBase: void setFadeAnimation()>
+<com.journeyapps.barcodescanner.camera.CameraSurface: void <init>(android.graphics.SurfaceTexture)>
+<protect.card_locker.MainActivity: void displayAboutDialog()>
+<com.github.paolorotolo.appintro.util.LogHelper: void <init>()>
+<com.journeyapps.barcodescanner.SourceData: byte[] getData()>
+<com.jaredrummler.android.colorpicker.ColorPickerView: boolean onTouchEvent(android.view.MotionEvent)>
+<com.github.paolorotolo.appintro.AppIntroBase: void onIllegallyRequestedNextPage()>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView$WrappedCallback: void possibleResultPoints(java.util.List)>
+<com.journeyapps.barcodescanner.camera.CenterCropStrategy: android.graphics.Rect scalePreview(com.journeyapps.barcodescanner.Size,com.journeyapps.barcodescanner.Size)>
+<com.journeyapps.barcodescanner.DecoderThread: void <init>(com.journeyapps.barcodescanner.camera.CameraInstance,com.journeyapps.barcodescanner.Decoder,android.os.Handler)>
+<protect.card_locker.BarcodeImageWriterTask: void onPostExecute(android.graphics.Bitmap)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: int getCameraRotation()>
+<com.jaredrummler.android.colorpicker.ColorPickerView: void onDraw(android.graphics.Canvas)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: void setScanInverted(boolean)>
+<protect.card_locker.LoyaltyCard: void <init>(int,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Integer,java.lang.Integer)>
+<protect.card_locker.LoyaltyCardEditActivity: void onNewIntent(android.content.Intent)>
+<com.github.paolorotolo.appintro.AppIntroBaseFragment: int getLayoutId()>
+<com.github.paolorotolo.appintro.AppIntro: void setImageNextButton(android.graphics.drawable.Drawable)>
+<com.jaredrummler.android.colorpicker.ColorPaletteAdapter$ViewHolder$1: void onClick(android.view.View)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: void setMeteringEnabled(boolean)>
+<com.github.paolorotolo.appintro.IndicatorController: android.view.View newInstance(android.content.Context)>
+<com.jaredrummler.android.colorpicker.ColorPaletteAdapter: void selectNone()>
+<protect.card_locker.ImportExportActivity: void onCreate(android.os.Bundle)>
+<com.journeyapps.barcodescanner.Size: int compareTo(java.lang.Object)>
+<com.journeyapps.barcodescanner.camera.CameraInstance$4: void <init>(com.journeyapps.barcodescanner.camera.CameraInstance)>
+<com.jaredrummler.android.colorpicker.ColorPaletteAdapter$ViewHolder$2: void <init>(com.jaredrummler.android.colorpicker.ColorPaletteAdapter$ViewHolder)>
+<com.github.paolorotolo.appintro.AppIntroBase: void onRestoreInstanceState(android.os.Bundle)>
+<com.journeyapps.barcodescanner.camera.PreviewScalingStrategy: float getScore(com.journeyapps.barcodescanner.Size,com.journeyapps.barcodescanner.Size)>
+<com.github.paolorotolo.appintro.ScrollerCustomDuration: void <init>(android.content.Context,android.view.animation.Interpolator,boolean)>
+<com.journeyapps.barcodescanner.CaptureManager: android.content.Intent resultIntent(com.journeyapps.barcodescanner.BarcodeResult,java.lang.String)>
+<com.jaredrummler.android.colorpicker.AlphaPatternDrawable: int getOpacity()>
+<com.journeyapps.barcodescanner.DecoderThread: void requestNextPreview()>
+<protect.card_locker.DataFormat: protect.card_locker.DataFormat[] values()>
+<protect.card_locker.LoyaltyCardViewActivity: void onResume()>
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration: com.journeyapps.barcodescanner.Size getDesiredPreviewSize(boolean)>
+<com.github.paolorotolo.appintro.IndicatorController: void setUnselectedIndicatorColor(int)>
+<protect.card_locker.DataFormat: void <clinit>()>
+<protect.card_locker.LoyaltyCardEditActivity$4: void onClick(android.content.DialogInterface,int)>
+<com.journeyapps.barcodescanner.CameraPreview: void resume()>
+<com.journeyapps.barcodescanner.camera.FitXYStrategy: float absRatio(float)>
+<com.github.paolorotolo.appintro.AppIntroBase: boolean isProgressButtonEnabled()>
+<com.journeyapps.barcodescanner.BarcodeView$1: boolean handleMessage(android.os.Message)>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager$1: void <init>(com.journeyapps.barcodescanner.camera.AutoFocusManager)>
+<com.journeyapps.barcodescanner.BarcodeEncoder: android.graphics.Bitmap encodeBitmap(java.lang.String,com.google.zxing.BarcodeFormat,int,int)>
+<com.journeyapps.barcodescanner.CameraPreview$4$1: void <init>(com.journeyapps.barcodescanner.CameraPreview$4)>
+<com.github.paolorotolo.appintro.AppIntro2Fragment: com.github.paolorotolo.appintro.AppIntroFragment newInstance(java.lang.CharSequence,java.lang.CharSequence,int,int,int,int)>
+<com.journeyapps.barcodescanner.DecoderResultPointCallback: void setDecoder(com.journeyapps.barcodescanner.Decoder)>
+<com.github.paolorotolo.appintro.AppIntro2: void <init>()>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void <init>(android.content.Context)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: com.journeyapps.barcodescanner.camera.CameraSettings getCameraSettings()>
+<com.github.paolorotolo.appintro.AppIntroFragment: com.github.paolorotolo.appintro.AppIntroFragment newInstance(java.lang.CharSequence,java.lang.CharSequence,int,int,int,int)>
+<com.journeyapps.barcodescanner.CompoundBarcodeView: void <init>(android.content.Context,android.util.AttributeSet,int)>
+<protect.card_locker.MultiFormatExporter: boolean exportData(protect.card_locker.DBHelper,java.io.OutputStreamWriter,protect.card_locker.DataFormat)>
+<com.journeyapps.barcodescanner.camera.CameraThread: void <clinit>()>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$7: void <init>(com.jaredrummler.android.colorpicker.ColorPickerDialog,com.jaredrummler.android.colorpicker.ColorPanelView)>
+<protect.card_locker.ImportExportActivity: void <init>()>
+<protect.card_locker.LoyaltyCardEditActivity: void doSave()>
+<com.journeyapps.barcodescanner.CaptureManager$6: void onCancel(android.content.DialogInterface)>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView: void setTorchListener(com.journeyapps.barcodescanner.DecoratedBarcodeView$TorchListener)>
+<com.jaredrummler.android.colorpicker.ColorPickerView: int getPaddingLeft()>
+<com.github.paolorotolo.appintro.AppIntroBaseFragment: void onSaveInstanceState(android.os.Bundle)>
+<com.journeyapps.barcodescanner.CameraPreview$StateListener: void previewSized()>
+<com.journeyapps.barcodescanner.camera.CameraInstance$3: void <init>(com.journeyapps.barcodescanner.camera.CameraInstance)>
+<com.journeyapps.barcodescanner.camera.DisplayConfiguration: com.journeyapps.barcodescanner.Size getBestPreviewSize(java.util.List,boolean)>
+<com.github.paolorotolo.appintro.AppIntro: void setSeparatorColor(int)>
+<com.journeyapps.barcodescanner.BarcodeView: void pause()>
+<com.journeyapps.barcodescanner.camera.FitXYStrategy: android.graphics.Rect scalePreview(com.journeyapps.barcodescanner.Size,com.journeyapps.barcodescanner.Size)>
+<protect.card_locker.preferences.Settings: int getInt(int,int)>
+<protect.card_locker.MultiFormatExporter$1: void <clinit>()>
+<com.jaredrummler.android.colorpicker.ColorPickerView$OnColorChangedListener: void onColorChanged(int)>
+<com.journeyapps.barcodescanner.CaptureActivity: com.journeyapps.barcodescanner.DecoratedBarcodeView initializeContent()>
+<protect.card_locker.ShortcutHelper$1: int compare(android.content.pm.ShortcutInfo,android.content.pm.ShortcutInfo)>
+<protect.card_locker.ImportURIHelper: boolean isImportUri(android.net.Uri)>
+<com.journeyapps.barcodescanner.ViewfinderView: void drawResultBitmap(android.graphics.Bitmap)>
+<com.journeyapps.barcodescanner.BarcodeResult: java.lang.String getText()>
+<com.github.paolorotolo.appintro.AppIntroBase: void setImmersiveMode(boolean,boolean)>
+<com.journeyapps.barcodescanner.camera.CameraInstance: void startPreview()>
+<com.journeyapps.barcodescanner.ViewfinderView: void drawViewfinder()>
+<com.github.paolorotolo.appintro.AppIntroFragment: com.github.paolorotolo.appintro.AppIntroFragment newInstance(java.lang.CharSequence,java.lang.String,java.lang.CharSequence,java.lang.String,int,int)>
+<com.journeyapps.barcodescanner.CameraPreview$2: void surfaceChanged(android.view.SurfaceHolder,int,int,int)>
+<protect.card_locker.BarcodeImageWriterTask: void <init>(android.widget.ImageView,java.lang.String,com.google.zxing.BarcodeFormat,android.widget.TextView)>
+<com.journeyapps.barcodescanner.Decoder: void <init>(com.google.zxing.Reader)>
+<protect.card_locker.ImportExportActivity$2: void onClick(android.view.View)>
+<protect.card_locker.LoyaltyCardEditActivity$5: void <init>(protect.card_locker.LoyaltyCardEditActivity)>
+<com.journeyapps.barcodescanner.CameraPreview: void setCameraSettings(com.journeyapps.barcodescanner.camera.CameraSettings)>
+<protect.card_locker.CsvDatabaseImporter: void importLoyaltyCard(android.database.sqlite.SQLiteDatabase,protect.card_locker.DBHelper,org.apache.commons.csv.CSVRecord)>
+<com.journeyapps.barcodescanner.BarcodeView: void previewStarted()>
+<com.journeyapps.barcodescanner.camera.CameraSettings$FocusMode: void <clinit>()>
+<com.journeyapps.barcodescanner.CameraPreview$2: void surfaceDestroyed(android.view.SurfaceHolder)>
+<com.journeyapps.barcodescanner.CaptureManager$2: void cameraError(java.lang.Exception)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog$7: void onClick(android.view.View)>
+<protect.card_locker.MainActivity$2: boolean onClose()>
+<com.jaredrummler.android.colorpicker.ColorPaletteAdapter$ViewHolder: void <init>(com.jaredrummler.android.colorpicker.ColorPaletteAdapter,android.content.Context)>
+<com.github.paolorotolo.appintro.ProgressIndicatorController: void initialize(int)>
+<com.journeyapps.barcodescanner.BarcodeView: void decodeSingle(com.journeyapps.barcodescanner.BarcodeCallback)>
+<com.jaredrummler.android.colorpicker.ColorPickerDialog: void setHex(int)>
+<com.journeyapps.barcodescanner.CaptureManager$2: void previewSized()>
+<com.journeyapps.barcodescanner.CameraPreview: void startPreviewIfReady()>
+<com.journeyapps.barcodescanner.CameraPreview: com.journeyapps.barcodescanner.Size getFramingRectSize()>
+<com.journeyapps.barcodescanner.camera.AutoFocusManager: void cancelOutstandingTask()>
+<com.journeyapps.barcodescanner.camera.CameraManager: android.hardware.Camera$Parameters getDefaultCameraParameters()>
+<com.github.paolorotolo.appintro.AppIntroBase: void setImmersiveMode(boolean)>
+<com.journeyapps.barcodescanner.RotationListener: void <init>()>
+<protect.card_locker.ImportExportTask: java.lang.Boolean doInBackground(java.lang.Void[])>
+<com.jaredrummler.android.colorpicker.DrawingUtils: int dpToPx(android.content.Context,float)>
+<com.journeyapps.barcodescanner.camera.CameraSettings: void setRequestedCameraId(int)>
+<com.journeyapps.barcodescanner.CaptureManager$4: void run()>
+<protect.card_locker.ImportExportTask: boolean performImport(java.io.InputStream,protect.card_locker.DBHelper)>
+<com.journeyapps.barcodescanner.BarcodeView: com.journeyapps.barcodescanner.DecoderFactory getDecoderFactory()>
+<com.github.paolorotolo.appintro.AppIntroBase: void showStatusBar(boolean)>
+<com.jaredrummler.android.colorpicker.ColorPanelView: void setUpCenterRect()>
+<com.journeyapps.barcodescanner.DecoratedBarcodeView: android.widget.TextView getStatusView()>
+<com.jaredrummler.android.colorpicker.ColorPaletteAdapter$OnColorSelectedListener: void onColorSelected(int)>
+<com.jaredrummler.android.colorpicker.ColorPanelView: int getColor()>
+<com.journeyapps.barcodescanner.camera.LegacyPreviewScalingStrategy: void <init>()>
+<protect.card_locker.ImportExportActivity: void startImport(java.io.InputStream,android.net.Uri)>

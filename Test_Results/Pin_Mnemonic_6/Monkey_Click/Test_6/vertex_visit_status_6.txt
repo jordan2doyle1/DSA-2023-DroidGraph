@@ -1,0 +1,238 @@
+---------- Controls Visited (25) ----------
+button_seven
+button_six
+button_two
+Unknown
+button_zero
+button_six
+button_seven
+button_four
+button_two
+button_three
+button_reset
+button_five
+Unknown
+button_eight
+button_eight
+button_delete
+button_zero
+practiseButton
+button_done
+button_four
+button_nine
+Unknown
+button_reset
+button_one
+button_delete
+
+---------- Controls Not Visited (87) ----------
+button_one
+button_zero_space_right
+pinHeading
+nav_view
+storyHeading
+Unknown
+numbers
+pin
+button_four_hint
+helpNumpad
+barcodeLogo
+math
+button_two
+button_eight_hint
+button_three
+button_nine
+Unknown
+numbers
+main_content
+main_content
+numpadFrame
+symbolImageView2
+enter_pin
+button_five
+button_nine
+pin_message_enter_pin
+secusoWebsite
+symbolImageView4
+dateHeading
+button_row
+date
+symbolImageView1
+textFieldContributors
+button_zero_hint
+mathHeading
+textFieldAuthor
+button_one_hint
+button_three
+Unknown
+button_zero_space_left
+appName
+word
+show_hint_main_layout
+imageView1
+textFieldVersion
+symbolImageView3
+numbers_show_hint
+Unknown
+enter_pin_fragment
+button_six
+drawer_layout
+button_four
+button_six_hint
+drawer_layout
+Unknown
+button_eight
+button_reset
+button_seven_hint
+button_five_hint
+displayPin
+displayPin
+button_five
+button_delete
+textFieldAffiliation
+githubURL
+Unknown
+Unknown
+button_seven
+pin_message_enter_pin
+button_zero
+nav_view
+wordHeading
+Unknown
+button_two_hint
+drawer_layout
+nav_view
+button_one
+Unknown
+enter_pin_fragment
+Unknown
+symbolRow
+button_nine_hint
+shapeHeading
+button_three_hint
+textFieldAuthorNames
+enter_pin_fragment
+numbers
+
+---------- Methods Visited (83) ----------
+<org.secuso.privacyfriendlypinmnemonic.MainActivity: int getNavigationDrawerID()>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment: void activateDoneButton()>
+<org.secuso.privacyfriendlypinmnemonic.pinhelpers.DrawView: void drawArrowHead(android.graphics.Canvas)>
+<org.secuso.privacyfriendlypinmnemonic.SplashActivity: void <init>()>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment: void onAttach(android.app.Activity)>
+<org.secuso.privacyfriendlypinmnemonic.pinhelpers.DrawView: void onDraw(android.graphics.Canvas)>
+<org.secuso.privacyfriendlypinmnemonic.MainActivity: void <init>()>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment: void onPause()>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.ShowHintFragment: void colorNumpad(int,android.widget.Button)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.ShowHintFragment: void drawArrow(android.widget.Button,android.widget.Button,int,int)>
+<org.secuso.privacyfriendlypinmnemonic.MainActivity: void onCreate(android.os.Bundle)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment: void matchedPin(java.lang.String)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.ShowHintFragment$MnemonicsDialog: void onAttach(android.app.Activity)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.ShowHintFragment$MnemonicsDialog: android.app.Dialog onCreateDialog(android.os.Bundle)>
+<org.secuso.privacyfriendlypinmnemonic.pinhelpers.CheckPin: java.lang.String[] intArrayToStringArray(int[],org.secuso.privacyfriendlypinmnemonic.pinhelpers.WordDictionary)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment$1: void <init>(org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment,int)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.ShowHintFragment$1: void onClick(android.view.View)>
+<org.secuso.privacyfriendlypinmnemonic.BaseActivity: void <init>()>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment$1: void onClick(android.view.View)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment$4: void <init>(org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment)>
+<org.secuso.privacyfriendlypinmnemonic.pinhelpers.CheckPin: java.lang.String[] createYearsArray()>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment$3: void onClick(android.view.View)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment: java.lang.String deletePinDigits(java.lang.String)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.ShowHintFragment: void clickPractiseButton()>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment: void onResume()>
+<org.secuso.privacyfriendlypinmnemonic.pinhelpers.CheckPin: java.lang.String determineWord()>
+<org.secuso.privacyfriendlypinmnemonic.pinhelpers.WordDictionary: void <init>()>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.ShowHintFragment: android.text.SpannableString[] createSetSpannables()>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.ShowHintFragment: void <init>()>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment: void onAttach(android.app.Activity)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.ShowHintFragment$1: void <init>(org.secuso.privacyfriendlypinmnemonic.mnemonic.ShowHintFragment)>
+<org.secuso.privacyfriendlypinmnemonic.MainActivity: void doFirstRun()>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment: void <init>()>
+<org.secuso.privacyfriendlypinmnemonic.SplashActivity: void onCreate(android.os.Bundle)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment: void clickDoneButton()>
+<org.secuso.privacyfriendlypinmnemonic.pinhelpers.CheckPin: java.lang.String determineDate()>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.ShowHintFragment: void onAttach(android.app.Activity)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment$2: void onClick(android.view.View)>
+<org.secuso.privacyfriendlypinmnemonic.MainActivity$WelcomeDialog: void onAttach(android.app.Activity)>
+<org.secuso.privacyfriendlypinmnemonic.BaseActivity: void onPostCreate(android.os.Bundle)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment$3: void onClick(android.view.View)>
+<org.secuso.privacyfriendlypinmnemonic.pinhelpers.WordDictionary: java.lang.String[] getKeyboard(java.lang.String)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment: java.lang.String deletePinDigits(java.lang.String)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment$3: void <init>(org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.ShowHintFragment: void doFirstRun()>
+<org.secuso.privacyfriendlypinmnemonic.BaseActivity: void onCreate(android.os.Bundle)>
+<org.secuso.privacyfriendlypinmnemonic.pinhelpers.WordDictionary: java.lang.String[] getWordDictionary(java.lang.String)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment$2: void <init>(org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment)>
+<org.secuso.privacyfriendlypinmnemonic.MainActivity$1: void <init>(org.secuso.privacyfriendlypinmnemonic.MainActivity)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment: void <init>()>
+<org.secuso.privacyfriendlypinmnemonic.pinhelpers.CheckPin: java.util.List findWords(java.lang.String[],java.lang.String[])>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment$5: void onClick(android.view.View)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment$5: void <init>(org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment)>
+<org.secuso.privacyfriendlypinmnemonic.pinhelpers.DrawView: void <init>(android.content.Context,android.view.View,android.view.View,int,int)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment$1: void <init>(org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment,int)>
+<org.secuso.privacyfriendlypinmnemonic.pinhelpers.WordDictionary: java.lang.String[] getMonths(java.lang.String)>
+<org.secuso.privacyfriendlypinmnemonic.MainActivity$WelcomeDialog: android.app.Dialog onCreateDialog(android.os.Bundle)>
+<org.secuso.privacyfriendlypinmnemonic.pinhelpers.CheckPin: java.util.List mapKeysToWords(java.lang.String[])>
+<org.secuso.privacyfriendlypinmnemonic.MainActivity$WelcomeDialog$1: void <init>(org.secuso.privacyfriendlypinmnemonic.MainActivity$WelcomeDialog)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment: void doFirstRun()>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.ShowHintFragment$MnemonicsDialog: void <init>()>
+<org.secuso.privacyfriendlypinmnemonic.MainActivity$WelcomeDialog: void <init>()>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment: android.text.SpannableString[] createSetSpannables()>
+<org.secuso.privacyfriendlypinmnemonic.pinhelpers.CheckPin: void <init>(java.lang.String,android.content.Context)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.ShowHintFragment$MnemonicsDialog$1: void <init>(org.secuso.privacyfriendlypinmnemonic.mnemonic.ShowHintFragment$MnemonicsDialog)>
+<org.secuso.privacyfriendlypinmnemonic.MainActivity: void onResume()>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment$1: void onClick(android.view.View)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.ShowHintFragment: void assignSymbol(int,android.widget.ImageView)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment: void deactivateDoneButton()>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment$2: void <init>(org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.ShowHintFragment: int[] containsMultiples(int[])>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment: android.text.SpannableString[] createSetSpannables()>
+<org.secuso.privacyfriendlypinmnemonic.pinhelpers.CheckPin: java.lang.String determineCalculation()>
+<org.secuso.privacyfriendlypinmnemonic.BaseActivity: void selectNavigationItem(int)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment$3: void <init>(org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment)>
+<org.secuso.privacyfriendlypinmnemonic.MainActivity: void onPause()>
+<org.secuso.privacyfriendlypinmnemonic.pinhelpers.DrawView: void setStrokeWidth(int)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.ShowHintFragment: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment$6: void <init>(org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment$4: void onClick(android.view.View)>
+<org.secuso.privacyfriendlypinmnemonic.pinhelpers.DrawView: int whichArrow(android.view.View,android.view.View,int,int)>
+
+---------- Methods Not Visited (36) ----------
+<org.secuso.privacyfriendlypinmnemonic.AboutActivity: void onCreate(android.os.Bundle)>
+<org.secuso.privacyfriendlypinmnemonic.BaseActivity: int getNavigationDrawerID()>
+<org.secuso.privacyfriendlypinmnemonic.MainActivity$ResetDialog: void onAttach(android.app.Activity)>
+<org.secuso.privacyfriendlypinmnemonic.MainActivity$ResetDialog$1: void onClick(android.content.DialogInterface,int)>
+<org.secuso.privacyfriendlypinmnemonic.NumberpadActivity: android.text.SpannableString[] createSetSpannables()>
+<org.secuso.privacyfriendlypinmnemonic.MainActivity$ResetDialog$1: void <init>(org.secuso.privacyfriendlypinmnemonic.MainActivity$ResetDialog)>
+<org.secuso.privacyfriendlypinmnemonic.NumberpadActivity: int getNavigationDrawerID()>
+<org.secuso.privacyfriendlypinmnemonic.HelpActivity$HelpFragment: void onCreate(android.os.Bundle)>
+<org.secuso.privacyfriendlypinmnemonic.NumberpadActivity: void onCreate(android.os.Bundle)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment$PracticeDialog$1: void onClick(android.content.DialogInterface,int)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment$PracticeDialog: void onAttach(android.app.Activity)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment$PracticeDialog: void <init>()>
+<org.secuso.privacyfriendlypinmnemonic.BaseActivity: boolean onNavigationItemSelected(android.view.MenuItem)>
+<org.secuso.privacyfriendlypinmnemonic.MainActivity$ResetDialog: void <init>()>
+<org.secuso.privacyfriendlypinmnemonic.HelpActivity: int getNavigationDrawerID()>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.ShowHintFragment$MnemonicsDialog$1: void onClick(android.content.DialogInterface,int)>
+<org.secuso.privacyfriendlypinmnemonic.BaseActivity: void onBackPressed()>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment$PracticeDialog: android.app.Dialog onCreateDialog(android.os.Bundle)>
+<org.secuso.privacyfriendlypinmnemonic.AboutActivity: void <init>()>
+<org.secuso.privacyfriendlypinmnemonic.pinhelpers.DrawView: void setColor(int)>
+<org.secuso.privacyfriendlypinmnemonic.BaseActivity: void callDrawerItem(int)>
+<org.secuso.privacyfriendlypinmnemonic.BaseActivity$1: void <init>(org.secuso.privacyfriendlypinmnemonic.BaseActivity,int)>
+<org.secuso.privacyfriendlypinmnemonic.HelpActivity: void onCreate(android.os.Bundle)>
+<org.secuso.privacyfriendlypinmnemonic.HelpActivity$HelpFragment: void <init>()>
+<org.secuso.privacyfriendlypinmnemonic.HelpActivity: void <init>()>
+<org.secuso.privacyfriendlypinmnemonic.NumberpadActivity: void <init>()>
+<org.secuso.privacyfriendlypinmnemonic.MainActivity$ResetDialog: android.app.Dialog onCreateDialog(android.os.Bundle)>
+<org.secuso.privacyfriendlypinmnemonic.MainActivity: void resetGUI()>
+<org.secuso.privacyfriendlypinmnemonic.BaseActivity$1: void run()>
+<org.secuso.privacyfriendlypinmnemonic.MainActivity$1: void run()>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment$2: void onClick(android.view.View)>
+<org.secuso.privacyfriendlypinmnemonic.BaseActivity: boolean goToNavigationItem(int)>
+<org.secuso.privacyfriendlypinmnemonic.MainActivity$WelcomeDialog$1: void onClick(android.content.DialogInterface,int)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.EnterPinFragment$6: void onClick(android.view.View)>
+<org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment$PracticeDialog$1: void <init>(org.secuso.privacyfriendlypinmnemonic.mnemonic.PractiseFragment$PracticeDialog)>
+<org.secuso.privacyfriendlypinmnemonic.BaseActivity: void createBackStack(android.content.Intent)>

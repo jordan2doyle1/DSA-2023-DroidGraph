@@ -1,0 +1,231 @@
+---------- Controls Visited (1) ----------
+Unknown
+
+---------- Controls Not Visited (50) ----------
+Unknown
+Unknown
+Unknown
+content_frame
+Unknown
+Unknown
+Unknown
+Unknown
+nao_git
+content
+Unknown
+libs
+Unknown
+toolbar
+maticons_page
+Unknown
+Unknown
+credits
+Unknown
+stack_page
+Unknown
+Unknown
+ivan_git
+content_frame
+enrico_gplus
+Unknown
+ivan_gplus
+Unknown
+Unknown
+version
+lucas_page
+Unknown
+Unknown
+Unknown
+Unknown
+toolbar2
+Unknown
+Unknown
+Unknown
+dev
+Unknown
+Unknown
+colorpicker_page
+Unknown
+jedi_git
+sources
+enrico_git
+app_info
+Unknown
+appcompat_page
+
+---------- Methods Visited (44) ----------
+<com.enrico.a.d: int e(int)>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a: void onResume()>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a$6: boolean onPreferenceClick(android.preference.Preference)>
+<com.enrico.earthquake.batterysimplysolid.a: int e(android.content.Context)>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a: void onCreate(android.os.Bundle)>
+<com.enrico.a.c: void a(android.preference.Preference,int,android.app.Activity,android.content.res.Resources)>
+<com.enrico.a.d: int a(android.view.View)>
+<com.enrico.a.g: int a(android.content.Context,int)>
+<com.enrico.earthquake.batterysimplysolid.a: void a(android.app.Activity)>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$1: void run()>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a$1: void <init>(com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a,android.support.v7.app.AppCompatActivity)>
+<com.enrico.earthquake.batterysimplysolid.a: boolean b(android.content.Context)>
+<com.enrico.earthquake.batterysimplysolid.a: boolean a(android.content.Context)>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity: void <init>()>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity: void onCreate(android.os.Bundle)>
+<com.enrico.a.d: int a(android.content.res.Resources)>
+<com.enrico.a.c: void a(android.content.Context,int,int)>
+<com.enrico.earthquake.batterysimplysolid.a: void a(android.support.v7.view.ContextThemeWrapper,android.content.Context)>
+<com.enrico.a.g: android.support.v4.c.a.m a(android.app.Activity,android.graphics.Bitmap,int,int,android.content.res.Resources)>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$2: void <init>(com.enrico.earthquake.batterysimplysolid.PreferenceActivity)>
+<com.enrico.earthquake.batterysimplysolid.b$1: void <init>(android.support.v7.widget.Toolbar,int,android.app.Activity)>
+<com.enrico.a.c: int a(android.content.Context,int)>
+<com.enrico.a.g: void a(android.preference.Preference,android.app.Activity,android.content.res.Resources,int,int)>
+<com.enrico.earthquake.batterysimplysolid.b: void a(android.app.Activity,android.support.v7.widget.Toolbar,int)>
+<com.enrico.a.g$1: void run()>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a: void <init>()>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity: boolean onCreateOptionsMenu(android.view.Menu)>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a$2: void <init>(com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a,android.support.v7.app.AppCompatActivity)>
+<com.enrico.a.g$1: void <init>(android.graphics.Paint)>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a$4: void <init>(com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a,android.support.v7.app.AppCompatActivity)>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a$7: void <init>(com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a)>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a$6: void <init>(com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a,android.preference.PreferenceScreen,android.preference.Preference,android.preference.Preference)>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a: void onPause()>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$1: void <init>(com.enrico.earthquake.batterysimplysolid.PreferenceActivity,android.view.ViewGroup,android.support.v7.widget.Toolbar)>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a: void a(android.preference.PreferenceScreen,android.preference.Preference,android.preference.Preference,android.preference.Preference)>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a$7: void onSharedPreferenceChanged(android.content.SharedPreferences,java.lang.String)>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a$5: void <init>(com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a)>
+<com.enrico.earthquake.batterysimplysolid.b$1: void run()>
+<com.enrico.a.c: int a(int,float)>
+<com.enrico.a.c$1: void <init>(android.app.Activity,int,android.preference.Preference,android.content.res.Resources)>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a$3: void <init>(com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a,android.support.v7.app.AppCompatActivity)>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity: boolean onOptionsItemSelected(android.view.MenuItem)>
+<com.enrico.a.c$1: void run()>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a: void a(com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a,android.preference.PreferenceScreen,android.preference.Preference,android.preference.Preference,android.preference.Preference)>
+
+---------- Methods Not Visited (129) ----------
+<com.enrico.a.c: com.enrico.a.c$a a(com.enrico.a.c)>
+<com.enrico.earthquake.batterysimplysolid.a: void a(android.content.Context,android.graphics.Canvas,int,int)>
+<com.enrico.a.i$3: void onStartTrackingTouch(android.widget.SeekBar)>
+<com.enrico.a.j$4: void <init>(int,android.widget.EditText,android.widget.SeekBar)>
+<com.enrico.a.f: void beforeTextChanged(java.lang.CharSequence,int,int,int)>
+<com.enrico.a.i$4: void onStopTrackingTouch(android.widget.SeekBar)>
+<com.enrico.a.f: void onTextChanged(java.lang.CharSequence,int,int,int)>
+<com.enrico.a.i$4: void onProgressChanged(android.widget.SeekBar,int,boolean)>
+<com.enrico.a.c: android.app.Dialog onCreateDialog(android.os.Bundle)>
+<com.enrico.a.j$1: void <init>(android.widget.EditText[],int)>
+<com.enrico.a.c$2$1: void onClick(android.content.DialogInterface,int)>
+<com.enrico.a.i: void a(android.widget.SeekBar,int)>
+<com.enrico.a.c: int a(int)>
+<com.enrico.a.j: void a(android.app.Activity,java.lang.String,android.widget.EditText)>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a$3: boolean onPreferenceClick(android.preference.Preference)>
+<com.enrico.a.i$4: void <init>(android.widget.SeekBar,android.widget.SeekBar,android.widget.SeekBar,android.app.Activity,android.view.View,android.widget.TextView,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.text.TextWatcher,android.text.TextWatcher)>
+<com.enrico.a.d: java.lang.String a(int)>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a$1: boolean onPreferenceClick(android.preference.Preference)>
+<com.enrico.a.g$2: void <init>(android.graphics.Paint)>
+<com.enrico.earthquake.batterysimplysolid.AboutActivity: boolean onOptionsItemSelected(android.view.MenuItem)>
+<com.enrico.a.i$3: void <init>(android.widget.SeekBar,android.widget.SeekBar,android.widget.SeekBar,android.app.Activity,android.view.View,android.widget.SeekBar,android.widget.EditText,android.widget.EditText,android.text.TextWatcher,android.text.TextWatcher)>
+<com.enrico.a.e: void a(android.widget.EditText,android.widget.EditText,android.text.TextWatcher,android.text.TextWatcher)>
+<com.enrico.a.h: void beforeTextChanged(java.lang.CharSequence,int,int,int)>
+<com.enrico.earthquake.batterysimplysolid.AboutActivity: void a(android.widget.TextView[])>
+<com.enrico.earthquake.batterysimplysolid.a: android.graphics.Typeface c(android.content.Context)>
+<com.enrico.a.g: void a(android.app.Activity,android.content.res.Resources,android.widget.ImageView,java.lang.String,int)>
+<com.enrico.a.j: void a(android.app.Activity,android.view.View,android.widget.TextView,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.SeekBar,android.widget.SeekBar,android.widget.SeekBar,int)>
+<com.enrico.a.j$3: void <init>(android.view.View,int,android.app.Activity,android.widget.TextView,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.EditText)>
+<com.enrico.a.c$2$1: void <init>(com.enrico.a.c$2)>
+<com.enrico.earthquake.batterysimplysolid.LiveWallpaper$a: void onVisibilityChanged(boolean)>
+<com.enrico.a.i$5: void onProgressChanged(android.widget.SeekBar,int,boolean)>
+<com.enrico.earthquake.batterysimplysolid.LiveWallpaper: android.service.wallpaper.WallpaperService$Engine onCreateEngine()>
+<com.enrico.a.i$3: void onProgressChanged(android.widget.SeekBar,int,boolean)>
+<com.enrico.earthquake.batterysimplysolid.AboutActivity: void b(android.widget.TextView[])>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a$2: boolean onPreferenceClick(android.preference.Preference)>
+<com.enrico.a.c$a: void a(android.support.v4.a.q,int)>
+<com.enrico.earthquake.batterysimplysolid.b: void a(android.app.Activity,android.support.v7.widget.Toolbar)>
+<com.enrico.a.b: void afterTextChanged(android.text.Editable)>
+<com.enrico.earthquake.batterysimplysolid.LiveWallpaper$a$1: void <init>(com.enrico.earthquake.batterysimplysolid.LiveWallpaper$a)>
+<com.enrico.a.d: java.lang.String b(int)>
+<com.enrico.earthquake.batterysimplysolid.AboutActivity: void <init>()>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a$4: boolean onPreferenceClick(android.preference.Preference)>
+<com.enrico.a.i$5: void <init>(android.widget.SeekBar,android.widget.SeekBar,android.widget.SeekBar,android.app.Activity,android.view.View,android.widget.TextView,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.text.TextWatcher,android.text.TextWatcher)>
+<com.enrico.a.j: void a(android.app.Activity,android.widget.SeekBar,android.widget.EditText,int)>
+<com.enrico.a.e$1: void onClick(android.view.View)>
+<com.enrico.a.e: void a(android.widget.EditText[])>
+<com.enrico.a.e$1: void <init>(android.widget.EditText)>
+<com.enrico.a.j$4: void run()>
+<com.enrico.earthquake.batterysimplysolid.a: void a(android.content.Context,android.graphics.Paint,float)>
+<com.enrico.a.j$7: void run()>
+<com.enrico.a.d: java.lang.String c(int)>
+<com.enrico.a.j$8: void run()>
+<com.enrico.earthquake.batterysimplysolid.LiveWallpaper$a: void <init>(com.enrico.earthquake.batterysimplysolid.LiveWallpaper)>
+<com.enrico.earthquake.batterysimplysolid.LiveWallpaper$a: void onSurfaceDestroyed(android.view.SurfaceHolder)>
+<com.enrico.earthquake.batterysimplysolid.AboutActivity: void onResume()>
+<com.enrico.a.h: void onTextChanged(java.lang.CharSequence,int,int,int)>
+<com.enrico.a.j: void a(android.app.Activity,android.widget.SeekBar,android.widget.EditText,android.widget.EditText,int)>
+<com.enrico.a.i$6: void onStartTrackingTouch(android.widget.SeekBar)>
+<com.enrico.a.j: void b(android.app.Activity,int,android.widget.EditText[])>
+<com.enrico.a.j$3: void run()>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$a$5: boolean onPreferenceClick(android.preference.Preference)>
+<com.enrico.a.j$6: void <init>(android.view.View,int)>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity$2: boolean onMenuItemClick(android.view.MenuItem)>
+<com.enrico.earthquake.batterysimplysolid.AboutActivity: void onCreate(android.os.Bundle)>
+<com.enrico.a.e: void a(android.text.TextWatcher,android.text.TextWatcher,android.text.TextWatcher,android.text.TextWatcher,android.text.TextWatcher,android.text.TextWatcher,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.EditText)>
+<com.enrico.a.d: java.lang.String d(int)>
+<com.enrico.a.j: void a(android.app.Activity,android.view.View,android.widget.TextView,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.EditText,java.lang.String,java.lang.String,java.lang.String,int)>
+<com.enrico.a.i$4: void onStartTrackingTouch(android.widget.SeekBar)>
+<com.enrico.a.i$5: void onStartTrackingTouch(android.widget.SeekBar)>
+<com.enrico.a.b: void onTextChanged(java.lang.CharSequence,int,int,int)>
+<com.enrico.a.e: void a(android.widget.EditText)>
+<com.enrico.a.j$9: void <init>(android.view.View,int,android.app.Activity,android.widget.TextView,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.SeekBar,android.widget.SeekBar,android.widget.SeekBar)>
+<com.enrico.a.i$1: void run()>
+<com.enrico.earthquake.batterysimplysolid.AboutActivity$1: void <init>(com.enrico.earthquake.batterysimplysolid.AboutActivity,android.support.v7.widget.Toolbar)>
+<com.enrico.earthquake.batterysimplysolid.LiveWallpaper$a: void a(com.enrico.earthquake.batterysimplysolid.LiveWallpaper$a)>
+<com.enrico.a.i$2: void <init>(android.widget.SeekBar)>
+<com.enrico.a.j: void a(android.app.Activity,android.view.View,int)>
+<com.enrico.a.i$6: void onStopTrackingTouch(android.widget.SeekBar)>
+<com.enrico.a.c$2: void run()>
+<com.enrico.a.i: void a(android.widget.SeekBar[])>
+<com.enrico.earthquake.batterysimplysolid.AboutActivity$1: void run()>
+<com.enrico.a.c: void <init>()>
+<com.enrico.earthquake.batterysimplysolid.LiveWallpaper$a: void a()>
+<com.enrico.a.h: void afterTextChanged(android.text.Editable)>
+<com.enrico.a.i: void a(android.app.Activity,android.view.View,android.widget.SeekBar)>
+<com.enrico.a.g$3: void <init>(android.widget.SeekBar,android.app.Activity,android.view.View,android.widget.TextView,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.EditText,int,java.lang.String,java.lang.String)>
+<com.enrico.a.j: void a(android.app.Activity,java.lang.String)>
+<com.enrico.a.j$5: void <init>(int,android.widget.EditText,android.widget.EditText,android.widget.SeekBar)>
+<com.enrico.a.j$1: void run()>
+<com.enrico.a.f: void <init>(android.app.Activity,android.view.View,android.widget.TextView,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.SeekBar,android.widget.SeekBar,android.widget.SeekBar)>
+<com.enrico.a.c: void a(android.support.v7.app.AppCompatActivity,int)>
+<com.enrico.a.i$3: void onStopTrackingTouch(android.widget.SeekBar)>
+<com.enrico.a.j$2: void run()>
+<com.enrico.a.j: void a(android.app.Activity,int,android.widget.EditText[])>
+<com.enrico.earthquake.batterysimplysolid.LiveWallpaper: void <init>()>
+<com.enrico.earthquake.batterysimplysolid.LiveWallpaper$a: void <init>(com.enrico.earthquake.batterysimplysolid.LiveWallpaper,com.enrico.earthquake.batterysimplysolid.LiveWallpaper$1)>
+<com.enrico.a.j$8: void <init>(android.widget.EditText,java.lang.String)>
+<com.enrico.a.h: void <init>(android.app.Activity,android.widget.EditText,android.widget.SeekBar)>
+<com.enrico.a.b: void <init>(android.app.Activity,android.widget.SeekBar,android.widget.EditText,android.widget.EditText)>
+<com.enrico.earthquake.batterysimplysolid.AboutActivity: android.text.Spanned a(java.lang.String,android.widget.TextView[])>
+<com.enrico.a.i: void a(android.app.Activity,android.text.TextWatcher,android.text.TextWatcher,android.text.TextWatcher,android.text.TextWatcher,android.text.TextWatcher,android.text.TextWatcher,int,android.widget.SeekBar,android.widget.SeekBar,android.widget.SeekBar,android.widget.SeekBar,android.view.View,android.widget.TextView,android.widget.TextView,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.EditText)>
+<com.enrico.earthquake.batterysimplysolid.LiveWallpaper$a: void onSurfaceChanged(android.view.SurfaceHolder,int,int,int)>
+<com.enrico.a.i$2: void run()>
+<com.enrico.a.i$6: void onProgressChanged(android.widget.SeekBar,int,boolean)>
+<com.enrico.earthquake.batterysimplysolid.a: java.lang.String d(android.content.Context)>
+<com.enrico.earthquake.batterysimplysolid.LiveWallpaper$a$1: void run()>
+<com.enrico.a.i$5: void onStopTrackingTouch(android.widget.SeekBar)>
+<com.enrico.a.f: void afterTextChanged(android.text.Editable)>
+<com.enrico.a.b: void beforeTextChanged(java.lang.CharSequence,int,int,int)>
+<com.enrico.a.j$5: void run()>
+<com.enrico.a.i$6: void <init>(android.widget.SeekBar,android.widget.SeekBar,android.widget.SeekBar,android.app.Activity,android.view.View,android.widget.TextView,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.text.TextWatcher,android.text.TextWatcher)>
+<com.enrico.a.i: int a(java.lang.String)>
+<com.enrico.a.j: void b(android.app.Activity,int,android.widget.TextView[])>
+<com.enrico.a.j$6: void run()>
+<com.enrico.a.j: void a(android.app.Activity,int,android.widget.TextView[])>
+<com.enrico.a.c$2: void <init>(com.enrico.a.c,android.support.v7.app.AlertDialog$Builder)>
+<com.enrico.a.e: void b(android.widget.EditText,android.widget.EditText,android.text.TextWatcher,android.text.TextWatcher)>
+<com.enrico.a.g$3: void onClick(android.view.View)>
+<com.enrico.a.i$1: void <init>(android.widget.SeekBar)>
+<com.enrico.a.j$9: void run()>
+<com.enrico.earthquake.batterysimplysolid.LiveWallpaper$a: void onDestroy()>
+<com.enrico.a.g: void a(android.app.Activity,android.content.res.Resources,android.view.View,android.widget.TextView,android.widget.TextView,android.widget.SeekBar,android.widget.EditText,android.widget.EditText,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.ImageView[])>
+<com.enrico.a.j$7: void <init>(android.view.View,int,android.app.Activity,android.widget.TextView,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.EditText,java.lang.String,java.lang.String,java.lang.String)>
+<com.enrico.a.g$2: void run()>
+<com.enrico.earthquake.batterysimplysolid.a: void a(android.content.Context,android.graphics.Paint,android.graphics.Paint)>
+<com.enrico.a.j$2: void <init>(android.widget.TextView[],int)>
+<com.enrico.earthquake.batterysimplysolid.a: void a(android.content.Context,android.graphics.Paint,android.graphics.Canvas,java.lang.String,int,android.graphics.Rect)>
+<com.enrico.a.j: void a(android.app.Activity,android.view.View,android.widget.TextView,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.TextView,android.widget.EditText,android.widget.EditText,android.widget.EditText,android.widget.EditText,int)>
+<com.enrico.earthquake.batterysimplysolid.PreferenceActivity: void a(android.support.v4.a.q,int)>

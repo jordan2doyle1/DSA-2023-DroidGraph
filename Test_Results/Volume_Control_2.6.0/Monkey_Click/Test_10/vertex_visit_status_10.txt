@@ -1,0 +1,328 @@
+---------- Controls Visited (4) ----------
+save_button
+Unknown
+new_profile
+Unknown
+
+---------- Controls Not Visited (46) ----------
+notification_widget
+notification_profile_title
+radio_vibrate
+extended_volumes
+Unknown
+notification_widget_profiles
+delete_btn
+notification_slider_item
+radio_ring
+profile_list
+notifications_user_profiles
+title
+volume_slider
+profile_name
+volume_down
+app_icon
+deliver_item
+seek_bar
+vibrate_on_calls
+remove_notification_action
+linearLayout
+notification_slider_item
+volume_sliders
+profile_name
+app_title
+go_to_settings
+deliver_item
+volume_up
+scrollView
+current_value
+profiles_title_id
+Unknown
+vibrate_settings
+root_notification_view
+ringerMode
+Unknown
+rate_app
+vibrate_text
+types_to_show_in_profile
+vibrate_level
+audio_types_holder_title
+active_btn
+radio_silence
+dark_theme_switcher
+levels
+volume_title
+
+---------- Methods Visited (156) ----------
+<com.example.punksta.volumecontrol.MainActivity: void onCreate(android.os.Bundle)>
+<com.example.punksta.volumecontrol.data.SoundProfile: void <init>()>
+<com.example.punksta.volumecontrol.util.DynamicShortcutManager: boolean isPinnedShortcutSupported(android.app.Activity)>
+<com.punksta.apps.libs.VolumeControl: int getLevel(int)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$yVrPLUWnhsTPa91-mJ5NTYUsfRU': void <init>(com.example.punksta.volumecontrol.MainActivity,com.example.punksta.volumecontrol.data.SoundProfile,android.widget.LinearLayout,com.example.punksta.volumecontrol.view.VolumeProfileView)>
+<com.example.punksta.volumecontrol.view.'-$$Lambda$VolumeProfileView$fdbfkoNlyhAPjUDx8AO57GLhaZ0': void <init>(java.lang.Runnable)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$0V16HrynztOWk-OtNJ8NCUPQLgs': void onClick(android.view.View)>
+<com.example.punksta.volumecontrol.MainActivity: void lambda$renderProfile$15$MainActivity(com.example.punksta.volumecontrol.data.SoundProfile,android.view.View)>
+<com.example.punksta.volumecontrol.SoundApplication: com.example.punksta.volumecontrol.model.SoundProfileStorage getSoundProfileStorage(android.content.Context)>
+<com.example.punksta.volumecontrol.model.SoundProfileStorage: void lambda$new$0$SoundProfileStorage(android.content.SharedPreferences,java.lang.String)>
+<com.example.punksta.volumecontrol.view.RingerModeSwitch: void setRingMode(int)>
+<com.example.punksta.volumecontrol.MainActivity: void onStart()>
+<com.example.punksta.volumecontrol.model.SoundProfileStorage: java.lang.String serializeIds(java.util.List)>
+<com.example.punksta.volumecontrol.view.VolumeSliderView: void setMinVolume(int)>
+<com.example.punksta.volumecontrol.EditProfileActivity: void requiredSave()>
+<com.example.punksta.volumecontrol.view.VolumeProfileView: void setOnActivateClickListener(java.lang.Runnable)>
+<com.punksta.apps.libs.VolumeControl$AudioObserver: void onReceive(android.content.Context,android.content.Intent)>
+<com.example.punksta.volumecontrol.view.VolumeSliderView: void init()>
+<com.punksta.apps.libs.VolumeControl$AudioObserver: void <init>(com.punksta.apps.libs.VolumeControl)>
+<com.example.punksta.volumecontrol.util.DNDModeChecker: void showDNDPermissionAlert(android.content.Context)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$uX4uj6nEOgJdnqqC1LpsyGvoiPA': void <init>(com.example.punksta.volumecontrol.MainActivity)>
+<com.example.punksta.volumecontrol.model.SoundProfileStorage: com.example.punksta.volumecontrol.data.SoundProfile[] loadAll()>
+<com.example.punksta.volumecontrol.view.'-$$Lambda$VolumeProfileView$dW3tnuqddQVt1IgsK6a82BnaRyA': void <init>(java.lang.Runnable)>
+<com.example.punksta.volumecontrol.EditProfileActivity: boolean dispatchTouchEvent(android.view.MotionEvent)>
+<com.example.punksta.volumecontrol.data.Settings: void <init>(boolean,boolean,boolean,boolean,java.lang.Integer[])>
+<com.example.punksta.volumecontrol.view.VolumeSliderView$1: void <init>(com.example.punksta.volumecontrol.view.VolumeSliderView)>
+<com.example.punksta.volumecontrol.'-$$Lambda$EditProfileActivity$KnRqhVvkvRU2j6A5lpyYLX76kY4': void <init>(com.example.punksta.volumecontrol.EditProfileActivity)>
+<com.example.punksta.volumecontrol.EditProfileActivity$1: void <init>(com.example.punksta.volumecontrol.EditProfileActivity)>
+<com.example.punksta.volumecontrol.BaseActivity: void setExtendedVolumesEnabled(boolean)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$ggWqVHjqa0Dj1ynmqlu0M3ONjT0': void <init>(com.example.punksta.volumecontrol.MainActivity)>
+<com.punksta.apps.libs.VolumeControl: void setVolumeLevel(int,int)>
+<com.punksta.apps.libs.'-$$Lambda$VolumeControl$AudioObserver$DA7l5XflpKIuqg77tmupBKsoYMA': void <init>(com.punksta.apps.libs.VolumeControl$AudioObserver)>
+<com.example.punksta.volumecontrol.MainActivity: void renderVolumeTypesInNotificationWidget()>
+<com.example.punksta.volumecontrol.EditProfileActivity$1: void beforeTextChanged(java.lang.CharSequence,int,int,int)>
+<com.example.punksta.volumecontrol.MainActivity: android.content.Intent createOpenProfileIntent(android.content.Context,com.example.punksta.volumecontrol.data.SoundProfile)>
+<com.punksta.apps.libs.VolumeControl: void registerVolumeListener(int,com.punksta.apps.libs.VolumeControl$VolumeListener,boolean)>
+<com.example.punksta.volumecontrol.util.KeyboardUtils: void showKeyboard(android.widget.EditText,android.content.Context)>
+<com.example.punksta.volumecontrol.data.Settings: void <clinit>()>
+<com.example.punksta.volumecontrol.view.VolumeSliderView: void setCurrentVolume(int,boolean)>
+<com.example.punksta.volumecontrol.model.SettingsStorage: java.lang.String serializeIds(java.lang.Integer[])>
+<com.example.punksta.volumecontrol.model.'-$$Lambda$SoundProfileStorage$qHn7DFb6cvZumOn8-lgKuxXu9mA': void onSharedPreferenceChanged(android.content.SharedPreferences,java.lang.String)>
+<com.example.punksta.volumecontrol.util.DynamicShortcutManager: java.lang.String profileToShortcutId(com.example.punksta.volumecontrol.data.SoundProfile)>
+<com.example.punksta.volumecontrol.BaseActivity: void onStart()>
+<com.example.punksta.volumecontrol.EditProfileActivity$1: void onTextChanged(java.lang.CharSequence,int,int,int)>
+<com.example.punksta.volumecontrol.view.VolumeProfileView: void <init>(android.content.Context)>
+<com.example.punksta.volumecontrol.util.TestLabUtils: boolean isInTestLab(android.content.Context)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$EtAWrr_kJB-pk7k3Wl7Zw6_oxqE': void <init>(com.example.punksta.volumecontrol.MainActivity,com.example.punksta.volumecontrol.AudioType)>
+<com.example.punksta.volumecontrol.model.SoundProfileStorage: com.example.punksta.volumecontrol.data.SoundProfile deserialize(java.lang.String)>
+<com.example.punksta.volumecontrol.view.VolumeProfileView: void setOnEditClickListener(java.lang.Runnable)>
+<com.punksta.apps.libs.VolumeControl: void unRegisterVolumeListener(int,com.punksta.apps.libs.VolumeControl$VolumeListener)>
+<com.example.punksta.volumecontrol.MainActivity: void lambda$buildUi$9$MainActivity(android.view.View)>
+<com.example.punksta.volumecontrol.model.SettingsStorage: void <init>(android.content.SharedPreferences)>
+<com.example.punksta.volumecontrol.model.SettingsStorage: void <clinit>()>
+<com.example.punksta.volumecontrol.model.SettingsStorage: void save(com.example.punksta.volumecontrol.data.Settings)>
+<com.example.punksta.volumecontrol.model.SettingsStorage: com.example.punksta.volumecontrol.data.Settings settings()>
+<com.example.punksta.volumecontrol.util.DynamicShortcutManager: void setShortcuts(android.app.Activity,com.example.punksta.volumecontrol.data.SoundProfile[])>
+<com.example.punksta.volumecontrol.MainActivity$1: void <init>(com.example.punksta.volumecontrol.MainActivity,int,com.example.punksta.volumecontrol.view.VolumeSliderView)>
+<com.example.punksta.volumecontrol.AudioType: void <init>(int,int,java.lang.Integer)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$iW-XrekJXKontHYnM2toHWCzwws': void <init>(com.example.punksta.volumecontrol.MainActivity,java.util.List)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$ja3DwkDC9tKwTKHKFtHt_es2J10': void <init>(com.example.punksta.volumecontrol.MainActivity)>
+<com.example.punksta.volumecontrol.BaseActivity: boolean isExtendedVolumesEnabled()>
+<com.example.punksta.volumecontrol.model.SoundProfileStorage: com.example.punksta.volumecontrol.data.SoundProfile addProfile(java.lang.String,java.util.Map)>
+<com.example.punksta.volumecontrol.view.RingerModeSwitch$1: void <init>()>
+<com.example.punksta.volumecontrol.MainActivity: void renderProfileItems()>
+<com.example.punksta.volumecontrol.view.VolumeSliderView$1: void onStartTrackingTouch(android.widget.SeekBar)>
+<com.punksta.apps.libs.VolumeControl: int getMaxLevel(int)>
+<com.example.punksta.volumecontrol.util.DynamicShortcutManager: boolean installPinnedShortcut(android.app.Activity,com.example.punksta.volumecontrol.data.SoundProfile)>
+<com.example.punksta.volumecontrol.BaseActivity: void <init>()>
+<com.punksta.apps.libs.VolumeControl$AudioObserver: void <init>(com.punksta.apps.libs.VolumeControl,com.punksta.apps.libs.VolumeControl$1)>
+<com.example.punksta.volumecontrol.MainActivity$TypeListener: void <init>(int)>
+<com.punksta.apps.libs.VolumeControl: int getMinLevel(int)>
+<com.example.punksta.volumecontrol.util.DynamicShortcutManager: android.content.pm.ShortcutInfo createShortcutInfo(android.app.Activity,com.example.punksta.volumecontrol.data.SoundProfile)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$T_WbrqSSW8XOj_SdJKSVr_kq4AI': void <init>(com.example.punksta.volumecontrol.MainActivity)>
+<com.example.punksta.volumecontrol.'-$$Lambda$EditProfileActivity$L9Aq0gmsmic4uAR7taMAa76ZXSM': void <init>(com.example.punksta.volumecontrol.EditProfileActivity,com.example.punksta.volumecontrol.AudioType,com.example.punksta.volumecontrol.view.VolumeSliderView)>
+<com.example.punksta.volumecontrol.SoundApplication: com.punksta.apps.libs.VolumeControl getVolumeControl()>
+<com.example.punksta.volumecontrol.SoundApplication: com.punksta.apps.libs.VolumeControl getVolumeControl(android.content.Context)>
+<com.example.punksta.volumecontrol.model.'-$$Lambda$SoundProfileStorage$qHn7DFb6cvZumOn8-lgKuxXu9mA': void <init>(com.example.punksta.volumecontrol.model.SoundProfileStorage)>
+<com.example.punksta.volumecontrol.view.RingerModeSwitch: void <clinit>()>
+<com.example.punksta.volumecontrol.EditProfileActivity: void buildUi()>
+<com.example.punksta.volumecontrol.MainActivity: void setExtendedVolumesEnabled(boolean)>
+<com.example.punksta.volumecontrol.EditProfileActivity: void onCreate(android.os.Bundle)>
+<com.example.punksta.volumecontrol.util.DNDModeChecker: boolean isDNDPermissionGranted(android.content.Context)>
+<com.example.punksta.volumecontrol.AudioType: java.util.List getAudioTypes(boolean)>
+<com.example.punksta.volumecontrol.SoundApplication: com.example.punksta.volumecontrol.model.SoundProfileStorage getProfileStorage()>
+<com.example.punksta.volumecontrol.BaseActivity: boolean isDarkTheme()>
+<com.example.punksta.volumecontrol.model.SoundProfileStorage: java.lang.String serialize(com.example.punksta.volumecontrol.data.SoundProfile)>
+<com.example.punksta.volumecontrol.AudioType: java.util.List getAudioExtendedTypes()>
+<com.punksta.apps.libs.VolumeControl$AudioObserver: void lambda$new$0$VolumeControl$AudioObserver()>
+<com.punksta.apps.libs.'-$$Lambda$VolumeControl$AudioObserver$DA7l5XflpKIuqg77tmupBKsoYMA': void run()>
+<com.example.punksta.volumecontrol.MainActivity: boolean handleIntent(android.content.Intent)>
+<com.example.punksta.volumecontrol.MainActivity$1: void onChangeIndex(int,int,int)>
+<com.example.punksta.volumecontrol.MainActivity: void renderProfile(com.example.punksta.volumecontrol.data.SoundProfile)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$AEIz25F9yL68UOdX7KSz8D7NOQM': void <init>(com.example.punksta.volumecontrol.MainActivity,com.example.punksta.volumecontrol.data.SoundProfile)>
+<com.example.punksta.volumecontrol.BaseActivity: void onCreate(android.os.Bundle)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$BOiopb57pF8ehRSoG7wRdRT0jZc': void <init>(com.example.punksta.volumecontrol.MainActivity,android.widget.Switch)>
+<com.example.punksta.volumecontrol.MainActivity: void <init>()>
+<com.punksta.apps.libs.VolumeControl$AudioObserver: void update()>
+<com.example.punksta.volumecontrol.MainActivity: void lambda$buildUi$7$MainActivity(android.widget.CompoundButton,boolean)>
+<com.example.punksta.volumecontrol.MainActivity: void onActivityResult(int,int,android.content.Intent)>
+<com.example.punksta.volumecontrol.MainActivity: void onResume()>
+<com.example.punksta.volumecontrol.util.'-$$Lambda$DNDModeChecker$GuyrgvVnc6DDAWdRnwk8zNHOFaU': void <init>(android.content.Context)>
+<com.example.punksta.volumecontrol.EditProfileActivity: android.content.Intent getIntentForEdit(android.content.Context,com.example.punksta.volumecontrol.data.SoundProfile)>
+<com.example.punksta.volumecontrol.SoundApplication: void <init>()>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$uX4uj6nEOgJdnqqC1LpsyGvoiPA': void onCheckedChanged(android.widget.CompoundButton,boolean)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$0V16HrynztOWk-OtNJ8NCUPQLgs': void <init>(com.example.punksta.volumecontrol.MainActivity)>
+<com.example.punksta.volumecontrol.view.VolumeProfileView: void init()>
+<com.example.punksta.volumecontrol.view.VolumeSliderView$1: void onStopTrackingTouch(android.widget.SeekBar)>
+<com.punksta.apps.libs.VolumeControl: boolean isVibrateOnCallsEnabled()>
+<com.example.punksta.volumecontrol.model.SoundProfileStorage: com.example.punksta.volumecontrol.model.SoundProfileStorage getInstance(android.app.Application)>
+<com.example.punksta.volumecontrol.AudioType: void <clinit>()>
+<com.punksta.apps.libs.VolumeControl$AudioObserver: void notifyListeners(java.lang.Integer,int)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$Na7-POc_F_ehG34Uq5UrUcIdnuw': void <init>(com.example.punksta.volumecontrol.MainActivity)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$DAr5Qs2tQmEiD8PH__derMYKsek': void <init>(com.example.punksta.volumecontrol.MainActivity,android.widget.Switch,android.widget.TextView)>
+<com.punksta.apps.libs.VolumeControl: int getRingerMode()>
+<com.example.punksta.volumecontrol.model.SoundProfileStorage: void saveProfile(com.example.punksta.volumecontrol.data.SoundProfile)>
+<com.example.punksta.volumecontrol.view.RingerModeSwitch: void <init>(android.content.Context,android.util.AttributeSet)>
+<com.example.punksta.volumecontrol.EditProfileActivity: void <init>()>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$scDWXl1IqhcVuBgq2e5UuA-i-Xo': void <init>(com.example.punksta.volumecontrol.MainActivity)>
+<com.example.punksta.volumecontrol.model.SoundProfileStorage: void <init>(android.content.SharedPreferences)>
+<com.example.punksta.volumecontrol.view.VolumeSliderView: void updateProgressText(int)>
+<com.example.punksta.volumecontrol.model.SoundProfileStorage: com.example.punksta.volumecontrol.data.SoundProfile loadById(int)>
+<com.example.punksta.volumecontrol.view.VolumeSliderView: void setMaxVolume(int)>
+<com.example.punksta.volumecontrol.data.Settings: void <init>()>
+<com.example.punksta.volumecontrol.SoundApplication: com.example.punksta.volumecontrol.model.SettingsStorage getSettingsStorage()>
+<com.example.punksta.volumecontrol.model.SettingsStorage: java.lang.Integer[] deserializeIds(java.lang.String)>
+<com.example.punksta.volumecontrol.BaseActivity: boolean isNotificationWidgetEnabled()>
+<com.example.punksta.volumecontrol.EditProfileActivity: void lambda$buildUi$1$EditProfileActivity(android.view.View)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$EtAWrr_kJB-pk7k3Wl7Zw6_oxqE': void onChange(int,boolean)>
+<com.punksta.apps.libs.VolumeControl: void <init>(android.content.Context,android.os.Handler)>
+<com.example.punksta.volumecontrol.MainActivity: void lambda$renderProfileItems$4$MainActivity(com.example.punksta.volumecontrol.AudioType,int,boolean)>
+<com.example.punksta.volumecontrol.MainActivity: void renderProfiles()>
+<com.example.punksta.volumecontrol.SoundApplication: com.example.punksta.volumecontrol.model.SettingsStorage getSettingsStorage(android.content.Context)>
+<com.example.punksta.volumecontrol.view.VolumeSliderView$1: void onProgressChanged(android.widget.SeekBar,int,boolean)>
+<com.example.punksta.volumecontrol.MainActivity: void buildUi()>
+<com.example.punksta.volumecontrol.model.SoundProfileStorage: void loadIds()>
+<com.example.punksta.volumecontrol.model.SoundProfileStorage: java.util.List deserializeIds(java.lang.String)>
+<com.example.punksta.volumecontrol.MainActivity: void requireChangeVolume(com.example.punksta.volumecontrol.AudioType,int)>
+<com.example.punksta.volumecontrol.EditProfileActivity$1: void afterTextChanged(android.text.Editable)>
+<com.example.punksta.volumecontrol.view.VolumeSliderView: void setVolumeName(java.lang.CharSequence)>
+<com.example.punksta.volumecontrol.MainActivity: void onStop()>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$MoKcosaWM7CzeST6ahSZQT7ynjg': void onClick(android.view.View)>
+<com.example.punksta.volumecontrol.view.VolumeProfileView: void setProfileTitle(java.lang.CharSequence)>
+<com.example.punksta.volumecontrol.MainActivity: void updateVibrateOnCalls()>
+<com.example.punksta.volumecontrol.'-$$Lambda$EditProfileActivity$KnRqhVvkvRU2j6A5lpyYLX76kY4': void onClick(android.view.View)>
+<com.example.punksta.volumecontrol.SoundApplication: void attachBaseContext(android.content.Context)>
+<com.example.punksta.volumecontrol.view.VolumeSliderView: void setListener(com.example.punksta.volumecontrol.view.VolumeSliderView$VolumeSliderChangeListener)>
+<com.example.punksta.volumecontrol.view.VolumeSliderView: void <init>(android.content.Context)>
+<com.example.punksta.volumecontrol.'-$$Lambda$EditProfileActivity$L9Aq0gmsmic4uAR7taMAa76ZXSM': void onChange(int,boolean)>
+<com.example.punksta.volumecontrol.EditProfileActivity: void lambda$buildUi$0$EditProfileActivity(com.example.punksta.volumecontrol.AudioType,com.example.punksta.volumecontrol.view.VolumeSliderView,int,boolean)>
+<com.example.punksta.volumecontrol.view.VolumeSliderView: void setCurrentVolume(int)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$MoKcosaWM7CzeST6ahSZQT7ynjg': void <init>(com.example.punksta.volumecontrol.MainActivity,com.example.punksta.volumecontrol.data.SoundProfile)>
+<com.punksta.apps.libs.VolumeControl: void addOnRingerModeListener(com.punksta.apps.libs.VolumeControl$RingerModeChangeListener)>
+<com.punksta.apps.libs.VolumeControl: android.content.Context getContext()>
+<com.example.punksta.volumecontrol.view.RingerModeSwitch: void init()>
+<com.example.punksta.volumecontrol.AudioType: void <init>(int,int)>
+<com.example.punksta.volumecontrol.MainActivity: void onSaveInstanceState(android.os.Bundle)>
+
+---------- Methods Not Visited (115) ----------
+<com.example.punksta.volumecontrol.SoundService: android.content.Intent getIntentForProfile(android.content.Context,com.example.punksta.volumecontrol.data.SoundProfile)>
+<com.example.punksta.volumecontrol.util.IntentHelper: void <init>()>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$DAr5Qs2tQmEiD8PH__derMYKsek': void onCheckedChanged(android.widget.CompoundButton,boolean)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$scDWXl1IqhcVuBgq2e5UuA-i-Xo': void onCheckedChanged(android.widget.CompoundButton,boolean)>
+<com.example.punksta.volumecontrol.SoundService: android.widget.RemoteViews buildVolumeSlider(android.content.Context,com.punksta.apps.libs.VolumeControl,int,java.lang.String)>
+<com.example.punksta.volumecontrol.SoundService: void lambda$new$0$SoundService(int,int,int)>
+<com.example.punksta.volumecontrol.BaseActivity: void setNotificationWidgetEnabled(boolean)>
+<com.example.punksta.volumecontrol.view.RingerModeSwitch$OnRingModeSliderChangeListener: void onChange(int)>
+<com.example.punksta.volumecontrol.util.NotificationWidgetUpdateTracker: int calculateHashCode(com.punksta.apps.libs.VolumeControl,java.util.List,com.example.punksta.volumecontrol.data.SoundProfile[])>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$kJBjUS4YB--eRIb33x6p7XIVcTo': void onClick(android.content.DialogInterface,int)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$iW-XrekJXKontHYnM2toHWCzwws': void onClick(android.view.View)>
+<com.example.punksta.volumecontrol.util.ProfileApplier: void applyProfile(com.punksta.apps.libs.VolumeControl,com.example.punksta.volumecontrol.data.SoundProfile)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$T_WbrqSSW8XOj_SdJKSVr_kq4AI': void onCheckedChanged(android.widget.CompoundButton,boolean)>
+<com.example.punksta.volumecontrol.util.NotificationWidgetUpdateTracker: void <init>()>
+<com.example.punksta.volumecontrol.view.VolumeProfileView: void <init>(android.content.Context,android.util.AttributeSet,int)>
+<com.example.punksta.volumecontrol.util.DynamicShortcutManager: void <init>()>
+<com.example.punksta.volumecontrol.view.VolumeSliderView: void <init>(android.content.Context,android.util.AttributeSet)>
+<com.example.punksta.volumecontrol.'-$$Lambda$SoundService$IXUeSt53GST13OhY20YoEc2nlL0': void <init>(com.example.punksta.volumecontrol.SoundService)>
+<com.example.punksta.volumecontrol.data.SoundProfile: boolean equals(java.lang.Object)>
+<com.example.punksta.volumecontrol.util.WritePermissionChecker: void <init>()>
+<com.example.punksta.volumecontrol.MainActivity: void onDestroy()>
+<com.example.punksta.volumecontrol.data.SoundProfile: int hashCode()>
+<com.example.punksta.volumecontrol.view.VolumeSliderView: void <init>(android.content.Context,android.util.AttributeSet,int,int)>
+<com.example.punksta.volumecontrol.MainActivity: void lambda$renderVolumeTypesInNotificationWidget$2$MainActivity(java.util.List,android.content.DialogInterface,int)>
+<com.example.punksta.volumecontrol.BaseActivity: void setNotificationProfiles(boolean)>
+<com.example.punksta.volumecontrol.model.SoundProfileStorage: void addListener(com.example.punksta.volumecontrol.model.SoundProfileStorage$Listener)>
+<com.example.punksta.volumecontrol.MainActivity: void lambda$new$0$MainActivity(int)>
+<com.example.punksta.volumecontrol.MainActivity: void lambda$buildUi$8$MainActivity(android.view.View)>
+<com.example.punksta.volumecontrol.AudioType: java.util.List getNotificationTypes()>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$AEIz25F9yL68UOdX7KSz8D7NOQM': void run()>
+<com.example.punksta.volumecontrol.MainActivity: void startSoundService()>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$ZZJfDHSrHVK4S8wS8qvlwZlNJlY': void onClick(android.content.DialogInterface,int,boolean)>
+<com.example.punksta.volumecontrol.SoundService: void registerListeners(java.util.List)>
+<com.example.punksta.volumecontrol.model.SoundProfileStorage: void removeProfile(int)>
+<com.example.punksta.volumecontrol.util.IntentHelper: void goToVolumeSettings(android.app.Activity)>
+<com.example.punksta.volumecontrol.SoundService: android.content.Intent getIntentForForeground(android.content.Context,com.example.punksta.volumecontrol.data.Settings)>
+<com.example.punksta.volumecontrol.SoundService: java.lang.String capitalize(java.lang.String)>
+<com.example.punksta.volumecontrol.MainActivity: void lambda$buildUi$12$MainActivity(android.widget.Switch,android.widget.CompoundButton,boolean)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$ggWqVHjqa0Dj1ynmqlu0M3ONjT0': void onChange(int)>
+<com.example.punksta.volumecontrol.view.VolumeSliderView$VolumeSliderChangeListener: void onChange(int,boolean)>
+<com.example.punksta.volumecontrol.util.DynamicShortcutManager: void removeShortcut(android.app.Activity,com.example.punksta.volumecontrol.data.SoundProfile)>
+<com.example.punksta.volumecontrol.BootReceiver: void <init>()>
+<com.example.punksta.volumecontrol.EditProfileActivity: void onSaveInstanceState(android.os.Bundle)>
+<com.example.punksta.volumecontrol.'-$$Lambda$SoundService$IXUeSt53GST13OhY20YoEc2nlL0': void onStorageChanged()>
+<com.example.punksta.volumecontrol.view.VolumeProfileView: void <init>(android.content.Context,android.util.AttributeSet)>
+<com.example.punksta.volumecontrol.MainActivity: void lambda$buildUi$5$MainActivity(android.widget.CompoundButton,boolean)>
+<com.example.punksta.volumecontrol.'-$$Lambda$SoundService$lk66ct3WjG5z9KSGb1XVdM2Dfv0': void onChangeIndex(int,int,int)>
+<com.example.punksta.volumecontrol.SoundService: android.content.Intent getStopIntent(android.content.Context)>
+<com.example.punksta.volumecontrol.MainActivity: void onSaveInstanceState(android.os.Bundle,android.os.PersistableBundle)>
+<com.example.punksta.volumecontrol.MainActivity: void lambda$renderProfile$14$MainActivity(com.example.punksta.volumecontrol.data.SoundProfile,android.widget.LinearLayout,com.example.punksta.volumecontrol.view.VolumeProfileView)>
+<com.example.punksta.volumecontrol.SoundService: android.os.IBinder onBind(android.content.Intent)>
+<com.example.punksta.volumecontrol.SoundService: void onCreate()>
+<com.example.punksta.volumecontrol.model.SoundProfileStorage$Listener: void onStorageChanged()>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$BOiopb57pF8ehRSoG7wRdRT0jZc': void onCheckedChanged(android.widget.CompoundButton,boolean)>
+<com.example.punksta.volumecontrol.view.RingerModeSwitch: void <init>(android.content.Context,android.util.AttributeSet,int)>
+<com.example.punksta.volumecontrol.view.VolumeProfileView: void lambda$setOnEditClickListener$0(java.lang.Runnable,android.view.View)>
+<com.example.punksta.volumecontrol.util.IntentHelper: void goToMarket(android.app.Activity)>
+<com.example.punksta.volumecontrol.SoundService: void updateNotification(boolean,boolean)>
+<com.example.punksta.volumecontrol.SoundService: void stop(int)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$kJBjUS4YB--eRIb33x6p7XIVcTo': void <init>(com.example.punksta.volumecontrol.MainActivity,java.util.List)>
+<com.example.punksta.volumecontrol.util.'-$$Lambda$DNDModeChecker$GuyrgvVnc6DDAWdRnwk8zNHOFaU': void onClick(android.content.DialogInterface,int)>
+<com.example.punksta.volumecontrol.view.VolumeProfileView: void lambda$setOnActivateClickListener$1(java.lang.Runnable,android.view.View)>
+<com.example.punksta.volumecontrol.util.ProfileApplier: void <init>()>
+<com.example.punksta.volumecontrol.MainActivity: void onNewIntent(android.content.Intent)>
+<com.example.punksta.volumecontrol.MainActivity: void lambda$renderProfile$13$MainActivity(com.example.punksta.volumecontrol.data.SoundProfile)>
+<com.example.punksta.volumecontrol.BootReceiver: void onReceive(android.content.Context,android.content.Intent)>
+<com.example.punksta.volumecontrol.MainActivity: void stopSoundService()>
+<com.example.punksta.volumecontrol.model.SoundProfileStorage: com.example.punksta.volumecontrol.data.SoundProfile getInstance(android.content.Context)>
+<com.punksta.apps.libs.VolumeControl: void setVibrateOnCalls(boolean)>
+<com.example.punksta.volumecontrol.SoundService: void startForeground()>
+<com.example.punksta.volumecontrol.BaseActivity: void recreateActivity()>
+<com.example.punksta.volumecontrol.view.'-$$Lambda$VolumeProfileView$fdbfkoNlyhAPjUDx8AO57GLhaZ0': void onClick(android.view.View)>
+<com.example.punksta.volumecontrol.MainActivity: void lambda$buildUi$10$MainActivity(android.widget.CompoundButton,boolean)>
+<com.example.punksta.volumecontrol.BaseActivity: void setVolumeTypesToShowInWidget(java.lang.Integer[])>
+<com.punksta.apps.libs.VolumeControl$VolumeListener: void onChangeIndex(int,int,int)>
+<com.example.punksta.volumecontrol.BootReceiver: void <clinit>()>
+<com.example.punksta.volumecontrol.util.KeyboardUtils: void <init>()>
+<com.example.punksta.volumecontrol.view.RingerModeSwitch: void <init>(android.content.Context,android.util.AttributeSet,int,int)>
+<com.example.punksta.volumecontrol.SoundService: void <clinit>()>
+<com.example.punksta.volumecontrol.util.NotificationWidgetUpdateTracker: void onNotificationShow(com.punksta.apps.libs.VolumeControl,java.util.List,com.example.punksta.volumecontrol.data.SoundProfile[])>
+<com.example.punksta.volumecontrol.'-$$Lambda$SoundService$lk66ct3WjG5z9KSGb1XVdM2Dfv0': void <init>(com.example.punksta.volumecontrol.SoundService)>
+<com.example.punksta.volumecontrol.MainActivity: void lambda$buildUi$6$MainActivity(android.view.View)>
+<com.example.punksta.volumecontrol.SoundService: void lambda$IXUeSt53GST13OhY20YoEc2nlL0(com.example.punksta.volumecontrol.SoundService)>
+<com.example.punksta.volumecontrol.SoundService: void <init>()>
+<com.example.punksta.volumecontrol.model.SoundProfileStorage: void removeListener(com.example.punksta.volumecontrol.model.SoundProfileStorage$Listener)>
+<com.example.punksta.volumecontrol.BaseActivity: void setThemeAndRecreate(boolean)>
+<com.example.punksta.volumecontrol.SoundService: void updateNotification()>
+<com.example.punksta.volumecontrol.SoundService: void createStaticNotificationChannel()>
+<com.example.punksta.volumecontrol.SoundService: void onDestroy()>
+<com.example.punksta.volumecontrol.SoundService: android.content.Intent setVolumeIntent(android.content.Context,int,int)>
+<com.example.punksta.volumecontrol.view.'-$$Lambda$RingerModeSwitch$Xt28ciBdEJjYdDSgsWoKG7snzfA': void <init>(com.example.punksta.volumecontrol.view.RingerModeSwitch$OnRingModeSliderChangeListener)>
+<com.example.punksta.volumecontrol.view.VolumeProfileView: void <init>(android.content.Context,android.util.AttributeSet,int,int)>
+<com.example.punksta.volumecontrol.view.RingerModeSwitch: void lambda$setRingSwitcher$0(com.example.punksta.volumecontrol.view.RingerModeSwitch$OnRingModeSliderChangeListener,android.widget.RadioGroup,int)>
+<com.example.punksta.volumecontrol.SoundService: android.content.Intent setVolumeByDeltaIntent(android.content.Context,int,float)>
+<com.example.punksta.volumecontrol.util.NotificationWidgetUpdateTracker: boolean shouldShow(com.punksta.apps.libs.VolumeControl,java.util.List,com.example.punksta.volumecontrol.data.SoundProfile[])>
+<com.example.punksta.volumecontrol.view.'-$$Lambda$RingerModeSwitch$Xt28ciBdEJjYdDSgsWoKG7snzfA': void onCheckedChanged(android.widget.RadioGroup,int)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$yVrPLUWnhsTPa91-mJ5NTYUsfRU': void run()>
+<com.example.punksta.volumecontrol.view.RingerModeSwitch: void <init>(android.content.Context)>
+<$r8$backportedMethods$utility$Objects$2$equals: boolean equals(java.lang.Object,java.lang.Object)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$ZZJfDHSrHVK4S8wS8qvlwZlNJlY': void <init>(java.util.List,java.util.List)>
+<com.example.punksta.volumecontrol.util.WritePermissionChecker: boolean checkWriteSettingsPermission(android.app.Activity,int)>
+<com.example.punksta.volumecontrol.util.DNDModeChecker: void lambda$showDNDPermissionAlert$0(android.content.Context,android.content.DialogInterface,int)>
+<com.example.punksta.volumecontrol.SoundService: android.app.Notification buildForegroundNotification(android.content.Context,com.example.punksta.volumecontrol.data.SoundProfile[],com.punksta.apps.libs.VolumeControl,java.util.List)>
+<com.example.punksta.volumecontrol.MainActivity: void recreateActivity()>
+<com.example.punksta.volumecontrol.MainActivity: void lambda$buildUi$11$MainActivity(android.widget.Switch,android.widget.TextView,android.widget.CompoundButton,boolean)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$ja3DwkDC9tKwTKHKFtHt_es2J10': void onClick(android.view.View)>
+<com.example.punksta.volumecontrol.util.TestLabUtils: void <init>()>
+<com.example.punksta.volumecontrol.MainActivity: void lambda$renderVolumeTypesInNotificationWidget$1(java.util.List,java.util.List,android.content.DialogInterface,int,boolean)>
+<com.example.punksta.volumecontrol.view.VolumeSliderView: void <init>(android.content.Context,android.util.AttributeSet,int)>
+<com.example.punksta.volumecontrol.MainActivity: void lambda$renderVolumeTypesInNotificationWidget$3$MainActivity(java.util.List,android.view.View)>
+<com.example.punksta.volumecontrol.view.'-$$Lambda$VolumeProfileView$dW3tnuqddQVt1IgsK6a82BnaRyA': void onClick(android.view.View)>
+<com.example.punksta.volumecontrol.util.DNDModeChecker: void <init>()>
+<com.example.punksta.volumecontrol.SoundService: int onStartCommand(android.content.Intent,int,int)>
+<com.example.punksta.volumecontrol.view.RingerModeSwitch: void setRingSwitcher(com.example.punksta.volumecontrol.view.RingerModeSwitch$OnRingModeSliderChangeListener)>
+<com.example.punksta.volumecontrol.'-$$Lambda$MainActivity$Na7-POc_F_ehG34Uq5UrUcIdnuw': void onClick(android.view.View)>
